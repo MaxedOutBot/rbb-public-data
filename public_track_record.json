@@ -1,0 +1,245 @@
+{
+  "graded_picks": [
+    {
+      "date": "2026-06-28",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-06-28",
+      "sport": "MLB",
+      "result": "L",
+      "units": 1.0
+    },
+    {
+      "date": "2026-06-29",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-06-29",
+      "sport": "MLB",
+      "result": "L",
+      "units": 1.0
+    },
+    {
+      "date": "2026-06-30",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-06-30",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-06-30",
+      "sport": "MLB",
+      "result": "L",
+      "units": 1.0
+    },
+    {
+      "date": "2026-06-30",
+      "sport": "MLB",
+      "result": "L",
+      "units": 3.0
+    },
+    {
+      "date": "2026-06-30",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-06-30",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-06-30",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-06-30",
+      "sport": "MLB",
+      "result": "L",
+      "units": 1.0
+    },
+    {
+      "date": "2026-06-30",
+      "sport": "MLB",
+      "result": "L",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-01",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-01",
+      "sport": "MLB",
+      "result": "L",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-01",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-01",
+      "sport": "MLB",
+      "result": "L",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-01",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-01",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-01",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-01",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-02",
+      "sport": "MLB",
+      "result": "L",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-02",
+      "sport": "MLB",
+      "result": "L",
+      "units": 3.0
+    },
+    {
+      "date": "2026-07-02",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-02",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-02",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-02",
+      "sport": "MLB",
+      "result": "L",
+      "units": 3.0
+    },
+    {
+      "date": "2026-07-02",
+      "sport": "MLB",
+      "result": "L",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-03",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-03",
+      "sport": "MLB",
+      "result": "L",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-03",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-03",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-03",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-03",
+      "sport": "MLB",
+      "result": "L",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-04",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-04",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-04",
+      "sport": "MLB",
+      "result": "W",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-04",
+      "sport": "MLB",
+      "result": "L",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-04",
+      "sport": "MLB",
+      "result": "L",
+      "units": 1.0
+    },
+    {
+      "date": "2026-07-04",
+      "sport": "MLB",
+      "result": "L",
+      "units": 1.0
+    }
+  ],
+  "total": 40
+}
