@@ -1,245 +1,322 @@
-{
-  "graded_picks": [
-    {
-      "date": "2026-06-28",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-06-28",
-      "sport": "MLB",
-      "result": "L",
-      "units": 1.0
-    },
-    {
-      "date": "2026-06-29",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-06-29",
-      "sport": "MLB",
-      "result": "L",
-      "units": 1.0
-    },
-    {
-      "date": "2026-06-30",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-06-30",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-06-30",
-      "sport": "MLB",
-      "result": "L",
-      "units": 1.0
-    },
-    {
-      "date": "2026-06-30",
-      "sport": "MLB",
-      "result": "L",
-      "units": 3.0
-    },
-    {
-      "date": "2026-06-30",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-06-30",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-06-30",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-06-30",
-      "sport": "MLB",
-      "result": "L",
-      "units": 1.0
-    },
-    {
-      "date": "2026-06-30",
-      "sport": "MLB",
-      "result": "L",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-01",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-01",
-      "sport": "MLB",
-      "result": "L",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-01",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-01",
-      "sport": "MLB",
-      "result": "L",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-01",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-01",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-01",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-01",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-02",
-      "sport": "MLB",
-      "result": "L",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-02",
-      "sport": "MLB",
-      "result": "L",
-      "units": 3.0
-    },
-    {
-      "date": "2026-07-02",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-02",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-02",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-02",
-      "sport": "MLB",
-      "result": "L",
-      "units": 3.0
-    },
-    {
-      "date": "2026-07-02",
-      "sport": "MLB",
-      "result": "L",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-03",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-03",
-      "sport": "MLB",
-      "result": "L",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-03",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-03",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-03",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-03",
-      "sport": "MLB",
-      "result": "L",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-04",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-04",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-04",
-      "sport": "MLB",
-      "result": "W",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-04",
-      "sport": "MLB",
-      "result": "L",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-04",
-      "sport": "MLB",
-      "result": "L",
-      "units": 1.0
-    },
-    {
-      "date": "2026-07-04",
-      "sport": "MLB",
-      "result": "L",
-      "units": 1.0
-    }
-  ],
-  "total": 40
-}
+[
+  {
+    "date": "2026-06-28",
+    "sport": "MLB",
+    "bet": "Under 7.6",
+    "odds": "104",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-06-28",
+    "sport": "MLB",
+    "bet": "Under 8.6",
+    "odds": "-105",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-06-29",
+    "sport": "MLB",
+    "bet": "Under 7.6",
+    "odds": "-105",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-06-29",
+    "sport": "MLB",
+    "bet": "Under 9.0",
+    "odds": "-106",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-06-30",
+    "sport": "MLB",
+    "bet": "Under 7.6",
+    "odds": "-107",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-06-30",
+    "sport": "MLB",
+    "bet": "Under 11.7",
+    "odds": "-114",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-06-30",
+    "sport": "MLB",
+    "bet": "Under 9.0",
+    "odds": "-109",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-06-30",
+    "sport": "MLB",
+    "bet": "Over 10.5",
+    "odds": "-114",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-06-30",
+    "sport": "MLB",
+    "bet": "Under 7.1",
+    "odds": "100",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-06-30",
+    "sport": "MLB",
+    "bet": "Under 11.4",
+    "odds": "-116",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-06-30",
+    "sport": "MLB",
+    "bet": "Under 9.0",
+    "odds": "-112",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-06-30",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-113",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-06-30",
+    "sport": "MLB",
+    "bet": "Under 8.7",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-01",
+    "sport": "MLB",
+    "bet": "Under 7.0",
+    "odds": "101",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-01",
+    "sport": "MLB",
+    "bet": "Under 9.0",
+    "odds": "-118",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-01",
+    "sport": "MLB",
+    "bet": "Under 11.0",
+    "odds": "-106",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-01",
+    "sport": "MLB",
+    "bet": "Under 9.5",
+    "odds": "-114",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-01",
+    "sport": "MLB",
+    "bet": "Under 10.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-01",
+    "sport": "MLB",
+    "bet": "Under 9.0",
+    "odds": "-106",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-01",
+    "sport": "MLB",
+    "bet": "Under 10.9",
+    "odds": "-115",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-01",
+    "sport": "MLB",
+    "bet": "Under 9.0",
+    "odds": "-112",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "bet": "Under 9.5",
+    "odds": "-114",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "bet": "Over 11.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "bet": "Under 7.5",
+    "odds": "102",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-117",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "bet": "Under 10.5",
+    "odds": "-113",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "bet": "Over 12.5",
+    "odds": "-113",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-112",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-03",
+    "sport": "MLB",
+    "bet": "Under 7.5",
+    "odds": "103",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-03",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-106",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-03",
+    "sport": "MLB",
+    "bet": "Under 7.5",
+    "odds": "-105",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-03",
+    "sport": "MLB",
+    "bet": "Under 9.5",
+    "odds": "-116",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-03",
+    "sport": "MLB",
+    "bet": "Under 7.5",
+    "odds": "-108",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-03",
+    "sport": "MLB",
+    "bet": "Under 9.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-04",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-112",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-04",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-112",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-04",
+    "sport": "MLB",
+    "bet": "Under 7.5",
+    "odds": "-108",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-04",
+    "sport": "MLB",
+    "bet": "Under 9.5",
+    "odds": "-115",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-04",
+    "sport": "MLB",
+    "bet": "Under 7.5",
+    "odds": "-105",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-04",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-109",
+    "result": "L",
+    "units": 1.0
+  }
+]
