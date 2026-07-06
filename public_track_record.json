@@ -358,5 +358,21 @@
     "odds": "-117",
     "result": "W",
     "units": 1.0
+  },
+  {
+    "date": "2026-07-06",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-107",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-06",
+    "sport": "MLB",
+    "bet": "Under 9.5",
+    "odds": "-111",
+    "result": "L",
+    "units": 1.0
   }
 ]
