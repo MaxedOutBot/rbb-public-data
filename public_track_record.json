@@ -494,5 +494,29 @@
     "odds": "-110",
     "result": "L",
     "units": 1.0
+  },
+  {
+    "date": "2026-07-09",
+    "sport": "MLB",
+    "bet": "Under 9.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-09",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-09",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.0
   }
 ]
