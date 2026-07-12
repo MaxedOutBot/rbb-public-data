@@ -32,6 +32,14 @@
     "units": 1.0
   },
   {
+    "date": "2026-06-29",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
+  },
+  {
     "date": "2026-06-30",
     "sport": "MLB",
     "bet": "Under 7.6",
@@ -149,6 +157,14 @@
     "bet": "Under 10.9",
     "odds": "-110",
     "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-01",
+    "sport": "MLB",
+    "bet": "Under 8.6",
+    "odds": "-110",
+    "result": "L",
     "units": 1.0
   },
   {
@@ -614,5 +630,69 @@
     "odds": "-110",
     "result": "W",
     "units": 1.0
+  },
+  {
+    "date": "2026-07-12",
+    "sport": "MLB",
+    "bet": "Under 7.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-12",
+    "sport": "MLB",
+    "bet": "Under 9.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-12",
+    "sport": "MLB",
+    "bet": "Under 7.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-12",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-12",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-12",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-12",
+    "sport": "MLB",
+    "bet": "San Francisco Giants -1.5",
+    "odds": "135",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-07-12",
+    "sport": "MLB",
+    "bet": "Toronto Blue Jays -1.5",
+    "odds": "129",
+    "result": "L",
+    "units": 3.0
   }
 ]
