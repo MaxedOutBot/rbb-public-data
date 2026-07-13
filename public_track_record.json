@@ -36,6 +36,30 @@
     "sport": "MLB",
     "bet": "Under 8.5",
     "odds": "-110",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-06-29",
+    "sport": "MLB",
+    "bet": "Under 7.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-06-29",
+    "sport": "MLB",
+    "bet": "Under 11.0",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-06-29",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-110",
     "result": "W",
     "units": 1.0
   },
@@ -98,9 +122,25 @@
   {
     "date": "2026-06-30",
     "sport": "MLB",
+    "bet": "Under 11.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-06-30",
+    "sport": "MLB",
     "bet": "Under 8.7",
     "odds": "-110",
     "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-06-30",
+    "sport": "MLB",
+    "bet": "Under 11.4",
+    "odds": "-110",
+    "result": "L",
     "units": 1.0
   },
   {
