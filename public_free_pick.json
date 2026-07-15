@@ -1,14 +1,14 @@
 {
   "date": "2026-07-14",
-  "last_updated": "2026-07-15T02:46:07.061496+00:00",
-  "premium_picks_count": 0,
+  "last_updated": "2026-07-15T14:19:43.810609+00:00",
+  "premium_picks_count": 1,
   "no_games_today": false,
   "free_pick": {
     "game": "Washington Mystics @ Toronto Tempo",
     "bet": "Washington Mystics -1.5",
     "bet_type": "SPREAD",
-    "odds": "-110",
-    "stars": null,
-    "units_display": null
+    "odds": -110,
+    "stars": 2,
+    "units_display": "1.0 Unit"
   }
 }
