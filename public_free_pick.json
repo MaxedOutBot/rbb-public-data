@@ -1,7 +1,14 @@
 {
-  "date": "2026-07-15",
-  "last_updated": "July 15, 2026 12:55 PM PT",
-  "premium_picks_count": 0,
-  "no_games_today": true,
-  "free_pick": null
+  "date": "2026-07-17",
+  "last_updated": "2026-07-17T23:55:56.910892+00:00",
+  "premium_picks_count": 5,
+  "no_games_today": false,
+  "free_pick": {
+    "game": "San Diego Padres @ Kansas City Royals",
+    "bet": "San Diego Padres ML",
+    "bet_type": "ML",
+    "odds": "-125",
+    "stars": 2,
+    "units_display": "1.0 Unit"
+  }
 }
