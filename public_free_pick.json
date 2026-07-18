@@ -1,13 +1,13 @@
 {
-  "date": "2026-07-17",
-  "last_updated": "2026-07-17T23:55:56.910892+00:00",
-  "premium_picks_count": 5,
+  "date": "2026-07-18",
+  "last_updated": "05:45 PM PT",
+  "premium_picks_count": 4,
   "no_games_today": false,
   "free_pick": {
-    "game": "San Diego Padres @ Kansas City Royals",
-    "bet": "San Diego Padres ML",
+    "game": "Cincinnati Reds @ Colorado Rockies",
+    "bet": "Colorado Rockies ML",
     "bet_type": "ML",
-    "odds": "-125",
+    "odds": "-110",
     "stars": 2,
     "units_display": "1.0 Unit"
   }
