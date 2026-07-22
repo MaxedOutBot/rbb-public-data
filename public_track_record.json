@@ -838,5 +838,13 @@
     "odds": "-126",
     "result": "W",
     "units": 1.0
+  },
+  {
+    "date": "2026-07-22",
+    "sport": "MLB",
+    "bet": "Boston Red Sox ML",
+    "odds": "-115",
+    "result": "W",
+    "units": 2.0
   }
 ]
