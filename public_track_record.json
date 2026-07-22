@@ -774,5 +774,29 @@
     "odds": "-111",
     "result": "W",
     "units": 2.0
+  },
+  {
+    "date": "2026-07-21",
+    "sport": "MLB",
+    "bet": "Philadelphia Phillies ML",
+    "odds": "-125",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-21",
+    "sport": "MLB",
+    "bet": "Chicago Cubs ML",
+    "odds": "-121",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-07-21",
+    "sport": "MLB",
+    "bet": "Texas Rangers ML",
+    "odds": "-117",
+    "result": "W",
+    "units": 1.5
   }
 ]
