@@ -806,5 +806,37 @@
     "odds": "-117",
     "result": "W",
     "units": 1.5
+  },
+  {
+    "date": "2026-07-21",
+    "sport": "MLB",
+    "bet": "Arizona Diamondbacks ML",
+    "odds": "-140",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-07-21",
+    "sport": "MLB",
+    "bet": "Los Angeles Dodgers ML",
+    "odds": "-120",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-07-21",
+    "sport": "MLB",
+    "bet": "Atlanta Braves ML",
+    "odds": "-121",
+    "result": "L",
+    "units": 1.5
+  },
+  {
+    "date": "2026-07-21",
+    "sport": "MLB",
+    "bet": "Cleveland Guardians ML",
+    "odds": "-126",
+    "result": "W",
+    "units": 1.0
   }
 ]
