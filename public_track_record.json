@@ -846,5 +846,13 @@
     "odds": "-115",
     "result": "W",
     "units": 2.0
+  },
+  {
+    "date": "2026-07-22",
+    "sport": "MLB",
+    "bet": "Milwaukee Brewers ML",
+    "odds": "-159",
+    "result": "W",
+    "units": 1.5
   }
 ]
