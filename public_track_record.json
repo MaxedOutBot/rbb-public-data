@@ -734,5 +734,45 @@
     "odds": "129",
     "result": "L",
     "units": 3.0
+  },
+  {
+    "date": "2026-07-20",
+    "sport": "MLB",
+    "bet": "Washington Nationals ML",
+    "odds": "-126",
+    "result": "W",
+    "units": 2.0
+  },
+  {
+    "date": "2026-07-20",
+    "sport": "MLB",
+    "bet": "Kansas City Royals ML",
+    "odds": "-116",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-07-20",
+    "sport": "MLB",
+    "bet": "Philadelphia Phillies ML",
+    "odds": "-148",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-20",
+    "sport": "MLB",
+    "bet": "New York Yankees ML",
+    "odds": "-115",
+    "result": "W",
+    "units": 2.0
+  },
+  {
+    "date": "2026-07-21",
+    "sport": "MLB",
+    "bet": "Tampa Bay Rays ML",
+    "odds": "-111",
+    "result": "W",
+    "units": 2.0
   }
 ]
