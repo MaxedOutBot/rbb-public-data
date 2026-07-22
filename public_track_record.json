@@ -770,6 +770,14 @@
   {
     "date": "2026-07-21",
     "sport": "MLB",
+    "bet": "Los Angeles Angels ML",
+    "odds": "-119",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-07-21",
+    "sport": "MLB",
     "bet": "Tampa Bay Rays ML",
     "odds": "-111",
     "result": "W",
