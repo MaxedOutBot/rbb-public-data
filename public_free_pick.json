@@ -1,13 +1,13 @@
 {
-  "date": "2026-07-21",
-  "last_updated": "09:52 PM PT",
+  "date": "2026-07-22",
+  "last_updated": "09:38 AM PT",
   "premium_picks_count": 5,
   "no_games_today": false,
   "free_pick": {
     "game": "Los Angeles Dodgers @ Philadelphia Phillies",
-    "bet": "Philadelphia Phillies ML",
+    "bet": "Los Angeles Dodgers ML",
     "bet_type": "ML",
-    "odds": "-118",
+    "odds": "-122",
     "stars": 3,
     "units_display": "1.5 Units"
   }
