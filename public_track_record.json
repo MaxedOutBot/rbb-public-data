@@ -850,9 +850,57 @@
   {
     "date": "2026-07-22",
     "sport": "MLB",
+    "bet": "Texas Rangers ML",
+    "odds": "-111",
+    "result": "L",
+    "units": 2.0
+  },
+  {
+    "date": "2026-07-22",
+    "sport": "MLB",
     "bet": "Milwaukee Brewers ML",
     "odds": "-159",
     "result": "W",
     "units": 1.5
+  },
+  {
+    "date": "2026-07-22",
+    "sport": "MLB",
+    "bet": "Houston Astros ML",
+    "odds": "-120",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-07-22",
+    "sport": "MLB",
+    "bet": "Los Angeles Dodgers ML",
+    "odds": "-122",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-07-22",
+    "sport": "MLB",
+    "bet": "Cleveland Guardians ML",
+    "odds": "-144",
+    "result": "L",
+    "units": 2.0
+  },
+  {
+    "date": "2026-07-22",
+    "sport": "MLB",
+    "bet": "Chicago White Sox ML",
+    "odds": "-125",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-07-22",
+    "sport": "MLB",
+    "bet": "Toronto Blue Jays ML",
+    "odds": "-111",
+    "result": "L",
+    "units": 2.0
   }
 ]
