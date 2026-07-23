@@ -1,14 +1,14 @@
 {
   "date": "2026-07-23",
-  "last_updated": "10:06 AM PT",
-  "premium_picks_count": 2,
+  "last_updated": "04:32 PM PT",
+  "premium_picks_count": 3,
   "no_games_today": false,
   "free_pick": {
     "game": "Arizona Diamondbacks @ St. Louis Cardinals",
     "bet": "St. Louis Cardinals ML",
     "bet_type": "ML",
-    "odds": "-125",
-    "stars": 3,
-    "units_display": "1.5 Units"
+    "odds": "-127",
+    "stars": 2,
+    "units_display": "1.0 Unit"
   }
 }
