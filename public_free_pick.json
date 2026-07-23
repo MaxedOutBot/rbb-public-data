@@ -1,14 +1,14 @@
 {
-  "date": "2026-07-22",
-  "last_updated": "06:34 PM PT",
-  "premium_picks_count": 5,
+  "date": "2026-07-23",
+  "last_updated": "10:06 AM PT",
+  "premium_picks_count": 2,
   "no_games_today": false,
   "free_pick": {
-    "game": "Los Angeles Dodgers @ Philadelphia Phillies",
-    "bet": "Los Angeles Dodgers ML",
+    "game": "Arizona Diamondbacks @ St. Louis Cardinals",
+    "bet": "St. Louis Cardinals ML",
     "bet_type": "ML",
-    "odds": "-126",
-    "stars": 2,
-    "units_display": "1.0 Unit"
+    "odds": "-125",
+    "stars": 3,
+    "units_display": "1.5 Units"
   }
 }
