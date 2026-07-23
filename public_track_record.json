@@ -902,5 +902,13 @@
     "odds": "-111",
     "result": "L",
     "units": 2.0
+  },
+  {
+    "date": "2026-07-23",
+    "sport": "MLB",
+    "bet": "Tampa Bay Rays ML",
+    "odds": "-113",
+    "result": "L",
+    "units": 2.0
   }
 ]
