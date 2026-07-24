@@ -910,5 +910,13 @@
     "odds": "-113",
     "result": "L",
     "units": 2.0
+  },
+  {
+    "date": "2026-07-23",
+    "sport": "MLB",
+    "bet": "St. Louis Cardinals ML",
+    "odds": "-125",
+    "result": "L",
+    "units": 1.5
   }
 ]
