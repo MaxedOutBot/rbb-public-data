@@ -1022,5 +1022,29 @@
     "odds": "-126",
     "result": "W",
     "units": 2.0
+  },
+  {
+    "date": "2026-07-25",
+    "sport": "MLB",
+    "bet": "Under 5.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-25",
+    "sport": "MLB",
+    "bet": "San Francisco Giants ML",
+    "odds": "-127",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-07-25",
+    "sport": "MLB",
+    "bet": "Washington Nationals ML",
+    "odds": "-143",
+    "result": "W",
+    "units": 1.5
   }
 ]
