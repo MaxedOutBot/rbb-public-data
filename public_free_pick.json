@@ -1,13 +1,13 @@
 {
-  "date": "2026-07-24",
-  "last_updated": "04:38 PM PT",
+  "date": "2026-07-25",
+  "last_updated": "09:39 AM PT",
   "premium_picks_count": 8,
   "no_games_today": false,
   "free_pick": {
-    "game": "Chicago Cubs @ Pittsburgh Pirates",
-    "bet": "Pittsburgh Pirates ML",
+    "game": "Houston Astros @ Chicago White Sox",
+    "bet": "Chicago White Sox ML",
     "bet_type": "ML",
-    "odds": "-109",
+    "odds": "-125",
     "stars": 2,
     "units_display": "1.0 Unit"
   }
