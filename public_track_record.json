@@ -1042,9 +1042,49 @@
   {
     "date": "2026-07-25",
     "sport": "MLB",
+    "bet": "St. Louis Cardinals ML",
+    "odds": "-113",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-07-25",
+    "sport": "MLB",
+    "bet": "Baltimore Orioles ML",
+    "odds": "-115",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-07-25",
+    "sport": "MLB",
     "bet": "Washington Nationals ML",
     "odds": "-143",
     "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-07-25",
+    "sport": "MLB",
+    "bet": "Tampa Bay Rays ML",
+    "odds": "-122",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-07-25",
+    "sport": "MLB",
+    "bet": "Chicago White Sox ML",
+    "odds": "-125",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-25",
+    "sport": "MLB",
+    "bet": "Pittsburgh Pirates ML",
+    "odds": "-124",
+    "result": "L",
     "units": 1.5
   }
 ]
