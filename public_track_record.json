@@ -1086,5 +1086,53 @@
     "odds": "-124",
     "result": "L",
     "units": 1.5
+  },
+  {
+    "date": "2026-07-26",
+    "sport": "MLB",
+    "bet": "Chicago White Sox ML",
+    "odds": "-115",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-07-26",
+    "sport": "MLB",
+    "bet": "Arizona Diamondbacks ML",
+    "odds": "-118",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-07-26",
+    "sport": "MLB",
+    "bet": "Boston Red Sox ML",
+    "odds": "-147",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-07-26",
+    "sport": "MLB",
+    "bet": "Atlanta Braves ML",
+    "odds": "-107",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-26",
+    "sport": "MLB",
+    "bet": "Texas Rangers ML",
+    "odds": "-107",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-26",
+    "sport": "MLB",
+    "bet": "Pittsburgh Pirates ML",
+    "odds": "-137",
+    "result": "W",
+    "units": 1.0
   }
 ]
