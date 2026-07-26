@@ -1,14 +1,14 @@
 {
   "date": "2026-07-26",
-  "last_updated": "12:33 PM PT",
-  "premium_picks_count": 4,
+  "last_updated": "12:28 PM PT",
+  "premium_picks_count": 3,
   "no_games_today": false,
   "free_pick": {
-    "game": "Arizona Diamondbacks @ Washington Nationals",
-    "bet": "Arizona Diamondbacks ML",
+    "game": "Toronto Blue Jays @ Boston Red Sox",
+    "bet": "Boston Red Sox ML",
     "bet_type": "ML",
-    "odds": "-118",
-    "stars": 3,
-    "units_display": "1.5 Units"
+    "odds": "-147",
+    "stars": 5,
+    "units_display": "3.0 Units"
   }
 }
