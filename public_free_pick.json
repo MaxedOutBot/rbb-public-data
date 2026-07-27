@@ -1,14 +1,14 @@
 {
-  "date": "2026-07-26",
-  "last_updated": "04:35 PM PT",
-  "premium_picks_count": 4,
+  "date": "2026-07-27",
+  "last_updated": "10:24 AM PT",
+  "premium_picks_count": 3,
   "no_games_today": false,
   "free_pick": {
-    "game": "Toronto Blue Jays @ Boston Red Sox",
-    "bet": "Boston Red Sox ML",
+    "game": "New York Yankees @ Chicago White Sox",
+    "bet": "New York Yankees ML",
     "bet_type": "ML",
-    "odds": "-147",
-    "stars": 5,
-    "units_display": "3.0 Units"
+    "odds": "-149",
+    "stars": 2,
+    "units_display": "1.0 Unit"
   }
 }
