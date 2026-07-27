@@ -1114,6 +1114,22 @@
   {
     "date": "2026-07-26",
     "sport": "MLB",
+    "bet": "Philadelphia Phillies -1.5",
+    "odds": "110",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-07-26",
+    "sport": "MLB",
+    "bet": "Over 8.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 2.0
+  },
+  {
+    "date": "2026-07-26",
+    "sport": "MLB",
     "bet": "Atlanta Braves ML",
     "odds": "-107",
     "result": "W",
