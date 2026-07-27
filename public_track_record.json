@@ -1150,5 +1150,13 @@
     "odds": "-137",
     "result": "W",
     "units": 1.0
+  },
+  {
+    "date": "2026-07-27",
+    "sport": "MLB",
+    "bet": "Over 12.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 3.0
   }
 ]
