@@ -1162,6 +1162,30 @@
   {
     "date": "2026-07-27",
     "sport": "MLB",
+    "bet": "New York Yankees ML",
+    "odds": "-149",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-27",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-27",
+    "sport": "MLB",
+    "bet": "Los Angeles Angels ML",
+    "odds": "-107",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-07-27",
+    "sport": "MLB",
     "bet": "Washington Nationals ML",
     "odds": "-121",
     "result": "L",
@@ -1182,6 +1206,14 @@
     "odds": "-108",
     "result": "W",
     "units": 2.0
+  },
+  {
+    "date": "2026-07-27",
+    "sport": "MLB",
+    "bet": "Over 10.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.5
   },
   {
     "date": "2026-07-27",
