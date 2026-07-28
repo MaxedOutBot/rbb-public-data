@@ -1222,5 +1222,21 @@
     "odds": "-121",
     "result": "L",
     "units": 1.5
+  },
+  {
+    "date": "2026-07-28",
+    "sport": "MLB",
+    "bet": "Under 12.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-28",
+    "sport": "MLB",
+    "bet": "Cincinnati Reds ML",
+    "odds": "-153",
+    "result": "L",
+    "units": 1.0
   }
 ]
