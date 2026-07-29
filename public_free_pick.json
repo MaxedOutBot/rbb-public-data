@@ -1,14 +1,14 @@
 {
-  "date": "2026-07-28",
-  "last_updated": "07:21 PM PT",
-  "premium_picks_count": 4,
+  "date": "2026-07-29",
+  "last_updated": "10:00 AM PT",
+  "premium_picks_count": 2,
   "no_games_today": false,
   "free_pick": {
-    "game": "Philadelphia Phillies @ Miami Marlins",
-    "bet": "Miami Marlins ML",
+    "game": "Toronto Blue Jays @ Washington Nationals",
+    "bet": "Toronto Blue Jays ML",
     "bet_type": "ML",
-    "odds": "-116",
-    "stars": 4,
-    "units_display": "2.0 Units"
+    "odds": "-121",
+    "stars": 3,
+    "units_display": "1.5 Units"
   }
 }
