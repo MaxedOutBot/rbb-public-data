@@ -1234,6 +1234,38 @@
   {
     "date": "2026-07-28",
     "sport": "MLB",
+    "bet": "Detroit Tigers ML",
+    "odds": "-144",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-07-28",
+    "sport": "MLB",
+    "bet": "Miami Marlins ML",
+    "odds": "-114",
+    "result": "W",
+    "units": 2.0
+  },
+  {
+    "date": "2026-07-28",
+    "sport": "MLB",
+    "bet": "Baltimore Orioles ML",
+    "odds": "124",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-07-28",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-28",
+    "sport": "MLB",
     "bet": "Cincinnati Reds ML",
     "odds": "-153",
     "result": "L",
