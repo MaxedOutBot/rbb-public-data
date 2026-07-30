@@ -1430,5 +1430,13 @@
     "odds": "-121",
     "result": "W",
     "units": 1.5
+  },
+  {
+    "date": "2026-07-30",
+    "sport": "MLB",
+    "bet": "Chicago White Sox ML",
+    "odds": "-112",
+    "result": "W",
+    "units": 2.0
   }
 ]
