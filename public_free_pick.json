@@ -1,14 +1,14 @@
 {
-  "date": "2026-07-31",
-  "last_updated": "08:02 PM PT",
-  "premium_picks_count": 5,
+  "date": "2026-08-01",
+  "last_updated": "02:28 PM PT",
+  "premium_picks_count": 15,
   "no_games_today": false,
   "free_pick": {
-    "game": "San Francisco Giants @ San Diego Padres",
-    "bet": "San Diego Padres ML",
-    "bet_type": "ML",
-    "odds": "-149",
-    "stars": 2,
-    "units_display": "1.0 Unit"
+    "game": "Milwaukee Brewers @ Los Angeles Angels",
+    "bet": "Over 9.5",
+    "bet_type": "OVER",
+    "odds": "-110",
+    "stars": 3,
+    "units_display": "1.5 Units"
   }
 }
