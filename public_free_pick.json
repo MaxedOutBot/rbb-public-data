@@ -1,14 +1,14 @@
 {
   "date": "2026-08-01",
   "last_updated": "02:28 PM PT",
-  "premium_picks_count": 15,
+  "premium_picks_count": 5,
   "no_games_today": false,
   "free_pick": {
-    "game": "Milwaukee Brewers @ Los Angeles Angels",
-    "bet": "Over 9.5",
-    "bet_type": "OVER",
-    "odds": "-110",
-    "stars": 3,
-    "units_display": "1.5 Units"
+    "game": "Arizona Diamondbacks @ Cleveland Guardians",
+    "bet": "Cleveland Guardians -1.5",
+    "bet_type": "SPREAD",
+    "odds": "122",
+    "stars": 5,
+    "units_display": "3.0 Units"
   }
 }
