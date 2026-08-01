@@ -1474,6 +1474,14 @@
   {
     "date": "2026-07-31",
     "sport": "MLB",
+    "bet": "Kansas City Royals ML",
+    "odds": "-110",
+    "result": "L",
+    "units": 2.0
+  },
+  {
+    "date": "2026-07-31",
+    "sport": "MLB",
     "bet": "Pittsburgh Pirates ML",
     "odds": "-132",
     "result": "L",
@@ -1485,6 +1493,14 @@
     "bet": "Cleveland Guardians ML",
     "odds": "-147",
     "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-31",
+    "sport": "MLB",
+    "bet": "San Diego Padres ML",
+    "odds": "-149",
+    "result": "W",
     "units": 1.0
   },
   {
@@ -1518,5 +1534,21 @@
     "odds": "100",
     "result": "L",
     "units": 3.0
+  },
+  {
+    "date": "2026-07-31",
+    "sport": "MLB",
+    "bet": "Detroit Tigers ML",
+    "odds": "-145",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-07-31",
+    "sport": "MLB",
+    "bet": "Seattle Mariners ML",
+    "odds": "-167",
+    "result": "L",
+    "units": 2.0
   }
 ]
