@@ -1666,6 +1666,14 @@
   {
     "date": "2026-08-01",
     "sport": "MLB",
+    "bet": "Detroit Tigers -1.5",
+    "odds": "-111",
+    "result": "W",
+    "units": 2.0
+  },
+  {
+    "date": "2026-08-01",
+    "sport": "MLB",
     "bet": "Over 8.5",
     "odds": "-110",
     "result": "L",
@@ -1674,10 +1682,34 @@
   {
     "date": "2026-08-01",
     "sport": "MLB",
+    "bet": "Over 10.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-08-01",
+    "sport": "MLB",
+    "bet": "Los Angeles Angels ML",
+    "odds": "129",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-01",
+    "sport": "MLB",
     "bet": "Pittsburgh Pirates ML",
     "odds": "-123",
     "result": "W",
     "units": 3.0
+  },
+  {
+    "date": "2026-08-01",
+    "sport": "MLB",
+    "bet": "Over 9.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.5
   },
   {
     "date": "2026-08-01",
