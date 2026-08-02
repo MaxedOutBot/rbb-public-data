@@ -1,7 +1,7 @@
 {
   "date": "2026-08-02",
-  "last_updated": "09:41 AM PT",
-  "premium_picks_count": 3,
+  "last_updated": "10:40 AM PT",
+  "premium_picks_count": 4,
   "no_games_today": false,
   "free_pick": {
     "game": "Detroit Tigers @ Athletics",
@@ -9,6 +9,6 @@
     "bet_type": "SPREAD",
     "odds": "134",
     "stars": 5,
-    "units_display": "3.0 Units"
+    "units_display": "3 Units"
   }
 }
