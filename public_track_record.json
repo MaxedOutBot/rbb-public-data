@@ -1554,6 +1554,14 @@
   {
     "date": "2026-08-01",
     "sport": "MLB",
+    "bet": "Texas Rangers -1.5",
+    "odds": "132",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-01",
+    "sport": "MLB",
     "bet": "Under 7.5",
     "odds": "-110",
     "result": "W",
@@ -1594,9 +1602,41 @@
   {
     "date": "2026-08-01",
     "sport": "MLB",
+    "bet": "Philadelphia Phillies -1.5",
+    "odds": "115",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-01",
+    "sport": "MLB",
+    "bet": "Over 6.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 2.0
+  },
+  {
+    "date": "2026-08-01",
+    "sport": "MLB",
     "bet": "Over 8.5",
     "odds": "-110",
     "result": "L",
     "units": 2.0
+  },
+  {
+    "date": "2026-08-01",
+    "sport": "MLB",
+    "bet": "Over 8.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 2.0
+  },
+  {
+    "date": "2026-08-01",
+    "sport": "MLB",
+    "bet": "Houston Astros ML",
+    "odds": "105",
+    "result": "W",
+    "units": 3.0
   }
 ]
