@@ -1,13 +1,13 @@
 {
-  "date": "2026-08-01",
-  "last_updated": "08:56 PM PT",
-  "premium_picks_count": 5,
+  "date": "2026-08-02",
+  "last_updated": "09:41 AM PT",
+  "premium_picks_count": 3,
   "no_games_today": false,
   "free_pick": {
-    "game": "Arizona Diamondbacks @ Cleveland Guardians",
-    "bet": "Cleveland Guardians -1.5",
+    "game": "Detroit Tigers @ Athletics",
+    "bet": "Detroit Tigers -1.5",
     "bet_type": "SPREAD",
-    "odds": "122",
+    "odds": "134",
     "stars": 5,
     "units_display": "3.0 Units"
   }
