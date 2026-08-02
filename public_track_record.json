@@ -1726,5 +1726,37 @@
     "odds": "-130",
     "result": "W",
     "units": 1.0
+  },
+  {
+    "date": "2026-08-02",
+    "sport": "MLB",
+    "bet": "Pittsburgh Pirates ML",
+    "odds": "121",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-02",
+    "sport": "MLB",
+    "bet": "Under 7.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-08-02",
+    "sport": "MLB",
+    "bet": "Detroit Tigers -1.5",
+    "odds": "134",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-02",
+    "sport": "MLB",
+    "bet": "San Francisco Giants ML",
+    "odds": "109",
+    "result": "L",
+    "units": 3.0
   }
 ]
