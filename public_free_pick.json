@@ -9,6 +9,10 @@
     "bet_type": "UNDER",
     "odds": "-110",
     "stars": 4,
-    "units_display": "1.0 Unit"
+    "units_display": "1.0 Unit",
+    "customer_reasons": [
+      "Situational trends in this matchup support this side",
+      "Multiple sportsbooks are leaning the same direction"
+    ]
   }
 }
