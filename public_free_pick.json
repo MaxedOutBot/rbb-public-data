@@ -1,14 +1,14 @@
 {
-  "date": "2026-08-02",
-  "last_updated": "10:47 AM PT",
-  "premium_picks_count": 4,
+  "date": "2026-08-03",
+  "last_updated": "07:31 AM PT",
+  "premium_picks_count": 3,
   "no_games_today": false,
   "free_pick": {
-    "game": "Detroit Tigers @ Athletics",
-    "bet": "Detroit Tigers -1.5",
-    "bet_type": "SPREAD",
-    "odds": "134",
-    "stars": 5,
-    "units_display": "3 Units"
+    "game": "Washington Nationals @ Philadelphia Phillies",
+    "bet": "Under 9.5",
+    "bet_type": "UNDER",
+    "odds": "-110",
+    "stars": 4,
+    "units_display": "1.0 Unit"
   }
 }
