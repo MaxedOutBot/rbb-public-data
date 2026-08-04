@@ -1,17 +1,7 @@
 {
   "date": "2026-08-04",
-  "last_updated": "06:14 AM PT",
-  "premium_picks_count": 3,
-  "no_games_today": false,
-  "free_pick": {
-    "game": "Los Angeles Angels @ Baltimore Orioles",
-    "bet": "Baltimore Orioles -1.5",
-    "bet_type": "SPREAD",
-    "odds": "136",
-    "stars": 5,
-    "units_display": "3.0 Units",
-    "customer_reasons": [
-      "Our model's overall analysis supports this side"
-    ]
-  }
+  "last_updated": "August 04, 2026 10:47 AM PT",
+  "premium_picks_count": 0,
+  "no_games_today": true,
+  "free_pick": null
 }
