@@ -1,7 +1,18 @@
 {
   "date": "2026-08-04",
-  "last_updated": "August 04, 2026 10:47 AM PT",
-  "premium_picks_count": 0,
-  "no_games_today": true,
-  "free_pick": null
+  "last_updated": "11:20 AM PT",
+  "premium_picks_count": 3,
+  "no_games_today": false,
+  "free_pick": {
+    "game": "Athletics @ Cincinnati Reds",
+    "bet": "Athletics ML",
+    "bet_type": "ML",
+    "odds": "113",
+    "stars": 5,
+    "units_display": "3.0 Units",
+    "customer_reasons": [
+      "Sharp market movement lines up with this side",
+      "The starting pitching matchup favors this side"
+    ]
+  }
 }
