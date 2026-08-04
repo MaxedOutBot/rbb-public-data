@@ -1,18 +1,7 @@
 {
   "date": "2026-08-03",
-  "last_updated": "04:42 PM PT",
-  "premium_picks_count": 5,
-  "no_games_today": false,
-  "free_pick": {
-    "game": "Washington Nationals @ Philadelphia Phillies",
-    "bet": "Under 9.5",
-    "bet_type": "UNDER",
-    "odds": "-110",
-    "stars": 4,
-    "units_display": "1.0 Unit",
-    "customer_reasons": [
-      "Situational trends in this matchup support this side",
-      "Multiple sportsbooks are leaning the same direction"
-    ]
-  }
+  "last_updated": "August 03, 2026 06:50 PM PT",
+  "premium_picks_count": 0,
+  "no_games_today": true,
+  "free_pick": null
 }
