@@ -1826,6 +1826,22 @@
   {
     "date": "2026-08-04",
     "sport": "MLB",
+    "bet": "Under 7.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-08-04",
+    "sport": "MLB",
+    "bet": "Under 7.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-08-04",
+    "sport": "MLB",
     "bet": "Baltimore Orioles -1.5",
     "odds": "136",
     "result": "W",
@@ -1837,6 +1853,30 @@
     "bet": "Over 11.5",
     "odds": "-110",
     "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-04",
+    "sport": "MLB",
+    "bet": "Detroit Tigers ML",
+    "odds": "112",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-04",
+    "sport": "MLB",
+    "bet": "Athletics ML",
+    "odds": "113",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-04",
+    "sport": "MLB",
+    "bet": "San Diego Padres ML",
+    "odds": "108",
+    "result": "W",
     "units": 3.0
   }
 ]
