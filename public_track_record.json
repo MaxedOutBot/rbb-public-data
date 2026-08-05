@@ -1822,5 +1822,21 @@
     "odds": "-110",
     "result": "W",
     "units": 2.0
+  },
+  {
+    "date": "2026-08-04",
+    "sport": "MLB",
+    "bet": "Baltimore Orioles -1.5",
+    "odds": "136",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-04",
+    "sport": "MLB",
+    "bet": "Over 11.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 3.0
   }
 ]
