@@ -1878,5 +1878,29 @@
     "odds": "108",
     "result": "W",
     "units": 3.0
+  },
+  {
+    "date": "2026-08-05",
+    "sport": "MLB",
+    "bet": "San Francisco Giants ML",
+    "odds": "138",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-05",
+    "sport": "MLB",
+    "bet": "Los Angeles Dodgers ML",
+    "odds": "102",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-05",
+    "sport": "MLB",
+    "bet": "San Diego Padres -1.5",
+    "odds": "129",
+    "result": "L",
+    "units": 3.0
   }
 ]
