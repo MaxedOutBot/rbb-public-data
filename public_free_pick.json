@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-05",
-  "last_updated": "10:14 AM PT",
+  "date": "2026-08-06",
+  "last_updated": "02:37 PM PT",
   "premium_picks_count": 3,
   "no_games_today": false,
   "free_pick": {
-    "game": "San Diego Padres @ Arizona Diamondbacks",
-    "bet": "San Diego Padres -1.5",
-    "bet_type": "SPREAD",
-    "odds": "129",
-    "stars": 5,
-    "units_display": "3.0 Units",
+    "game": "Washington Nationals @ Philadelphia Phillies",
+    "bet": "Under 9.5",
+    "bet_type": "UNDER",
+    "odds": "-110",
+    "stars": 3,
+    "units_display": "0.8 Units",
     "customer_reasons": [
-      "The starting pitching matchup favors this side",
-      "Recent team performance supports this side"
+      "Situational trends in this matchup support this side",
+      "Ballpark and weather conditions favor this outcome"
     ]
   }
 }
