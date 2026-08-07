@@ -1902,5 +1902,29 @@
     "odds": "129",
     "result": "L",
     "units": 3.0
+  },
+  {
+    "date": "2026-08-06",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-08-06",
+    "sport": "MLB",
+    "bet": "Atlanta Braves -1.5",
+    "odds": "123",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-06",
+    "sport": "MLB",
+    "bet": "Under 9.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 0.8
   }
 ]
