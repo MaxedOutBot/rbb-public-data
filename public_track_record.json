@@ -1958,5 +1958,45 @@
     "odds": "-110",
     "result": "L",
     "units": 1.0
+  },
+  {
+    "date": "2026-08-08",
+    "sport": "MLB",
+    "bet": "St. Louis Cardinals -1.5",
+    "odds": "134",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-08",
+    "sport": "MLB",
+    "bet": "Under 9.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-08-08",
+    "sport": "MLB",
+    "bet": "San Diego Padres ML",
+    "odds": "-115",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-08",
+    "sport": "MLB",
+    "bet": "Chicago Cubs ML",
+    "odds": "-148",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-08",
+    "sport": "MLB",
+    "bet": "Cleveland Guardians -1.5",
+    "odds": "132",
+    "result": "L",
+    "units": 3.0
   }
 ]
