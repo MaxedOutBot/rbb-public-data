@@ -2002,6 +2002,14 @@
   {
     "date": "2026-08-09",
     "sport": "MLB",
+    "bet": "Under 7.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-08-09",
+    "sport": "MLB",
     "bet": "St. Louis Cardinals -1.5",
     "odds": "119",
     "result": "W",
