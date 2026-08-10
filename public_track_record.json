@@ -2022,5 +2022,13 @@
     "odds": "-110",
     "result": "L",
     "units": 1.0
+  },
+  {
+    "date": "2026-08-09",
+    "sport": "MLB",
+    "bet": "San Diego Padres ML",
+    "odds": "-116",
+    "result": "W",
+    "units": 1.5
   }
 ]
