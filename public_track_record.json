@@ -2030,5 +2030,37 @@
     "odds": "-116",
     "result": "W",
     "units": 1.5
+  },
+  {
+    "date": "2026-08-10",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-08-10",
+    "sport": "MLB",
+    "bet": "Philadelphia Phillies -1.5",
+    "odds": "134",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-10",
+    "sport": "MLB",
+    "bet": "Boston Red Sox -1.5",
+    "odds": "114",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-10",
+    "sport": "MLB",
+    "bet": "Texas Rangers ML",
+    "odds": "-106",
+    "result": "W",
+    "units": 3.0
   }
 ]
