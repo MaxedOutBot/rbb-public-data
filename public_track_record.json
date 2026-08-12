@@ -2062,5 +2062,45 @@
     "odds": "-106",
     "result": "W",
     "units": 3.0
+  },
+  {
+    "date": "2026-08-11",
+    "sport": "MLB",
+    "bet": "Chicago White Sox -1.5",
+    "odds": "134",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-11",
+    "sport": "MLB",
+    "bet": "Under 9.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-08-11",
+    "sport": "MLB",
+    "bet": "Under 7.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-08-11",
+    "sport": "MLB",
+    "bet": "Milwaukee Brewers -1.5",
+    "odds": "125",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-11",
+    "sport": "MLB",
+    "bet": "Chicago White Sox ML",
+    "odds": "-148",
+    "result": "L",
+    "units": 2.0
   }
 ]
