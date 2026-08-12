@@ -736,6 +736,102 @@
     "units": 3.0
   },
   {
+    "date": "2026-07-18",
+    "sport": "MLB",
+    "bet": "Cleveland Guardians ML",
+    "odds": "-127",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-18",
+    "sport": "MLB",
+    "bet": "Seattle Mariners ML",
+    "odds": "-134",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-07-18",
+    "sport": "MLB",
+    "bet": "Athletics Athletics ML",
+    "odds": "-127",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-18",
+    "sport": "MLB",
+    "bet": "Under 10.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-18",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-18",
+    "sport": "MLB",
+    "bet": "Detroit Tigers -1.5",
+    "odds": "-118",
+    "result": "L",
+    "units": 2.0
+  },
+  {
+    "date": "2026-07-18",
+    "sport": "MLB",
+    "bet": "Washington Nationals ML",
+    "odds": "-107",
+    "result": "W",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-19",
+    "sport": "MLB",
+    "bet": "Washington Nationals ML",
+    "odds": "-116",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-07-19",
+    "sport": "MLB",
+    "bet": "Arizona Diamondbacks ML",
+    "odds": "-121",
+    "result": "W",
+    "units": 2.0
+  },
+  {
+    "date": "2026-07-19",
+    "sport": "MLB",
+    "bet": "Chicago White Sox ML",
+    "odds": "-118",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-07-19",
+    "sport": "MLB",
+    "bet": "Detroit Tigers ML",
+    "odds": "-147",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-07-19",
+    "sport": "MLB",
+    "bet": "Boston Red Sox ML",
+    "odds": "-126",
+    "result": "W",
+    "units": 1.0
+  },
+  {
     "date": "2026-07-20",
     "sport": "MLB",
     "bet": "Washington Nationals ML",
@@ -810,6 +906,14 @@
   {
     "date": "2026-07-21",
     "sport": "MLB",
+    "bet": "New York Yankees -1.5",
+    "odds": "122",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-07-21",
+    "sport": "MLB",
     "bet": "Arizona Diamondbacks ML",
     "odds": "-140",
     "result": "W",
@@ -820,6 +924,14 @@
     "sport": "MLB",
     "bet": "Los Angeles Dodgers ML",
     "odds": "-120",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-07-21",
+    "sport": "MLB",
+    "bet": "Boston Red Sox ML",
+    "odds": "-115",
     "result": "W",
     "units": 1.5
   },
