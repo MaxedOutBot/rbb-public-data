@@ -2238,5 +2238,29 @@
     "odds": "-110",
     "result": "L",
     "units": 1.0
+  },
+  {
+    "date": "2026-08-13",
+    "sport": "MLB",
+    "bet": "New York Yankees -1.5",
+    "odds": "134",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-13",
+    "sport": "MLB",
+    "bet": "Boston Red Sox ML",
+    "odds": "-145",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-13",
+    "sport": "MLB",
+    "bet": "Pittsburgh Pirates -1.5",
+    "odds": "135",
+    "result": "W",
+    "units": 3.0
   }
 ]
