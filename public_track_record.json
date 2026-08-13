@@ -2218,6 +2218,22 @@
   {
     "date": "2026-08-12",
     "sport": "MLB",
+    "bet": "Miami Marlins ML",
+    "odds": "-109",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-12",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-08-12",
+    "sport": "MLB",
     "bet": "Under 9.5",
     "odds": "-110",
     "result": "L",
