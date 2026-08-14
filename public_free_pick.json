@@ -1,17 +1,18 @@
 {
-  "date": "2026-08-13",
-  "last_updated": "04:22 PM PT",
-  "premium_picks_count": 4,
+  "date": "2026-08-14",
+  "last_updated": "09:37 AM PT",
+  "premium_picks_count": 3,
   "no_games_today": false,
   "free_pick": {
-    "game": "Pittsburgh Pirates @ Miami Marlins",
-    "bet": "Pittsburgh Pirates -1.5",
-    "bet_type": "SPREAD",
-    "odds": "135",
-    "stars": 5,
-    "units_display": "3.0 Units",
+    "game": "Baltimore Orioles @ Tampa Bay Rays",
+    "bet": "Under 8.5",
+    "bet_type": "UNDER",
+    "odds": "-110",
+    "stars": 4,
+    "units_display": "1.0 Unit",
     "customer_reasons": [
-      "Our model's comprehensive analysis identifies a clear edge on this side"
+      "Contextual factors in this matchup point toward this side",
+      "Ballpark and environmental conditions favor this outcome"
     ]
   }
 }
