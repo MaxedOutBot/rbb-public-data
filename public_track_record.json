@@ -2240,6 +2240,14 @@
     "units": 1.0
   },
   {
+    "date": "2026-08-12",
+    "sport": "MLB",
+    "bet": "Texas Rangers -1.5",
+    "odds": "119",
+    "result": "L",
+    "units": 3.0
+  },
+  {
     "date": "2026-08-13",
     "sport": "MLB",
     "bet": "New York Yankees -1.5",
@@ -2262,5 +2270,21 @@
     "odds": "135",
     "result": "W",
     "units": 3.0
+  },
+  {
+    "date": "2026-08-13",
+    "sport": "MLB",
+    "bet": "Under 9.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 0.8
+  },
+  {
+    "date": "2026-08-13",
+    "sport": "MLB",
+    "bet": "Minnesota Twins ML",
+    "odds": "-105",
+    "result": "L",
+    "units": 1.5
   }
 ]
