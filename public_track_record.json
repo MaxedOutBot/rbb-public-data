@@ -2302,5 +2302,13 @@
     "odds": "-110",
     "result": "L",
     "units": 1.0
+  },
+  {
+    "date": "2026-08-15",
+    "sport": "MLB",
+    "bet": "San Francisco Giants -1.5",
+    "odds": "124",
+    "result": "W",
+    "units": 3.0
   }
 ]
