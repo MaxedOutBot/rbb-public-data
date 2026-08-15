@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-14",
-  "last_updated": "03:56 PM PT",
-  "premium_picks_count": 4,
+  "date": "2026-08-15",
+  "last_updated": "07:36 AM PT",
+  "premium_picks_count": 1,
   "no_games_today": false,
   "free_pick": {
-    "game": "Baltimore Orioles @ Tampa Bay Rays",
-    "bet": "Under 8.5",
-    "bet_type": "UNDER",
-    "odds": "-110",
-    "stars": 4,
-    "units_display": "1.0 Unit",
+    "game": "Boston Red Sox @ Pittsburgh Pirates",
+    "bet": "Boston Red Sox ML",
+    "bet_type": "ML",
+    "odds": "-125",
+    "stars": 3,
+    "units_display": "1.5 Units",
     "customer_reasons": [
-      "Contextual factors in this matchup point toward this side",
-      "Ballpark and environmental conditions favor this outcome"
+      "The starting pitching matchup creates a clear statistical edge",
+      "Contextual factors in this matchup point toward this side"
     ]
   }
 }
