@@ -2286,5 +2286,21 @@
     "odds": "-105",
     "result": "L",
     "units": 1.5
+  },
+  {
+    "date": "2026-08-14",
+    "sport": "MLB",
+    "bet": "Boston Red Sox -1.5",
+    "odds": "130",
+    "result": "L",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-14",
+    "sport": "MLB",
+    "bet": "Under 8.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.0
   }
 ]
