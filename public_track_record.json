@@ -2304,6 +2304,30 @@
     "units": 1.0
   },
   {
+    "date": "2026-08-14",
+    "sport": "MLB",
+    "bet": "Kansas City Royals ML",
+    "odds": "-112",
+    "result": "L",
+    "units": 2.0
+  },
+  {
+    "date": "2026-08-15",
+    "sport": "MLB",
+    "bet": "Boston Red Sox ML",
+    "odds": "-125",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-08-15",
+    "sport": "MLB",
+    "bet": "Boston Red Sox -1.5",
+    "odds": "134",
+    "result": "W",
+    "units": 3.0
+  },
+  {
     "date": "2026-08-15",
     "sport": "MLB",
     "bet": "Milwaukee Brewers -1.5",
@@ -2326,6 +2350,14 @@
     "odds": "137",
     "result": "W",
     "units": 1.5
+  },
+  {
+    "date": "2026-08-15",
+    "sport": "MLB",
+    "bet": "Arizona Diamondbacks ML",
+    "odds": "115",
+    "result": "W",
+    "units": 3.0
   },
   {
     "date": "2026-08-15",
