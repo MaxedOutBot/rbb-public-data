@@ -2386,6 +2386,22 @@
   {
     "date": "2026-08-16",
     "sport": "MLB",
+    "bet": "Chicago White Sox ML",
+    "odds": "102",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-08-16",
+    "sport": "MLB",
+    "bet": "New York Yankees ML",
+    "odds": "106",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-16",
+    "sport": "MLB",
     "bet": "Washington Nationals ML",
     "odds": "144",
     "result": "L",
