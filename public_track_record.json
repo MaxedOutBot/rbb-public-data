@@ -2290,6 +2290,14 @@
   {
     "date": "2026-08-14",
     "sport": "MLB",
+    "bet": "Texas Rangers ML",
+    "odds": "-106",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-14",
+    "sport": "MLB",
     "bet": "Boston Red Sox -1.5",
     "odds": "130",
     "result": "L",
