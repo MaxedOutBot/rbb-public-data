@@ -2306,9 +2306,33 @@
   {
     "date": "2026-08-15",
     "sport": "MLB",
+    "bet": "Milwaukee Brewers -1.5",
+    "odds": "130",
+    "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-15",
+    "sport": "MLB",
     "bet": "San Francisco Giants -1.5",
     "odds": "124",
     "result": "W",
+    "units": 3.0
+  },
+  {
+    "date": "2026-08-15",
+    "sport": "MLB",
+    "bet": "Baltimore Orioles ML",
+    "odds": "137",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-08-15",
+    "sport": "MLB",
+    "bet": "Los Angeles Dodgers ML",
+    "odds": "108",
+    "result": "L",
     "units": 3.0
   }
 ]
