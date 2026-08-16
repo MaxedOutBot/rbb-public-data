@@ -2382,5 +2382,13 @@
     "odds": "124",
     "result": "W",
     "units": 1.5
+  },
+  {
+    "date": "2026-08-16",
+    "sport": "MLB",
+    "bet": "Washington Nationals ML",
+    "odds": "144",
+    "result": "L",
+    "units": 3.0
   }
 ]
