@@ -2376,6 +2376,22 @@
     "units": 3.0
   },
   {
+    "date": "2026-08-15",
+    "sport": "MLB",
+    "bet": "Los Angeles Angels -1.5",
+    "odds": "130",
+    "result": "L",
+    "units": 1.5
+  },
+  {
+    "date": "2026-08-15",
+    "sport": "MLB",
+    "bet": "Minnesota Twins ML",
+    "odds": "101",
+    "result": "L",
+    "units": 1.5
+  },
+  {
     "date": "2026-08-16",
     "sport": "MLB",
     "bet": "Baltimore Orioles ML",
@@ -2386,10 +2402,26 @@
   {
     "date": "2026-08-16",
     "sport": "MLB",
+    "bet": "St. Louis Cardinals ML",
+    "odds": "154",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-08-16",
+    "sport": "MLB",
     "bet": "Chicago White Sox ML",
     "odds": "102",
     "result": "W",
     "units": 1.5
+  },
+  {
+    "date": "2026-08-16",
+    "sport": "MLB",
+    "bet": "Minnesota Twins ML",
+    "odds": "-104",
+    "result": "L",
+    "units": 3.0
   },
   {
     "date": "2026-08-16",
@@ -2410,9 +2442,41 @@
   {
     "date": "2026-08-16",
     "sport": "MLB",
+    "bet": "Los Angeles Angels ML",
+    "odds": "103",
+    "result": "L",
+    "units": 2.0
+  },
+  {
+    "date": "2026-08-16",
+    "sport": "MLB",
+    "bet": "Pittsburgh Pirates ML",
+    "odds": "-105",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-08-16",
+    "sport": "MLB",
     "bet": "Toronto Blue Jays ML",
     "odds": "-117",
     "result": "L",
     "units": 1.5
+  },
+  {
+    "date": "2026-08-16",
+    "sport": "MLB",
+    "bet": "Kansas City Royals ML",
+    "odds": "-120",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-08-16",
+    "sport": "MLB",
+    "bet": "Texas Rangers ML",
+    "odds": "-131",
+    "result": "L",
+    "units": 2.0
   }
 ]
