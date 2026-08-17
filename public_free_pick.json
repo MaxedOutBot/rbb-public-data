@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-16",
-  "last_updated": "05:57 PM PT",
-  "premium_picks_count": 4,
+  "date": "2026-08-17",
+  "last_updated": "06:19 AM PT",
+  "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
-    "game": "Colorado Rockies @ San Francisco Giants",
-    "bet": "San Francisco Giants ML",
-    "bet_type": "ML",
-    "odds": "-122",
-    "stars": 4,
-    "units_display": "2.0 Units",
+    "game": "Los Angeles Dodgers @ Colorado Rockies",
+    "bet": "Over 10.5",
+    "bet_type": "OVER",
+    "odds": "-110",
+    "stars": 2,
+    "units_display": "1.0 Unit",
     "customer_reasons": [
-      "Current roster and availability intel supports this selection",
-      "The starting pitching matchup creates a clear statistical edge"
+      "Ballpark and environmental conditions favor this outcome",
+      "Our model's comprehensive analysis identifies a clear edge on this side"
     ]
   }
 }
