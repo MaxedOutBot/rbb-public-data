@@ -2502,5 +2502,21 @@
     "odds": "-131",
     "result": "L",
     "units": 2.0
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "bet": "Atlanta Braves ML",
+    "odds": "-128",
+    "result": "L",
+    "units": 1.5
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "bet": "New York Mets ML",
+    "odds": "-118",
+    "result": "W",
+    "units": 1.0
   }
 ]
