@@ -2558,5 +2558,21 @@
     "odds": "-104",
     "result": "L",
     "units": 1.5
+  },
+  {
+    "date": "2026-08-19",
+    "sport": "MLB",
+    "bet": "San Diego Padres ML",
+    "odds": "-137",
+    "result": "L",
+    "units": 2.0
+  },
+  {
+    "date": "2026-08-19",
+    "sport": "MLB",
+    "bet": "Under 7.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 0.8
   }
 ]
