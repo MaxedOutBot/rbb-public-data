@@ -2598,5 +2598,13 @@
     "odds": "-110",
     "result": "W",
     "units": 0.8
+  },
+  {
+    "date": "2026-08-20",
+    "sport": "MLB",
+    "bet": "St. Louis Cardinals ML",
+    "odds": "-112",
+    "result": "W",
+    "units": 1.0
   }
 ]
