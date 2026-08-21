@@ -2622,5 +2622,13 @@
     "odds": "-110",
     "result": "W",
     "units": 1.5
+  },
+  {
+    "date": "2026-08-21",
+    "sport": "MLB",
+    "bet": "Under 5.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 0.8
   }
 ]
