@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-20",
-  "last_updated": "03:58 PM PT",
+  "date": "2026-08-21",
+  "last_updated": "09:14 AM PT",
   "premium_picks_count": 2,
   "no_games_today": false,
   "free_pick": {
-    "game": "St. Louis Cardinals @ Cincinnati Reds",
+    "game": "St. Louis Cardinals @ Philadelphia Phillies",
     "bet": "St. Louis Cardinals ML",
     "bet_type": "ML",
-    "odds": "-112",
-    "stars": 2,
-    "units_display": "1.0 Unit",
+    "odds": "224",
+    "stars": 4,
+    "units_display": "2.0 Units",
     "customer_reasons": [
       "Game 1 of this series is a spot where this side has real value",
-      "St. Louis Cardinals's starting pitching matchup against Cincinnati Reds gives them a real edge"
+      "St. Louis Cardinals is playing well right now, and it shows"
     ]
   }
 }
