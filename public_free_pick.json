@@ -1,18 +1,7 @@
 {
-  "date": "2026-08-21",
-  "last_updated": "08:18 PM PT",
-  "premium_picks_count": 4,
+  "date": "2026-08-22",
+  "last_updated": "07:39 AM PT",
+  "premium_picks_count": 1,
   "no_games_today": false,
-  "free_pick": {
-    "game": "Toronto Blue Jays @ New York Yankees",
-    "bet": "Toronto Blue Jays ML",
-    "bet_type": "ML",
-    "odds": "173",
-    "stars": 3,
-    "units_display": "1.5 Units",
-    "customer_reasons": [
-      "Game 1 of this series is a spot where this side has real value",
-      "Toronto Blue Jays is playing well right now, and it shows"
-    ]
-  }
+  "free_pick": null
 }
