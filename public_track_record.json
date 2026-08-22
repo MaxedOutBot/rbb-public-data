@@ -2654,5 +2654,13 @@
     "odds": "114",
     "result": "L",
     "units": 1.5
+  },
+  {
+    "date": "2026-08-22",
+    "sport": "MLB",
+    "bet": "Toronto Blue Jays ML",
+    "odds": "-109",
+    "result": "W",
+    "units": 1.0
   }
 ]
