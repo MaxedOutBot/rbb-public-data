@@ -1,18 +1,18 @@
 {
   "date": "2026-08-21",
-  "last_updated": "03:56 PM PT",
-  "premium_picks_count": 2,
+  "last_updated": "06:28 PM PT",
+  "premium_picks_count": 3,
   "no_games_today": false,
   "free_pick": {
-    "game": "St. Louis Cardinals @ Philadelphia Phillies",
-    "bet": "St. Louis Cardinals ML",
+    "game": "Toronto Blue Jays @ New York Yankees",
+    "bet": "Toronto Blue Jays ML",
     "bet_type": "ML",
-    "odds": "224",
-    "stars": 4,
-    "units_display": "2.0 Units",
+    "odds": "173",
+    "stars": 3,
+    "units_display": "1.5 Units",
     "customer_reasons": [
       "Game 1 of this series is a spot where this side has real value",
-      "St. Louis Cardinals is playing well right now, and it shows"
+      "Toronto Blue Jays is playing well right now, and it shows"
     ]
   }
 }
