@@ -2650,10 +2650,58 @@
   {
     "date": "2026-08-21",
     "sport": "MLB",
+    "bet": "Kansas City Royals ML",
+    "odds": "-108",
+    "result": "W",
+    "units": 2.0
+  },
+  {
+    "date": "2026-08-21",
+    "sport": "MLB",
+    "bet": "Detroit Tigers ML",
+    "odds": "-107",
+    "result": "L",
+    "units": 1.5
+  },
+  {
+    "date": "2026-08-21",
+    "sport": "MLB",
+    "bet": "Over 10.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-08-21",
+    "sport": "MLB",
+    "bet": "Chicago Cubs ML",
+    "odds": "-106",
+    "result": "L",
+    "units": 2.0
+  },
+  {
+    "date": "2026-08-21",
+    "sport": "MLB",
     "bet": "New York Mets ML",
     "odds": "114",
     "result": "L",
     "units": 1.5
+  },
+  {
+    "date": "2026-08-21",
+    "sport": "MLB",
+    "bet": "Seattle Mariners ML",
+    "odds": "-104",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-08-21",
+    "sport": "MLB",
+    "bet": "San Diego Padres ML",
+    "odds": "-119",
+    "result": "W",
+    "units": 1.0
   },
   {
     "date": "2026-08-22",
