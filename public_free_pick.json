@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-22",
-  "last_updated": "01:41 PM PT",
-  "premium_picks_count": 1,
+  "date": "2026-08-23",
+  "last_updated": "09:02 AM PT",
+  "premium_picks_count": 2,
   "no_games_today": false,
   "free_pick": {
-    "game": "Toronto Blue Jays @ New York Yankees",
-    "bet": "Toronto Blue Jays ML",
+    "game": "Detroit Tigers @ Kansas City Royals",
+    "bet": "Kansas City Royals ML",
     "bet_type": "ML",
-    "odds": "-109",
-    "stars": 2,
-    "units_display": "1.0 Unit",
+    "odds": "101",
+    "stars": 4,
+    "units_display": "2.0 Units",
     "customer_reasons": [
-      "Game 1 of this series is a spot where this side has real value",
-      "Toronto Blue Jays' starting pitching matchup against New York Yankees gives them a real edge"
+      "Injury and lineup news is breaking in Kansas City Royals' favor",
+      "Game 1 of this series is a spot where this side has real value"
     ]
   }
 }
