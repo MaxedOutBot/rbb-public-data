@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-23",
-  "last_updated": "03:54 PM PT",
-  "premium_picks_count": 2,
+  "date": "2026-08-24",
+  "last_updated": "12:52 PM PT",
+  "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
-    "game": "Detroit Tigers @ Kansas City Royals",
-    "bet": "Kansas City Royals ML",
+    "game": "Tampa Bay Rays @ Detroit Tigers",
+    "bet": "Tampa Bay Rays ML",
     "bet_type": "ML",
-    "odds": "101",
-    "stars": 4,
-    "units_display": "2.0 Units",
+    "odds": "-127",
+    "stars": 3,
+    "units_display": "1.5 Units",
     "customer_reasons": [
-      "Injury and lineup news is breaking in Kansas City Royals' favor",
+      "Injury and lineup news is breaking in Tampa Bay Rays' favor",
       "Game 1 of this series is a spot where this side has real value"
     ]
   }
