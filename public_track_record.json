@@ -2758,5 +2758,53 @@
     "odds": "111",
     "result": "W",
     "units": 2.0
+  },
+  {
+    "date": "2026-08-25",
+    "sport": "MLB",
+    "bet": "San Francisco Giants ML",
+    "odds": "-107",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-08-25",
+    "sport": "MLB",
+    "bet": "Seattle Mariners ML",
+    "odds": "-109",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-08-25",
+    "sport": "MLB",
+    "bet": "San Diego Padres ML",
+    "odds": "-122",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-08-26",
+    "sport": "MLB",
+    "bet": "Arizona Diamondbacks ML",
+    "odds": "-111",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-08-26",
+    "sport": "MLB",
+    "bet": "Kansas City Royals ML",
+    "odds": "110",
+    "result": "L",
+    "units": 1.5
+  },
+  {
+    "date": "2026-08-26",
+    "sport": "MLB",
+    "bet": "New York Mets ML",
+    "odds": "135",
+    "result": "L",
+    "units": 1.5
   }
 ]
