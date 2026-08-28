@@ -2806,5 +2806,13 @@
     "odds": "135",
     "result": "L",
     "units": 1.5
+  },
+  {
+    "date": "2026-08-26",
+    "sport": "MLB",
+    "bet": "Los Angeles Dodgers ML",
+    "odds": "-105",
+    "result": "L",
+    "units": 1.5
   }
 ]
