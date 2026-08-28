@@ -2600,6 +2600,14 @@
     "units": 0.8
   },
   {
+    "date": "2026-08-19",
+    "sport": "MLB",
+    "bet": "Over 11.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.5
+  },
+  {
     "date": "2026-08-20",
     "sport": "MLB",
     "bet": "St. Louis Cardinals ML",
@@ -2813,6 +2821,22 @@
     "bet": "Los Angeles Dodgers ML",
     "odds": "-105",
     "result": "L",
+    "units": 1.5
+  },
+  {
+    "date": "2026-08-27",
+    "sport": "MLB",
+    "bet": "Arizona Diamondbacks ML",
+    "odds": "-118",
+    "result": "L",
+    "units": 1.5
+  },
+  {
+    "date": "2026-08-27",
+    "sport": "MLB",
+    "bet": "Kansas City Royals ML",
+    "odds": "-108",
+    "result": "W",
     "units": 1.5
   }
 ]
