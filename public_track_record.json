@@ -2838,5 +2838,13 @@
     "odds": "-108",
     "result": "W",
     "units": 1.5
+  },
+  {
+    "date": "2026-08-28",
+    "sport": "MLB",
+    "bet": "Kansas City Royals ML",
+    "odds": "118",
+    "result": "W",
+    "units": 1.0
   }
 ]
