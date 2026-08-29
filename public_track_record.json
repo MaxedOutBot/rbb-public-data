@@ -2842,6 +2842,22 @@
   {
     "date": "2026-08-28",
     "sport": "MLB",
+    "bet": "Boston Red Sox ML",
+    "odds": "134",
+    "result": "L",
+    "units": 1.5
+  },
+  {
+    "date": "2026-08-28",
+    "sport": "MLB",
+    "bet": "Pittsburgh Pirates ML",
+    "odds": "-116",
+    "result": "L",
+    "units": 1.5
+  },
+  {
+    "date": "2026-08-28",
+    "sport": "MLB",
     "bet": "Kansas City Royals ML",
     "odds": "118",
     "result": "W",
