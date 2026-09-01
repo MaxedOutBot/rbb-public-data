@@ -2878,5 +2878,21 @@
     "odds": "-110",
     "result": "W",
     "units": 1.0
+  },
+  {
+    "date": "2026-08-29",
+    "sport": "MLB",
+    "bet": "Kansas City Royals ML",
+    "odds": "143",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-08-29",
+    "sport": "MLB",
+    "bet": "Arizona Diamondbacks ML",
+    "odds": "-115",
+    "result": "W",
+    "units": 1.0
   }
 ]
