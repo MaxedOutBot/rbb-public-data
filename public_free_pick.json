@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-29",
-  "last_updated": "12:54 PM PT",
-  "premium_picks_count": 2,
+  "date": "2026-08-31",
+  "last_updated": "06:23 PM PT",
+  "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
-    "game": "Pittsburgh Pirates @ St. Louis Cardinals",
-    "bet": "St. Louis Cardinals ML",
+    "game": "Milwaukee Brewers @ Chicago Cubs",
+    "bet": "Chicago Cubs ML",
     "bet_type": "ML",
-    "odds": "-124",
-    "stars": 4,
-    "units_display": "2.0 Units",
+    "odds": "-107",
+    "stars": 2,
+    "units_display": "1.0 Unit",
     "customer_reasons": [
-      "Injury and lineup news is breaking in St. Louis Cardinals' favor",
-      "Game 1 of this series is a spot where this side has real value"
+      "Game 1 of this series is a spot where this side has real value",
+      "Chicago Cubs' starting pitching matchup against Milwaukee Brewers gives them a real edge"
     ]
   }
 }
