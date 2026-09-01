@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-31",
-  "last_updated": "06:23 PM PT",
-  "premium_picks_count": 0,
+  "date": "2026-09-01",
+  "last_updated": "07:55 AM PT",
+  "premium_picks_count": 1,
   "no_games_today": false,
   "free_pick": {
-    "game": "Milwaukee Brewers @ Chicago Cubs",
-    "bet": "Chicago Cubs ML",
+    "game": "Miami Marlins @ Kansas City Royals",
+    "bet": "Kansas City Royals ML",
     "bet_type": "ML",
-    "odds": "-107",
-    "stars": 2,
-    "units_display": "1.0 Unit",
+    "odds": "-118",
+    "stars": 3,
+    "units_display": "1.5 Units",
     "customer_reasons": [
-      "Game 1 of this series is a spot where this side has real value",
-      "Chicago Cubs' starting pitching matchup against Milwaukee Brewers gives them a real edge"
+      "Kansas City Royals' starting pitching matchup against Miami Marlins gives them a real edge",
+      "Game 1 of this series is a spot where this side has real value"
     ]
   }
 }
