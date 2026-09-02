@@ -1,18 +1,18 @@
 {
-  "date": "2026-09-01",
-  "last_updated": "10:43 PM PT",
-  "premium_picks_count": 2,
+  "date": "2026-09-02",
+  "last_updated": "01:19 PM PT",
+  "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
-    "game": "Miami Marlins @ Kansas City Royals",
-    "bet": "Kansas City Royals ML",
+    "game": "Toronto Blue Jays @ Cleveland Guardians",
+    "bet": "Toronto Blue Jays ML",
     "bet_type": "ML",
-    "odds": "-118",
-    "stars": 3,
-    "units_display": "1.5 Units",
+    "odds": "-133",
+    "stars": 2,
+    "units_display": "1.0 Unit",
     "customer_reasons": [
-      "Kansas City Royals' starting pitching matchup against Miami Marlins gives them a real edge",
-      "Game 1 of this series is a spot where this side has real value"
+      "Game 1 of this series is a spot where this side has real value",
+      "Toronto Blue Jays' starting pitching matchup against Cleveland Guardians gives them a real edge"
     ]
   }
 }
