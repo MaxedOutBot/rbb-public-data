@@ -2950,5 +2950,29 @@
     "odds": "-135",
     "result": "L",
     "units": 2.0
+  },
+  {
+    "date": "2026-09-02",
+    "sport": "MLB",
+    "bet": "Detroit Tigers ML",
+    "odds": "-104",
+    "result": "L",
+    "units": 2.0
+  },
+  {
+    "date": "2026-09-02",
+    "sport": "MLB",
+    "bet": "Miami Marlins ML",
+    "odds": "-104",
+    "result": "W",
+    "units": 2.0
+  },
+  {
+    "date": "2026-09-02",
+    "sport": "MLB",
+    "bet": "Under 7.5",
+    "odds": "-110",
+    "result": "W",
+    "units": 1.0
   }
 ]
