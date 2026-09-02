@@ -2922,9 +2922,25 @@
   {
     "date": "2026-09-01",
     "sport": "MLB",
+    "bet": "Chicago White Sox ML",
+    "odds": "-113",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
     "bet": "Detroit Tigers ML",
     "odds": "-109",
     "result": "L",
     "units": 2.0
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "bet": "Baltimore Orioles ML",
+    "odds": "-152",
+    "result": "L",
+    "units": 1.0
   }
 ]
