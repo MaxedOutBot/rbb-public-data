@@ -3006,5 +3006,13 @@
     "odds": "-159",
     "result": "W",
     "units": 1.0
+  },
+  {
+    "date": "2026-09-03",
+    "sport": "MLB",
+    "bet": "Cleveland Guardians ML",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.5
   }
 ]
