@@ -3022,5 +3022,13 @@
     "odds": "-123",
     "result": "W",
     "units": 1.5
+  },
+  {
+    "date": "2026-09-03",
+    "sport": "MLB",
+    "bet": "Under 9.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.0
   }
 ]
