@@ -1,18 +1,18 @@
 {
-  "date": "2026-09-02",
-  "last_updated": "01:56 PM PT",
-  "premium_picks_count": 2,
+  "date": "2026-09-03",
+  "last_updated": "03:46 PM PT",
+  "premium_picks_count": 1,
   "no_games_today": false,
   "free_pick": {
-    "game": "Toronto Blue Jays @ Cleveland Guardians",
-    "bet": "Toronto Blue Jays ML",
+    "game": "Milwaukee Brewers @ Chicago Cubs",
+    "bet": "Milwaukee Brewers ML",
     "bet_type": "ML",
-    "odds": "-133",
-    "stars": 2,
-    "units_display": "1.0 Unit",
+    "odds": "-124",
+    "stars": 3,
+    "units_display": "1.5 Units",
     "customer_reasons": [
       "Game 1 of this series is a spot where this side has real value",
-      "Toronto Blue Jays' starting pitching matchup against Cleveland Guardians gives them a real edge"
+      "Milwaukee Brewers' starting pitching matchup against Chicago Cubs gives them a real edge"
     ]
   }
 }
