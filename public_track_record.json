@@ -2982,5 +2982,29 @@
     "odds": "-133",
     "result": "L",
     "units": 1.0
+  },
+  {
+    "date": "2026-09-02",
+    "sport": "MLB",
+    "bet": "Minnesota Twins ML",
+    "odds": "-116",
+    "result": "L",
+    "units": 2.0
+  },
+  {
+    "date": "2026-09-02",
+    "sport": "MLB",
+    "bet": "Cleveland Guardians ML",
+    "odds": "113",
+    "result": "L",
+    "units": 2.0
+  },
+  {
+    "date": "2026-09-02",
+    "sport": "MLB",
+    "bet": "Milwaukee Brewers ML",
+    "odds": "-159",
+    "result": "W",
+    "units": 1.0
   }
 ]
