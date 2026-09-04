@@ -3018,6 +3018,14 @@
   {
     "date": "2026-09-03",
     "sport": "MLB",
+    "bet": "Under 7.5",
+    "odds": "-110",
+    "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-09-03",
+    "sport": "MLB",
     "bet": "Milwaukee Brewers ML",
     "odds": "-123",
     "result": "W",
@@ -3029,6 +3037,14 @@
     "bet": "Under 9.5",
     "odds": "-110",
     "result": "L",
+    "units": 1.0
+  },
+  {
+    "date": "2026-09-03",
+    "sport": "MLB",
+    "bet": "Kansas City Royals ML",
+    "odds": "-119",
+    "result": "W",
     "units": 1.0
   }
 ]
