@@ -3102,5 +3102,29 @@
     "odds": "-108",
     "result": "W",
     "units": 1.5
+  },
+  {
+    "date": "2026-09-05",
+    "sport": "MLB",
+    "bet": "Arizona Diamondbacks ML",
+    "odds": "-108",
+    "result": "L",
+    "units": 2.0
+  },
+  {
+    "date": "2026-09-05",
+    "sport": "MLB",
+    "bet": "Atlanta Braves ML",
+    "odds": "136",
+    "result": "W",
+    "units": 2.0
+  },
+  {
+    "date": "2026-09-05",
+    "sport": "MLB",
+    "bet": "Texas Rangers ML",
+    "odds": "-109",
+    "result": "L",
+    "units": 1.5
   }
 ]
