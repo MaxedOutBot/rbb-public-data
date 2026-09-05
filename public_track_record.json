@@ -3050,9 +3050,57 @@
   {
     "date": "2026-09-04",
     "sport": "MLB",
+    "bet": "Chicago White Sox ML",
+    "odds": "-116",
+    "result": "W",
+    "units": 2.0
+  },
+  {
+    "date": "2026-09-04",
+    "sport": "MLB",
+    "bet": "New York Yankees ML",
+    "odds": "-117",
+    "result": "L",
+    "units": 2.0
+  },
+  {
+    "date": "2026-09-04",
+    "sport": "MLB",
     "bet": "Boston Red Sox ML",
     "odds": "-118",
     "result": "W",
     "units": 2.0
+  },
+  {
+    "date": "2026-09-04",
+    "sport": "MLB",
+    "bet": "Philadelphia Phillies ML",
+    "odds": "-110",
+    "result": "L",
+    "units": 2.0
+  },
+  {
+    "date": "2026-09-04",
+    "sport": "MLB",
+    "bet": "Texas Rangers ML",
+    "odds": "-111",
+    "result": "L",
+    "units": 1.5
+  },
+  {
+    "date": "2026-09-04",
+    "sport": "MLB",
+    "bet": "Tampa Bay Rays ML",
+    "odds": "-108",
+    "result": "W",
+    "units": 2.0
+  },
+  {
+    "date": "2026-09-04",
+    "sport": "MLB",
+    "bet": "Atlanta Braves ML",
+    "odds": "-108",
+    "result": "W",
+    "units": 1.5
   }
 ]
