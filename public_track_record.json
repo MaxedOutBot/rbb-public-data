@@ -3166,5 +3166,21 @@
     "odds": "-108",
     "result": "W",
     "units": 2.0
+  },
+  {
+    "date": "2026-09-06",
+    "sport": "MLB",
+    "bet": "St. Louis Cardinals ML",
+    "odds": "-135",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-09-06",
+    "sport": "MLB",
+    "bet": "Boston Red Sox ML",
+    "odds": "-133",
+    "result": "W",
+    "units": 1.0
   }
 ]
