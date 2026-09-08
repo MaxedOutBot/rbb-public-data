@@ -1,18 +1,18 @@
 {
-  "date": "2026-09-07",
-  "last_updated": "12:25 PM PT",
-  "premium_picks_count": 1,
+  "date": "2026-09-08",
+  "last_updated": "12:01 PM PT",
+  "premium_picks_count": 2,
   "no_games_today": false,
   "free_pick": {
-    "game": "Atlanta Braves @ Philadelphia Phillies",
-    "bet": "Atlanta Braves ML",
+    "game": "St. Louis Cardinals @ San Francisco Giants",
+    "bet": "St. Louis Cardinals ML",
     "bet_type": "ML",
-    "odds": "156",
+    "odds": "-109",
     "stars": 4,
     "units_display": "2.0 Units",
     "customer_reasons": [
-      "Game 1 of this series is a spot where this side has real value",
-      "Atlanta Braves is playing well right now, and it shows"
+      "Injury and lineup news is breaking in St. Louis Cardinals' favor",
+      "Game 1 of this series is a spot where this side has real value"
     ]
   }
 }
