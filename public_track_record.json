@@ -3198,5 +3198,29 @@
     "odds": "146",
     "result": "L",
     "units": 2.0
+  },
+  {
+    "date": "2026-09-08",
+    "sport": "MLB",
+    "bet": "St. Louis Cardinals ML",
+    "odds": "-109",
+    "result": "L",
+    "units": 2.0
+  },
+  {
+    "date": "2026-09-08",
+    "sport": "MLB",
+    "bet": "Baltimore Orioles ML",
+    "odds": "-120",
+    "result": "L",
+    "units": 1.5
+  },
+  {
+    "date": "2026-09-08",
+    "sport": "MLB",
+    "bet": "Atlanta Braves ML",
+    "odds": "-114",
+    "result": "L",
+    "units": 1.0
   }
 ]
