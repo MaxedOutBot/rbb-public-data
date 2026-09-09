@@ -3222,5 +3222,29 @@
     "odds": "-114",
     "result": "L",
     "units": 1.0
+  },
+  {
+    "date": "2026-09-09",
+    "sport": "MLB",
+    "bet": "Pittsburgh Pirates ML",
+    "odds": "117",
+    "result": "W",
+    "units": 2.0
+  },
+  {
+    "date": "2026-09-09",
+    "sport": "MLB",
+    "bet": "Cleveland Guardians ML",
+    "odds": "-117",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-09-09",
+    "sport": "MLB",
+    "bet": "Milwaukee Brewers ML",
+    "odds": "-133",
+    "result": "W",
+    "units": 1.5
   }
 ]
