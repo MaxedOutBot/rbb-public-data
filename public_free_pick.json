@@ -1,18 +1,18 @@
 {
-  "date": "2026-09-09",
-  "last_updated": "01:52 PM PT",
-  "premium_picks_count": 2,
+  "date": "2026-09-10",
+  "last_updated": "11:43 AM PT",
+  "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
     "game": "Pittsburgh Pirates @ Chicago White Sox",
-    "bet": "Pittsburgh Pirates ML",
+    "bet": "Chicago White Sox ML",
     "bet_type": "ML",
-    "odds": "117",
+    "odds": "-109",
     "stars": 4,
     "units_display": "2.0 Units",
     "customer_reasons": [
       "Game 1 of this series is a spot where this side has real value",
-      "Pittsburgh Pirates' starting pitching matchup against Chicago White Sox gives them a real edge"
+      "Chicago White Sox's starting pitching matchup against Pittsburgh Pirates gives them a real edge"
     ]
   }
 }
