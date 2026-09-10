@@ -3254,5 +3254,13 @@
     "odds": "-124",
     "result": "L",
     "units": 2.0
+  },
+  {
+    "date": "2026-09-10",
+    "sport": "MLB",
+    "bet": "Chicago White Sox ML",
+    "odds": "-109",
+    "result": "L",
+    "units": 2.0
   }
 ]
