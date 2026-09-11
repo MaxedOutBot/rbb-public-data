@@ -3262,5 +3262,13 @@
     "odds": "-109",
     "result": "L",
     "units": 2.0
+  },
+  {
+    "date": "2026-09-11",
+    "sport": "MLB",
+    "bet": "Pittsburgh Pirates ML",
+    "odds": "161",
+    "result": "W",
+    "units": 3.0
   }
 ]
