@@ -3286,5 +3286,29 @@
     "odds": "-113",
     "result": "L",
     "units": 2.0
+  },
+  {
+    "date": "2026-09-12",
+    "sport": "MLB",
+    "bet": "New York Mets ML",
+    "odds": "139",
+    "result": "W",
+    "units": 2.0
+  },
+  {
+    "date": "2026-09-12",
+    "sport": "MLB",
+    "bet": "Chicago White Sox ML",
+    "odds": "-108",
+    "result": "L",
+    "units": 2.0
+  },
+  {
+    "date": "2026-09-12",
+    "sport": "MLB",
+    "bet": "Pittsburgh Pirates ML",
+    "odds": "105",
+    "result": "L",
+    "units": 1.5
   }
 ]
