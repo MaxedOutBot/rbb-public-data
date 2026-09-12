@@ -3270,5 +3270,21 @@
     "odds": "161",
     "result": "W",
     "units": 3.0
+  },
+  {
+    "date": "2026-09-11",
+    "sport": "MLB",
+    "bet": "New York Mets ML",
+    "odds": "116",
+    "result": "L",
+    "units": 2.0
+  },
+  {
+    "date": "2026-09-11",
+    "sport": "MLB",
+    "bet": "Chicago White Sox ML",
+    "odds": "-113",
+    "result": "L",
+    "units": 2.0
   }
 ]
