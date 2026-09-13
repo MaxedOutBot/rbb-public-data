@@ -3310,5 +3310,21 @@
     "odds": "105",
     "result": "L",
     "units": 1.5
+  },
+  {
+    "date": "2026-09-12",
+    "sport": "MLB",
+    "bet": "Cleveland Guardians ML",
+    "odds": "-109",
+    "result": "L",
+    "units": 2.0
+  },
+  {
+    "date": "2026-09-12",
+    "sport": "MLB",
+    "bet": "Toronto Blue Jays ML",
+    "odds": "-141",
+    "result": "W",
+    "units": 1.0
   }
 ]
