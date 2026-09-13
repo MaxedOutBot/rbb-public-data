@@ -3326,5 +3326,29 @@
     "odds": "-141",
     "result": "W",
     "units": 1.0
+  },
+  {
+    "date": "2026-09-13",
+    "sport": "MLB",
+    "bet": "New York Mets ML",
+    "odds": "152",
+    "result": "L",
+    "units": 1.5
+  },
+  {
+    "date": "2026-09-13",
+    "sport": "MLB",
+    "bet": "Atlanta Braves ML",
+    "odds": "-130",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-09-13",
+    "sport": "MLB",
+    "bet": "Washington Nationals ML",
+    "odds": "-136",
+    "result": "W",
+    "units": 1.0
   }
 ]
