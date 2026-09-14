@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-13",
-  "last_updated": "12:54 PM PT",
+  "date": "2026-09-14",
+  "last_updated": "02:13 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
-    "game": "Los Angeles Angels @ Washington Nationals",
-    "bet": "Washington Nationals ML",
+    "game": "Seattle Mariners @ Los Angeles Angels",
+    "bet": "Los Angeles Angels ML",
     "bet_type": "ML",
-    "odds": "-136",
+    "odds": "-106",
     "stars": null,
-    "units_display": "1.0 Unit",
+    "units_display": "1.5 Units",
     "customer_reasons": [
       "Game 1 of this series is a spot where this side has real value",
-      "Washington Nationals' starting pitching matchup against Los Angeles Angels gives them a real edge"
+      "Los Angeles Angels' starting pitching matchup against Seattle Mariners gives them a real edge"
     ],
-    "commence_time": "2026-09-13T17:35:00+00:00"
+    "commence_time": "2026-09-15T01:38:00+00:00"
   }
 }
