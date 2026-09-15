@@ -3236,7 +3236,7 @@
     "sport": "MLB",
     "bet": "Cleveland Guardians ML",
     "odds": "-117",
-    "result": "W",
+    "result": "L",
     "units": 1.5
   },
   {
@@ -3268,7 +3268,7 @@
     "sport": "MLB",
     "bet": "Pittsburgh Pirates ML",
     "odds": "161",
-    "result": "W",
+    "result": "L",
     "units": 3.0
   },
   {
@@ -3300,7 +3300,7 @@
     "sport": "MLB",
     "bet": "Chicago White Sox ML",
     "odds": "-108",
-    "result": "L",
+    "result": "W",
     "units": 2.0
   },
   {
@@ -3340,7 +3340,7 @@
     "sport": "MLB",
     "bet": "Atlanta Braves ML",
     "odds": "-130",
-    "result": "W",
+    "result": "L",
     "units": 1.5
   },
   {
@@ -3350,5 +3350,21 @@
     "odds": "-136",
     "result": "W",
     "units": 1.0
+  },
+  {
+    "date": "2026-09-14",
+    "sport": "MLB",
+    "bet": "Los Angeles Angels ML",
+    "odds": "-106",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-09-14",
+    "sport": "MLB",
+    "bet": "New York Yankees ML",
+    "odds": "-127",
+    "result": "W",
+    "units": 1.5
   }
 ]
