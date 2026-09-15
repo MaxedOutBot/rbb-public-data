@@ -5,15 +5,16 @@
   "no_games_today": false,
   "free_pick": {
     "game": "Boston Red Sox @ Texas Rangers",
-    "bet": "Boston Red Sox ML",
+    "bet": "Texas Rangers ML",
     "bet_type": "ML",
-    "odds": "109",
-    "stars": null,
+    "odds": "-140",
+    "stars": 5,
     "units_display": "1.5 Units",
     "customer_reasons": [
-      "Injury and lineup news is breaking in Boston Red Sox's favor",
-      "Game 1 of this series is a spot where this side has real value"
+      "RIC RULE: the market has moved sharply toward Texas Rangers, a 10.1-point real shift from the opener",
+      "This is Manhattan's highest-tier market-intelligence signal -- verified, structural override of ordinary signals"
     ],
-    "commence_time": "2026-09-16T00:05:00+00:00"
+    "commence_time": "2026-09-16T00:05:00+00:00",
+    "_ric_rule_ml": true
   }
 }
