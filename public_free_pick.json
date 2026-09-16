@@ -15,6 +15,7 @@
       "This is Manhattan's highest-tier market-intelligence signal -- verified, structural override of ordinary signals"
     ],
     "commence_time": "2026-09-16T00:05:00+00:00",
-    "_ric_rule_ml": true
+    "_ric_rule_ml": true,
+    "result": null
   }
 }
