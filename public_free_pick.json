@@ -1,20 +1,20 @@
 {
-  "date": "2026-09-17",
-  "last_updated": "02:15 PM PT",
-  "premium_picks_count": 1,
+  "date": "2026-09-18",
+  "last_updated": "01:13 PM PT",
+  "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
-    "game": "Minnesota Twins @ Los Angeles Angels",
-    "bet": "Los Angeles Angels ML",
+    "game": "Washington Nationals @ St. Louis Cardinals",
+    "bet": "St. Louis Cardinals ML",
     "bet_type": "ML",
-    "odds": "-107",
+    "odds": "-109",
     "stars": null,
     "units_display": "1.5 Units",
     "customer_reasons": [
-      "Game 1 of this series is a spot where this side has real value",
-      "Los Angeles Angels' starting pitching matchup against Minnesota Twins gives them a real edge"
+      "Injury and lineup news is breaking in St. Louis Cardinals' favor",
+      "Game 1 of this series is a spot where this side has real value"
     ],
-    "commence_time": "2026-09-18T01:38:00+00:00",
+    "commence_time": "2026-09-19T00:15:00+00:00",
     "_featured": null,
     "result": null
   }
