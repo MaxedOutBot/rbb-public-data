@@ -3454,5 +3454,13 @@
     "odds": "-126",
     "result": "W",
     "units": 1.5
+  },
+  {
+    "date": "2026-09-18",
+    "sport": "MLB",
+    "bet": "Detroit Tigers ML",
+    "odds": "112",
+    "result": "L",
+    "units": 1.5
   }
 ]
