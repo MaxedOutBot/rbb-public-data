@@ -2,30 +2,6 @@
   {
     "date": "2026-06-29",
     "sport": "MLB",
-    "bet": "Under 7.6",
-    "odds": "-110",
-    "result": "L",
-    "units": 1.0
-  },
-  {
-    "date": "2026-06-29",
-    "sport": "MLB",
-    "bet": "Under 8.5",
-    "odds": "-110",
-    "result": "L",
-    "units": 1.0
-  },
-  {
-    "date": "2026-06-29",
-    "sport": "MLB",
-    "bet": "Under 7.5",
-    "odds": "-110",
-    "result": "L",
-    "units": 1.0
-  },
-  {
-    "date": "2026-06-29",
-    "sport": "MLB",
     "bet": "Under 11.0",
     "odds": "-110",
     "result": "W",
@@ -3502,5 +3478,53 @@
     "odds": "110",
     "result": "W",
     "units": 1.5
+  },
+  {
+    "date": "2026-09-19",
+    "sport": "MLB",
+    "bet": "Washington Nationals ML",
+    "odds": "-109",
+    "result": "W",
+    "units": 1.5
+  },
+  {
+    "date": "2026-09-19",
+    "sport": "MLB",
+    "bet": "Houston Astros ML",
+    "odds": "-135",
+    "result": "L",
+    "units": 1.5
+  },
+  {
+    "date": "2026-09-20",
+    "sport": "MLB",
+    "bet": "New York Yankees ML",
+    "odds": "-105",
+    "result": "L",
+    "units": 1.5
+  },
+  {
+    "date": "2026-09-20",
+    "sport": "MLB",
+    "bet": "Detroit Tigers ML",
+    "odds": "-103",
+    "result": "L",
+    "units": 1.5
+  },
+  {
+    "date": "2026-09-20",
+    "sport": "MLB",
+    "bet": "Philadelphia Phillies ML",
+    "odds": "-161",
+    "result": "L",
+    "units": 1.5
+  },
+  {
+    "date": "2026-09-20",
+    "sport": "MLB",
+    "bet": "Minnesota Twins ML",
+    "odds": "-119",
+    "result": "L",
+    "units": 1.0
   }
 ]
