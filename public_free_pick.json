@@ -1,21 +1,7 @@
 {
-  "date": "2026-09-19",
-  "last_updated": "01:30 PM PT",
-  "premium_picks_count": 1,
+  "date": "2026-10-08",
+  "last_updated": "October 08, 2026 07:24 AM PT",
+  "premium_picks_count": 0,
   "no_games_today": false,
-  "free_pick": {
-    "game": "Toronto Blue Jays @ Texas Rangers",
-    "bet": "Texas Rangers ML",
-    "bet_type": "ML",
-    "odds": "-112",
-    "stars": null,
-    "units_display": "1.5 Units",
-    "customer_reasons": [
-      "Game 1 of this series is a spot where this side has real value",
-      "Texas Rangers' starting pitching matchup against Toronto Blue Jays gives them a real edge"
-    ],
-    "commence_time": "2026-09-19T23:05:00+00:00",
-    "_featured": true,
-    "result": null
-  }
+  "free_pick": null
 }
