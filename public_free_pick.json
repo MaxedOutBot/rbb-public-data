@@ -6,12 +6,12 @@
   "free_pick": null,
   "evaluation_status": "PARTIAL_DATA",
   "evaluation_coverage": {
-    "eligible_games": 4,
-    "evaluated_games": 3,
+    "eligible_games": 2,
+    "evaluated_games": 1,
     "unevaluated_games": 1,
     "unevaluated_by_sport": {
       "NBA": 1
     },
-    "started_games_excluded": 18
+    "started_games_excluded": 20
   }
 }
