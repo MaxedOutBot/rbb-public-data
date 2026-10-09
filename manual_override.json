@@ -1,20 +1,20 @@
 {
   "active": true,
-  "date": "10-08-26",
-  "pick": "NCAAF Arkansas State -164",
+  "date": "10-09-26",
+  "pick": "NCAAF Washington Huskies -150",
   "owner_provenance": {
-    "publication_id": "OWN-ddc86b03267d4fb57e49",
+    "publication_id": "OWN-a2dd6e19b3d8b40692a6",
     "kind": "OWNER_FREE_PLAY",
     "identity_state": "STRUCTURED",
-    "record_hash": "cc4fe89674d3f42e77932bfe91685082069f0895a6b0a2c8b62fb65ad3ed3404",
+    "record_hash": "d2def22ee092c6c79426adcb552e09a428632a147dfc1a3cc40eb4b9eadf56dd",
     "flags": [
-      "V13_NOT_EVALUATED"
+      "V13_AGREES"
     ]
   },
   "publication": {
-    "published_at_utc": "2026-10-09T01:07:54Z",
-    "published_at_basis": "Earliest public write of this pick: commit e1d4b8cb to MaxedOutBot/rbb-public-data (manual_override.json) at 2026-10-09T01:07:54Z. No earlier website publication is evidenced.",
-    "kickoff_utc": "2026-10-08T23:30:00Z",
-    "posted_after_kickoff": true
+    "published_at_utc": "2026-10-09T23:43:00Z",
+    "published_at_basis": "time this sync wrote the public file",
+    "kickoff_utc": null,
+    "posted_after_kickoff": null
   }
 }
