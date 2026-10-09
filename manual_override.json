@@ -1,5 +1,14 @@
 {
-  "active": false,
-  "date": "",
-  "pick": ""
+  "active": true,
+  "date": "10-08-26",
+  "pick": "NCAAF Arkansas State -164",
+  "owner_provenance": {
+    "publication_id": "OWN-ddc86b03267d4fb57e49",
+    "kind": "OWNER_FREE_PLAY",
+    "identity_state": "STRUCTURED",
+    "record_hash": "cc4fe89674d3f42e77932bfe91685082069f0895a6b0a2c8b62fb65ad3ed3404",
+    "flags": [
+      "V13_NOT_EVALUATED"
+    ]
+  }
 }
