@@ -1,10 +1,23 @@
 {
   "date": "2026-10-09",
-  "last_updated": "October 09, 2026 10:18 AM PT",
+  "last_updated": "02:57 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
-  "free_pick": null,
-  "evaluation_status": "COMPLETE_NO_QUALIFIERS",
+  "free_pick": {
+    "game": "New York Rangers @ Washington Capitals",
+    "bet": "Washington Capitals ML",
+    "bet_type": "ML",
+    "odds": "-144",
+    "stars": null,
+    "units_display": "0.5 Unit",
+    "customer_reasons": [
+      "Our model sees a clear, real edge on this side"
+    ],
+    "commence_time": "2026-10-09T23:09Z",
+    "_featured": null,
+    "result": null
+  },
+  "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
     "eligible_games": 12,
     "evaluated_games": 12,
