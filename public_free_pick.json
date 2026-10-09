@@ -1,15 +1,15 @@
 {
   "date": "2026-10-09",
-  "last_updated": "October 09, 2026 12:07 AM PT",
+  "last_updated": "October 09, 2026 07:32 AM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": null,
   "evaluation_status": "COMPLETE_NO_QUALIFIERS",
   "evaluation_coverage": {
-    "eligible_games": 13,
-    "evaluated_games": 13,
+    "eligible_games": 12,
+    "evaluated_games": 12,
     "unevaluated_games": 0,
     "unevaluated_by_sport": {},
-    "started_games_excluded": 0
+    "started_games_excluded": 1
   }
 }
