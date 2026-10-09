@@ -4,14 +4,12 @@
   "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": null,
-  "evaluation_status": "DATA_UNAVAILABLE",
+  "evaluation_status": "NO_REMAINING_GAMES",
   "evaluation_coverage": {
-    "eligible_games": 1,
+    "eligible_games": 0,
     "evaluated_games": 0,
-    "unevaluated_games": 1,
-    "unevaluated_by_sport": {
-      "NBA": 1
-    },
-    "started_games_excluded": 21
+    "unevaluated_games": 0,
+    "unevaluated_by_sport": {},
+    "started_games_excluded": 22
   }
 }
