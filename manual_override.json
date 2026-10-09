@@ -10,5 +10,11 @@
     "flags": [
       "V13_NOT_EVALUATED"
     ]
+  },
+  "publication": {
+    "published_at_utc": "2026-10-09T01:07:54Z",
+    "published_at_basis": "Earliest public write of this pick: commit e1d4b8cb to MaxedOutBot/rbb-public-data (manual_override.json) at 2026-10-09T01:07:54Z. No earlier website publication is evidenced.",
+    "kickoff_utc": "2026-10-08T23:30:00Z",
+    "posted_after_kickoff": true
   }
 }
