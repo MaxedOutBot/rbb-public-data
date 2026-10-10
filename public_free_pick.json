@@ -1,7 +1,7 @@
 {
   "date": "2026-10-09",
-  "last_updated": "04:52 PM PT",
-  "premium_picks_count": 2,
+  "last_updated": "06:00 PM PT",
+  "premium_picks_count": 1,
   "no_games_today": false,
   "free_pick": {
     "game": "Memphis Grizzlies @ Chicago Bulls",
@@ -19,10 +19,10 @@
   },
   "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
-    "eligible_games": 7,
-    "evaluated_games": 7,
+    "eligible_games": 2,
+    "evaluated_games": 2,
     "unevaluated_games": 0,
     "unevaluated_by_sport": {},
-    "started_games_excluded": 6
+    "started_games_excluded": 11
   }
 }
