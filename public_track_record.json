@@ -2720,83 +2720,13 @@
     "provenance": "LEGACY_GOOGLE_SHEET"
   },
   {
-    "date": "03-30-26",
-    "bet": "NCAAM Red Sox",
+    "date": "10-10-26",
+    "bet": "NCAAF Miami Ohio -5.5",
     "result": "L",
-    "all_time_record": "51 - 37",
+    "all_time_record": "172 - 101",
     "price": null,
     "profit_units": null,
     "sport": null,
-    "provenance": "HISTORICAL_VERIFIED_BASELINE"
-  },
-  {
-    "date": "04-03-26",
-    "bet": "MLB Houston Rockets -18",
-    "result": "W",
-    "all_time_record": "54 - 38",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "HISTORICAL_VERIFIED_BASELINE"
-  },
-  {
-    "date": "04-19-26",
-    "bet": "NHL Vegas Knights",
-    "result": "W",
-    "all_time_record": "63 - 43",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "HISTORICAL_VERIFIED_BASELINE"
-  },
-  {
-    "date": "05-12-26",
-    "bet": "NHL Vegas Knights",
-    "result": "W",
-    "all_time_record": "77 - 51",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "HISTORICAL_VERIFIED_BASELINE"
-  },
-  {
-    "date": "05-14-26",
-    "bet": "NHL Montreal Canadians",
-    "result": "W",
-    "all_time_record": "79 - 51",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "HISTORICAL_VERIFIED_BASELINE"
-  },
-  {
-    "date": "06-03-26",
-    "bet": "MLB San Franciso Giants",
-    "result": "W",
-    "all_time_record": "88 - 61",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "HISTORICAL_VERIFIED_BASELINE"
-  },
-  {
-    "date": "06-04-26",
-    "bet": "MLB Arizona Dbacks",
-    "result": "W",
-    "all_time_record": "89 - 61",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "HISTORICAL_VERIFIED_BASELINE"
-  },
-  {
-    "date": "06-16-26",
-    "bet": "MLB Houston Astro's -160",
-    "result": "W",
-    "all_time_record": "97 - 65",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "HISTORICAL_VERIFIED_BASELINE"
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
