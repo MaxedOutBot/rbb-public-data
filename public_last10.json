@@ -1,25 +1,5 @@
 [
   {
-    "date": "09-28-26",
-    "bet": "NFL Chicago Bears ML +160",
-    "result": "W",
-    "all_time_record": "163 - 97",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
-    "date": "09-29-26",
-    "bet": "MLB San Diego Padres -122",
-    "result": "W",
-    "all_time_record": "164 - 97",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "09-30-26",
     "bet": "MLB San Diego Padres -142",
     "result": "W",
@@ -98,5 +78,27 @@
     "profit_units": null,
     "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "10-09-26",
+    "bet": "NBA Chicago Bulls ML",
+    "result": "L",
+    "all_time_record": "171 - 99",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "2026-10-09",
+    "bet": "Washington Capitals ML",
+    "result": "W",
+    "publication_id": "f1d9d4d41ddbe19afd0f",
+    "provenance_detail": "LEDGER_FALLBACK_BET_TEXT_NO_PUBLICATION_ID",
+    "all_time_record": null,
+    "price": "-144",
+    "sport": "NHL",
+    "profit_units": 0.6944,
+    "provenance": "LEDGER_FREE_PICK_FINALIZED"
   }
 ]
