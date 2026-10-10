@@ -1,15 +1,5 @@
 [
   {
-    "date": "10-01-26",
-    "bet": "NCAAF North Texas -142",
-    "result": "W",
-    "all_time_record": "166 - 97",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "10-02-26",
     "bet": "NCAAF Northwestern +114",
     "result": "W",
@@ -94,6 +84,16 @@
     "bet": "NCAAF Washington Huskies -150",
     "result": "L",
     "all_time_record": "172 - 100",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "10-10-26",
+    "bet": "NCAAF Miami Ohio -5.5",
+    "result": "L",
+    "all_time_record": "172 - 101",
     "price": null,
     "profit_units": null,
     "sport": null,
