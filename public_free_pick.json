@@ -1,7 +1,7 @@
 {
   "date": "2026-10-10",
-  "last_updated": "04:50 PM PT",
-  "premium_picks_count": 0,
+  "last_updated": "05:18 PM PT",
+  "premium_picks_count": 1,
   "no_games_today": false,
   "free_pick": {
     "game": "LA Kings @ Vegas Golden Knights",
@@ -19,10 +19,10 @@
   },
   "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
-    "eligible_games": 11,
-    "evaluated_games": 11,
+    "eligible_games": 6,
+    "evaluated_games": 6,
     "unevaluated_games": 0,
     "unevaluated_by_sport": {},
-    "started_games_excluded": 57
+    "started_games_excluded": 62
   }
 }
