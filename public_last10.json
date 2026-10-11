@@ -1,15 +1,5 @@
 [
   {
-    "date": "10-02-26",
-    "bet": "NCAAF Northwestern +114",
-    "result": "W",
-    "all_time_record": "167 - 97",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "10-03-26",
     "bet": "NCAAF Texas State -9.5",
     "result": "L",
@@ -94,6 +84,16 @@
     "bet": "NCAAF Miami Ohio -5.5",
     "result": "L",
     "all_time_record": "172 - 101",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "10-10-26",
+    "bet": "NHL LA Kings @ Vegas Golden Knights Under 6.5 (-135)",
+    "result": "W",
+    "all_time_record": "173 - 101",
     "price": null,
     "profit_units": null,
     "sport": null,
