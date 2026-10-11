@@ -1,11 +1,12 @@
 {
   "date": "2026-10-11",
-  "last_updated": "03:28 PM PT",
+  "last_updated": "03:39 PM PT",
   "premium_picks_count": 2,
   "no_games_today": false,
   "free_pick": {
     "game": "San Francisco 49ers @ Seattle Seahawks",
     "bet": "Seattle Seahawks ML",
+    "tracker_label": "NFL Seattle Seahawks -172",
     "bet_type": "ML",
     "odds": "-172",
     "stars": null,
