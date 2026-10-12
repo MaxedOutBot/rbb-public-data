@@ -1,15 +1,5 @@
 [
   {
-    "date": "10-04-26",
-    "bet": "NFL Lions/Panthers Over 51.5",
-    "result": "W",
-    "all_time_record": "168 - 98",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "10-05-26",
     "bet": "NFL Atlanta Falcons -106",
     "result": "W",
@@ -94,6 +84,16 @@
     "bet": "NFL Seattle Seahawks -172",
     "result": "L",
     "all_time_record": "173 - 102",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "10-11-26",
+    "bet": "NFL Atlanta Falcons -172",
+    "result": "L",
+    "all_time_record": "173 - 103",
     "price": null,
     "profit_units": null,
     "sport": null,
