@@ -1,20 +1,20 @@
 {
   "active": true,
-  "date": "10-09-26",
-  "pick": "NCAAF Washington Huskies -150",
+  "date": "10-11-26",
+  "pick": "NFL Atlanta Falcons -172",
   "owner_provenance": {
-    "publication_id": "OWN-a2dd6e19b3d8b40692a6",
+    "publication_id": "OWN-0bc79371307c0bb4a178",
     "kind": "OWNER_FREE_PLAY",
     "identity_state": "STRUCTURED",
-    "record_hash": "d2def22ee092c6c79426adcb552e09a428632a147dfc1a3cc40eb4b9eadf56dd",
+    "record_hash": "21c260818dc6542b6fb5800bb5809f55994bafc5eb892ed3d131c7535ea87e08",
     "flags": [
-      "V13_AGREES"
+      "V13_NOT_EVALUATED"
     ]
   },
   "publication": {
-    "published_at_utc": "2026-10-09T23:43:00Z",
+    "published_at_utc": "2026-10-12T01:03:05Z",
     "published_at_basis": "time this sync wrote the public file",
-    "kickoff_utc": null,
-    "posted_after_kickoff": null
+    "kickoff_utc": "2026-10-12T00:20:00Z",
+    "posted_after_kickoff": true
   }
 }
