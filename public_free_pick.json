@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-11",
-  "last_updated": "04:59 PM PT",
-  "premium_picks_count": 1,
+  "date": "2026-10-12",
+  "last_updated": "02:40 PM PT",
+  "premium_picks_count": 2,
   "no_games_today": false,
   "free_pick": {
-    "game": "San Francisco 49ers @ Seattle Seahawks",
-    "bet": "Seattle Seahawks ML",
-    "tracker_label": "NFL Seattle Seahawks -172",
+    "game": "Ottawa Senators @ NJ Devils",
+    "bet": "NJ Devils ML",
+    "tracker_label": "NHL NJ Devils -122",
     "bet_type": "ML",
-    "odds": "-172",
+    "odds": "-122",
     "stars": null,
     "units_display": "0.5 Unit",
     "customer_reasons": [
       "Top-rated play on this game on today's board"
     ],
-    "commence_time": "2026-10-11T20:25Z",
+    "commence_time": "2026-10-12T23:10Z",
     "_featured": null,
-    "result": "L"
+    "result": null
   },
   "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
-    "eligible_games": 0,
-    "evaluated_games": 0,
+    "eligible_games": 8,
+    "evaluated_games": 8,
     "unevaluated_games": 0,
     "unevaluated_by_sport": {},
-    "started_games_excluded": 21
+    "started_games_excluded": 3
   }
 }
