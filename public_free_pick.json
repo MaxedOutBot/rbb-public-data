@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "last_updated": "04:39 PM PT",
+  "last_updated": "04:54 PM PT",
   "premium_picks_count": 3,
   "no_games_today": false,
   "free_pick": {
@@ -20,12 +20,12 @@
   },
   "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
-    "eligible_games": 14,
-    "evaluated_games": 13,
+    "eligible_games": 13,
+    "evaluated_games": 12,
     "unevaluated_games": 1,
     "unevaluated_by_sport": {
       "NCAAF": 1
     },
-    "started_games_excluded": 10
+    "started_games_excluded": 11
   }
 }
