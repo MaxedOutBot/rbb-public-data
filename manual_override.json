@@ -1,7 +1,7 @@
 {
   "active": true,
   "date": "10-12-26",
-  "pick": "NFL Los Angeles Rams ML -184",
+  "pick": "NFL Los Angeles Rams -184",
   "owner_provenance": {
     "publication_id": "OWN-116ca4d836f4cd5795d4",
     "kind": "OWNER_FREE_PLAY",
@@ -12,7 +12,7 @@
     ]
   },
   "publication": {
-    "published_at_utc": "2026-10-13T02:14:41Z",
+    "published_at_utc": "2026-10-13T02:20:50Z",
     "published_at_basis": "time this sync wrote the public file",
     "kickoff_utc": "2026-10-13T00:15Z",
     "posted_after_kickoff": true
