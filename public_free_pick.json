@@ -1,29 +1,31 @@
 {
-  "date": "2026-10-12",
-  "last_updated": "02:40 PM PT",
-  "premium_picks_count": 2,
+  "date": "2026-10-13",
+  "last_updated": "01:47 PM PT",
+  "premium_picks_count": 3,
   "no_games_today": false,
   "free_pick": {
-    "game": "Ottawa Senators @ NJ Devils",
-    "bet": "NJ Devils ML",
-    "tracker_label": "NHL NJ Devils -122",
+    "game": "Portland Trail Blazers @ Sacramento Kings",
+    "bet": "Portland Trail Blazers ML",
+    "tracker_label": "NBA Portland Trail Blazers -150",
     "bet_type": "ML",
-    "odds": "-122",
+    "odds": "-150",
     "stars": null,
     "units_display": "0.5 Unit",
     "customer_reasons": [
       "Top-rated play on this game on today's board"
     ],
-    "commence_time": "2026-10-12T23:10Z",
+    "commence_time": "2026-10-14T02:00Z",
     "_featured": null,
     "result": null
   },
   "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
-    "eligible_games": 0,
-    "evaluated_games": 0,
-    "unevaluated_games": 0,
-    "unevaluated_by_sport": {},
-    "started_games_excluded": 11
+    "eligible_games": 24,
+    "evaluated_games": 23,
+    "unevaluated_games": 1,
+    "unevaluated_by_sport": {
+      "NCAAF": 1
+    },
+    "started_games_excluded": 0
   }
 }
