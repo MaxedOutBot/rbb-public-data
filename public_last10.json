@@ -1,15 +1,5 @@
 [
   {
-    "date": "10-05-26",
-    "bet": "NFL Atlanta Falcons -106",
-    "result": "W",
-    "all_time_record": "169 - 98",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "10-06-26",
     "bet": "San Diego Padres -134\ufffc",
     "result": "W",
@@ -94,6 +84,16 @@
     "bet": "NFL Atlanta Falcons -172",
     "result": "L",
     "all_time_record": "173 - 103",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "10-12-26",
+    "bet": "NFL Los Angeles Rams -184",
+    "result": "L",
+    "all_time_record": "173 - 104",
     "price": null,
     "profit_units": null,
     "sport": null,
