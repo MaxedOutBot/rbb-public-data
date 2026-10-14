@@ -1,15 +1,5 @@
 [
   {
-    "date": "10-06-26",
-    "bet": "San Diego Padres -134\ufffc",
-    "result": "W",
-    "all_time_record": "170 - 98",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "10-07-26",
     "bet": "Milwaukee Brewers -104\ufffc",
     "result": "W",
@@ -94,6 +84,16 @@
     "bet": "NFL Los Angeles Rams -184",
     "result": "L",
     "all_time_record": "173 - 104",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "10-13-26",
+    "bet": "NHL St. Louis Blues -120\ufffc",
+    "result": "W",
+    "all_time_record": "174 - 104",
     "price": null,
     "profit_units": null,
     "sport": null,
