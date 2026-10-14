@@ -1,20 +1,20 @@
 {
   "active": true,
-  "date": "10-12-26",
-  "pick": "NFL Los Angeles Rams -184",
+  "date": "10-13-26",
+  "pick": "NHL St. Louis Blues -120",
   "owner_provenance": {
-    "publication_id": "OWN-116ca4d836f4cd5795d4",
+    "publication_id": "OWN-6da840974fa5c6ffb7f7",
     "kind": "OWNER_FREE_PLAY",
     "identity_state": "STRUCTURED",
-    "record_hash": "942fb5c980bccadd199339a00649428301c9aa6231113a3de240e6cd3e338f8a",
+    "record_hash": "69051501e829604187467adb7e41198b75e376c567c3dc37f3e5eb2771ff25f0",
     "flags": [
       "V13_NOT_EVALUATED"
     ]
   },
   "publication": {
-    "published_at_utc": "2026-10-13T02:20:50Z",
+    "published_at_utc": "2026-10-14T02:59:05Z",
     "published_at_basis": "time this sync wrote the public file",
-    "kickoff_utc": "2026-10-13T00:15Z",
+    "kickoff_utc": "2026-10-13T23:30Z",
     "posted_after_kickoff": true
   }
 }
