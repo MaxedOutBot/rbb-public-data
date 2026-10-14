@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-13",
-  "last_updated": "06:25 PM PT",
+  "date": "2026-10-14",
+  "last_updated": "02:36 PM PT",
   "premium_picks_count": 3,
   "no_games_today": false,
   "free_pick": {
-    "game": "Portland Trail Blazers @ Sacramento Kings",
-    "bet": "Portland Trail Blazers ML",
-    "tracker_label": "NBA Portland Trail Blazers -150",
+    "game": "Detroit Pistons @ Minnesota Timberwolves",
+    "bet": "Minnesota Timberwolves ML",
+    "tracker_label": "NBA Minnesota Timberwolves -176",
     "bet_type": "ML",
-    "odds": "-150",
+    "odds": "-176",
     "stars": null,
     "units_display": "0.5 Unit",
     "customer_reasons": [
-      "Top-rated play on this game on today's board"
+      "Best available play on today's board. It did not meet our full qualification standard, so treat it as a lower-confidence selection rather than a verified edge"
     ],
-    "commence_time": "2026-10-14T02:00Z",
+    "commence_time": "2026-10-15T00:00Z",
     "_featured": null,
     "result": null
   },
   "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
-    "eligible_games": 0,
-    "evaluated_games": 0,
+    "eligible_games": 12,
+    "evaluated_games": 12,
     "unevaluated_games": 0,
     "unevaluated_by_sport": {},
-    "started_games_excluded": 24
+    "started_games_excluded": 0
   }
 }
