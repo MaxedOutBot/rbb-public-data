@@ -2768,5 +2768,15 @@
     "profit_units": null,
     "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "10-13-26",
+    "bet": "NHL St. Louis Blues -120\ufffc",
+    "result": "W",
+    "all_time_record": "174 - 104",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
