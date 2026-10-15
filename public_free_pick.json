@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-14",
-  "last_updated": "05:10 PM PT",
-  "premium_picks_count": 3,
+  "date": "2026-10-15",
+  "last_updated": "02:18 PM PT",
+  "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
-    "game": "Detroit Pistons @ Minnesota Timberwolves",
-    "bet": "Minnesota Timberwolves ML",
-    "tracker_label": "NBA Minnesota Timberwolves -176",
+    "game": "New York Rangers @ New Jersey Devils",
+    "bet": "New Jersey Devils ML",
+    "tracker_label": "NHL New Jersey Devils -132",
     "bet_type": "ML",
-    "odds": "-176",
+    "odds": "-132",
     "stars": null,
     "units_display": "0.5 Unit",
     "customer_reasons": [
-      "The Manhattan Model's internal evaluation supported this selection."
+      "Top-rated play on this game on today's board"
     ],
-    "commence_time": "2026-10-15T00:00Z",
+    "commence_time": "2026-10-15T23:07Z",
     "_featured": null,
-    "result": "L"
+    "result": null
   },
   "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
-    "eligible_games": 0,
-    "evaluated_games": 0,
+    "eligible_games": 18,
+    "evaluated_games": 18,
     "unevaluated_games": 0,
     "unevaluated_by_sport": {},
-    "started_games_excluded": 12
+    "started_games_excluded": 1
   }
 }
