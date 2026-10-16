@@ -20,10 +20,10 @@
   },
   "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
-    "eligible_games": 18,
-    "evaluated_games": 18,
+    "eligible_games": 14,
+    "evaluated_games": 14,
     "unevaluated_games": 0,
     "unevaluated_by_sport": {},
-    "started_games_excluded": 0
+    "started_games_excluded": 4
   }
 }
