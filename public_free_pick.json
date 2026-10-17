@@ -1,29 +1,17 @@
 {
-  "date": "2026-10-16",
-  "last_updated": "03:35 PM PT",
-  "premium_picks_count": 1,
+  "date": "2026-10-17",
+  "last_updated": "October 17, 2026 11:01 AM PT",
+  "premium_picks_count": 0,
   "no_games_today": false,
-  "free_pick": {
-    "game": "Minnesota Timberwolves @ Chicago Bulls",
-    "bet": "Chicago Bulls ML",
-    "tracker_label": "NBA Chicago Bulls -180",
-    "bet_type": "ML",
-    "odds": "-180",
-    "stars": null,
-    "units_display": "0.5 Unit",
-    "customer_reasons": [
-      "Top-rated play on this game on today's board"
-    ],
-    "commence_time": "2026-10-17T00:00Z",
-    "_featured": null,
-    "result": null
-  },
-  "evaluation_status": "PICKS_PUBLISHED",
+  "free_pick": null,
+  "evaluation_status": "PARTIAL_DATA",
   "evaluation_coverage": {
-    "eligible_games": 0,
-    "evaluated_games": 0,
-    "unevaluated_games": 0,
-    "unevaluated_by_sport": {},
-    "started_games_excluded": 17
+    "eligible_games": 50,
+    "evaluated_games": 35,
+    "unevaluated_games": 15,
+    "unevaluated_by_sport": {
+      "NCAAF": 15
+    },
+    "started_games_excluded": 18
   }
 }
