@@ -1,16 +1,6 @@
 [
   {
     "date": "10-09-26",
-    "bet": "NHL Washington Capitals -150",
-    "result": "W",
-    "all_time_record": "172 - 99",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
-    "date": "10-09-26",
     "bet": "NCAAF Washington Huskies -150",
     "result": "L",
     "all_time_record": "172 - 100",
@@ -94,6 +84,16 @@
     "bet": "NHL New Jersey Devils -132",
     "result": "W",
     "all_time_record": "175 - 105",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "10-17-26",
+    "bet": "NCAAF Wisconsin Badgers -102",
+    "result": "L",
+    "all_time_record": "175 - 106",
     "price": null,
     "profit_units": null,
     "sport": null,
