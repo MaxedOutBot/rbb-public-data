@@ -4,14 +4,16 @@
   "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": null,
-  "evaluation_status": "PARTIAL_DATA",
+  "evaluation_status": "DATA_UNAVAILABLE",
   "evaluation_coverage": {
-    "eligible_games": 20,
-    "evaluated_games": 19,
-    "unevaluated_games": 1,
+    "eligible_games": 11,
+    "evaluated_games": 0,
+    "unevaluated_games": 11,
     "unevaluated_by_sport": {
-      "NCAAF": 1
+      "MLB": 1,
+      "NHL": 3,
+      "NCAAF": 7
     },
-    "started_games_excluded": 48
+    "started_games_excluded": 57
   }
 }
