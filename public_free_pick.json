@@ -21,9 +21,14 @@
   "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
     "eligible_games": 7,
-    "evaluated_games": 7,
-    "unevaluated_games": 0,
-    "unevaluated_by_sport": {},
+    "evaluated_games": 0,
+    "unevaluated_games": 7,
+    "unevaluated_by_sport": {
+      "NHL": 4,
+      "WNBA": 1,
+      "MLB": 1,
+      "NFL": 1
+    },
     "started_games_excluded": 0
   }
 }
