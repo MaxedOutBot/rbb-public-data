@@ -2808,5 +2808,15 @@
     "profit_units": null,
     "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "10-18-26",
+    "bet": "NFL Dallas Cowboys -115",
+    "result": "L",
+    "all_time_record": "175 - 107",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
