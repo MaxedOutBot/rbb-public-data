@@ -1,21 +1,21 @@
 {
   "date": "2026-10-20",
-  "last_updated": "01:09 PM PT",
+  "last_updated": "02:11 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
-    "game": "Boston Bruins @ Dallas Stars",
-    "bet": "Dallas Stars ML",
-    "tracker_label": "NHL Dallas Stars -164",
+    "game": "Toronto Maple Leafs @ CBJ Blue Jackets",
+    "bet": "CBJ Blue Jackets ML",
+    "tracker_label": "NHL CBJ Blue Jackets -166",
     "bet_type": "ML",
-    "odds": "-164",
+    "odds": "-166",
     "stars": null,
     "units_display": "0.5 Units",
     "customer_reasons": [
       "Top-rated play on this game on today's board",
       "Selected using the latest verified pregame market price."
     ],
-    "commence_time": "2026-10-21T00:10Z",
+    "commence_time": "2026-10-20T23:10Z",
     "_featured": null,
     "result": null
   },
