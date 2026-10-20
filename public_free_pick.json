@@ -1,32 +1,29 @@
 {
-  "date": "2026-10-20",
-  "last_updated": "10:45 AM PT",
+  "date": "2026-10-19",
+  "last_updated": "05:29 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
-    "game": "Boston Bruins @ Dallas Stars",
-    "bet": "Dallas Stars ML",
-    "tracker_label": "NHL Dallas Stars -166",
+    "game": "SJ Sharks @ Toronto Maple Leafs",
+    "bet": "Toronto Maple Leafs ML",
+    "tracker_label": "NHL Toronto Maple Leafs -134",
     "bet_type": "ML",
-    "odds": "-166",
+    "odds": "-134",
     "stars": null,
     "units_display": "0.5 Units",
     "customer_reasons": [
-      "Top-rated play on this game on today's board",
-      "Selected using the latest verified pregame market price."
+      "Top-rated play on this game on today's board"
     ],
-    "commence_time": "2026-10-21T00:10Z",
+    "commence_time": "2026-10-19T23:40Z",
     "_featured": null,
     "result": null
   },
   "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
-    "eligible_games": 17,
-    "evaluated_games": 16,
-    "unevaluated_games": 1,
-    "unevaluated_by_sport": {
-      "NCAAF": 1
-    },
-    "started_games_excluded": 0
+    "eligible_games": 0,
+    "evaluated_games": 0,
+    "unevaluated_games": 0,
+    "unevaluated_by_sport": {},
+    "started_games_excluded": 7
   }
 }
