@@ -21,9 +21,11 @@
   "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
     "eligible_games": 1,
-    "evaluated_games": 1,
-    "unevaluated_games": 0,
-    "unevaluated_by_sport": {},
+    "evaluated_games": 0,
+    "unevaluated_games": 1,
+    "unevaluated_by_sport": {
+      "NHL": 1
+    },
     "started_games_excluded": 6
   }
 }
