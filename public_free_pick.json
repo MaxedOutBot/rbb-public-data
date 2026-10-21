@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "last_updated": "04:50 PM PT",
+  "last_updated": "05:00 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
@@ -21,10 +21,10 @@
   },
   "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
-    "eligible_games": 7,
-    "evaluated_games": 7,
+    "eligible_games": 5,
+    "evaluated_games": 5,
     "unevaluated_games": 0,
     "unevaluated_by_sport": {},
-    "started_games_excluded": 10
+    "started_games_excluded": 12
   }
 }
