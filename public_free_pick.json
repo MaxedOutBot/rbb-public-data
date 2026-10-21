@@ -1,30 +1,15 @@
 {
   "date": "2026-10-20",
-  "last_updated": "06:05 PM PT",
+  "last_updated": "October 20, 2026 07:06 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
-  "free_pick": {
-    "game": "Detroit Red Wings @ Seattle Kraken",
-    "bet": "Seattle Kraken +1.5",
-    "tracker_label": "NHL Seattle Kraken +1.5",
-    "bet_type": "SPREAD",
-    "odds": "-260",
-    "stars": null,
-    "units_display": "0.5 Units",
-    "customer_reasons": [
-      "Top-rated play on this game on today's board",
-      "Selected using the latest verified pregame market price."
-    ],
-    "commence_time": "2026-10-21T01:45Z",
-    "_featured": null,
-    "result": null
-  },
-  "evaluation_status": "PICKS_PUBLISHED",
+  "free_pick": null,
+  "evaluation_status": "COMPLETE_NO_QUALIFIERS",
   "evaluation_coverage": {
-    "eligible_games": 4,
-    "evaluated_games": 4,
+    "eligible_games": 1,
+    "evaluated_games": 1,
     "unevaluated_games": 0,
     "unevaluated_by_sport": {},
-    "started_games_excluded": 13
+    "started_games_excluded": 16
   }
 }
