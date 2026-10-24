@@ -1,29 +1,30 @@
 {
-  "date": "2026-10-19",
-  "last_updated": "05:29 PM PT",
+  "date": "2026-10-24",
+  "last_updated": "02:59 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
-    "game": "SJ Sharks @ Toronto Maple Leafs",
-    "bet": "Toronto Maple Leafs ML",
-    "tracker_label": "NHL Toronto Maple Leafs -134",
-    "bet_type": "ML",
-    "odds": "-134",
+    "game": "Toronto Maple Leafs @ Edmonton Oilers",
+    "bet": "Under 6.5",
+    "tracker_label": "NHL Toronto Maple Leafs @ Edmonton Oilers Under 6.5 (+130)",
+    "bet_type": "UNDER",
+    "odds": "130",
     "stars": null,
-    "units_display": "0.5 Units",
+    "units_display": "0.5 Unit",
     "customer_reasons": [
-      "Top-rated play on this game on today's board"
+      "Top-rated play on this game on today's board",
+      "Selected using the latest verified pregame market price."
     ],
-    "commence_time": "2026-10-19T23:40Z",
+    "commence_time": "2026-10-24T23:08Z",
     "_featured": null,
     "result": null
   },
   "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
-    "eligible_games": 0,
-    "evaluated_games": 0,
+    "eligible_games": 31,
+    "evaluated_games": 31,
     "unevaluated_games": 0,
     "unevaluated_by_sport": {},
-    "started_games_excluded": 7
+    "started_games_excluded": 35
   }
 }
