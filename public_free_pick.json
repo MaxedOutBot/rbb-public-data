@@ -1,15 +1,29 @@
 {
-  "date": "2026-10-20",
-  "last_updated": "October 20, 2026 07:06 PM PT",
+  "date": "2026-10-19",
+  "last_updated": "05:29 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
-  "free_pick": null,
-  "evaluation_status": "COMPLETE_NO_QUALIFIERS",
+  "free_pick": {
+    "game": "SJ Sharks @ Toronto Maple Leafs",
+    "bet": "Toronto Maple Leafs ML",
+    "tracker_label": "NHL Toronto Maple Leafs -134",
+    "bet_type": "ML",
+    "odds": "-134",
+    "stars": null,
+    "units_display": "0.5 Units",
+    "customer_reasons": [
+      "Top-rated play on this game on today's board"
+    ],
+    "commence_time": "2026-10-19T23:40Z",
+    "_featured": null,
+    "result": null
+  },
+  "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
-    "eligible_games": 1,
-    "evaluated_games": 1,
+    "eligible_games": 0,
+    "evaluated_games": 0,
     "unevaluated_games": 0,
     "unevaluated_by_sport": {},
-    "started_games_excluded": 16
+    "started_games_excluded": 7
   }
 }
