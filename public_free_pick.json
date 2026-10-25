@@ -6,14 +6,12 @@
   "free_pick": null,
   "evaluation_status": "DATA_UNAVAILABLE",
   "evaluation_coverage": {
-    "eligible_games": 5,
+    "eligible_games": 1,
     "evaluated_games": 0,
-    "unevaluated_games": 5,
+    "unevaluated_games": 1,
     "unevaluated_by_sport": {
-      "NBA": 1,
-      "NHL": 2,
-      "NCAAF": 2
+      "NCAAF": 1
     },
-    "started_games_excluded": 61
+    "started_games_excluded": 65
   }
 }
