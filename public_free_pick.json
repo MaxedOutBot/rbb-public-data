@@ -1,15 +1,19 @@
 {
   "date": "2026-10-24",
-  "last_updated": "06:14 PM PT",
+  "last_updated": "06:05 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": null,
-  "evaluation_status": "COMPLETE_NO_QUALIFIERS",
+  "evaluation_status": "DATA_UNAVAILABLE",
   "evaluation_coverage": {
     "eligible_games": 5,
-    "evaluated_games": 5,
-    "unevaluated_games": 0,
-    "unevaluated_by_sport": {},
+    "evaluated_games": 0,
+    "unevaluated_games": 5,
+    "unevaluated_by_sport": {
+      "NBA": 1,
+      "NHL": 2,
+      "NCAAF": 2
+    },
     "started_games_excluded": 61
   }
 }
