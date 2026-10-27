@@ -1,25 +1,5 @@
 [
   {
-    "date": "10-12-26",
-    "bet": "NFL Los Angeles Rams -184",
-    "result": "L",
-    "all_time_record": "173 - 104",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
-    "date": "10-13-26",
-    "bet": "NHL St. Louis Blues -120",
-    "result": "W",
-    "all_time_record": "174 - 104",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "10-14-26",
     "bet": "NBA Minnesota Timberwolves -176",
     "result": "L",
@@ -94,6 +74,26 @@
     "bet": "NHL Toronto Maple Leafs @ Edmonton Oilers Under 6.5 (+130)",
     "result": "L",
     "all_time_record": "177 - 109",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "10-25-26",
+    "bet": "NBA Memphis Grizzlies -178",
+    "result": "W",
+    "all_time_record": "178 - 109",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "10-26-26",
+    "bet": "NFL Dallas Cowboys -4",
+    "result": "W",
+    "all_time_record": "179 - 109",
     "price": null,
     "profit_units": null,
     "sport": null,

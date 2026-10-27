@@ -2858,5 +2858,25 @@
     "profit_units": null,
     "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "10-25-26",
+    "bet": "NBA Memphis Grizzlies -178",
+    "result": "W",
+    "all_time_record": "178 - 109",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "10-26-26",
+    "bet": "NFL Dallas Cowboys -4",
+    "result": "W",
+    "all_time_record": "179 - 109",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
