@@ -17,14 +17,14 @@
     ],
     "commence_time": "2026-10-26T01:10Z",
     "_featured": null,
-    "result": null
+    "result": "W"
   },
   "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
-    "eligible_games": 15,
-    "evaluated_games": 15,
+    "eligible_games": 0,
+    "evaluated_games": 0,
     "unevaluated_games": 0,
     "unevaluated_by_sport": {},
-    "started_games_excluded": 9
+    "started_games_excluded": 24
   }
 }
