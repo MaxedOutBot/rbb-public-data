@@ -1,15 +1,5 @@
 [
   {
-    "date": "10-15-26",
-    "bet": "NHL New Jersey Devils -132",
-    "result": "W",
-    "all_time_record": "175 - 105",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "10-17-26",
     "bet": "NCAAF Wisconsin Badgers -102",
     "result": "L",
@@ -94,6 +84,16 @@
     "bet": "NBA Portland +108",
     "result": "W",
     "all_time_record": "180 - 109",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "10-28-26",
+    "bet": "NCAAF Kennesaw St -111",
+    "result": "W",
+    "all_time_record": "181 - 109",
     "price": null,
     "profit_units": null,
     "sport": null,
