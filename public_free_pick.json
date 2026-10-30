@@ -1,30 +1,26 @@
 {
-  "date": "2026-10-25",
-  "last_updated": "10:20 AM PT",
+  "date": "2026-10-29",
+  "last_updated": "5:08 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
-    "game": "Memphis Grizzlies @ Sacramento Kings",
-    "bet": "Memphis Grizzlies ML",
-    "tracker_label": "NBA Memphis Grizzlies -178",
-    "bet_type": "ML",
-    "odds": "-178",
+    "game": "Carolina Panthers @ Green Bay Packers",
+    "bet": "Green Bay Packers -3",
+    "tracker_label": "NFL Green Bay Packers -3",
+    "bet_type": "SPREAD",
+    "odds": null,
     "stars": null,
-    "units_display": "0.5 Units",
+    "units_display": null,
     "customer_reasons": [
-      "Top-rated play on this game on today's board",
-      "Selected using the latest verified pregame market price."
+      "Jordan Love leads the NFL with 30 completions of 20+ yards, giving Green Bay a downfield opportunity against Carolina's depleted secondary.",
+      "Carolina is missing starting RT Taylor Moton and G Damien Lewis, creating a protection disadvantage for Bryce Young on the short week."
     ],
-    "commence_time": "2026-10-26T01:10Z",
+    "commence_time": "2026-10-30T00:15:00Z",
     "_featured": null,
-    "result": "W"
+    "result": null,
+    "provenance": "OWNER_MANUAL",
+    "owner_override": true
   },
-  "evaluation_status": "PICKS_PUBLISHED",
-  "evaluation_coverage": {
-    "eligible_games": 0,
-    "evaluated_games": 0,
-    "unevaluated_games": 0,
-    "unevaluated_by_sport": {},
-    "started_games_excluded": 24
-  }
+  "evaluation_status": "UNVERIFIED",
+  "evaluation_evidence": "OWNER_MANUAL_SELECTION_NOT_MODEL_VALIDATED"
 }
