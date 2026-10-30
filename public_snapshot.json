@@ -1,16 +1,16 @@
 {
   "schema": "RBB_PUBLIC_SNAPSHOT_V1",
-  "version": "3bf676bef7fcf80d",
-  "generated_at_utc": "2026-10-29T17:46:24.083682+00:00",
-  "rows": 290,
-  "record": "181 - 109",
-  "record_sha256": "438a10e9150e490de91b8813d357db3aa1b10a1b5804f94dad31cd8c59fe8829",
-  "last10_sha256": "6a6e0baaff22ec3adb6824aac0acf16a57b3d0bbbc0562c8aab877658fe957c7",
-  "last10": "6-4",
+  "version": "160521991517ac9d",
+  "generated_at_utc": "2026-10-30T21:13:37.486285+00:00",
+  "rows": 291,
+  "record": "182 - 109",
+  "record_sha256": "0803022cfd9bb4b59d04f2c325a5837393b7b0e822549659066365aca9701f51",
+  "last10_sha256": "d25ce613605acc5eacc592077df1af635ab970ca258b34ac6fc707465ea6e0a4",
+  "last10": "7-3",
   "newest": {
-    "date": "10-28-26",
-    "bet": "NCAAF Kennesaw St -111",
+    "date": "10-29-26",
+    "bet": "NFL Green Bay Packers -3",
     "result": "W"
   },
-  "sheet_rows_sha256": "ab721b177104e339256f39b4f773226058368f7c711c6f2cd974a368a4813a03"
+  "sheet_rows_sha256": null
 }
