@@ -2908,5 +2908,15 @@
     "profit_units": null,
     "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "10-30-26",
+    "bet": "NBA Los Angeles Lakers ML -148",
+    "result": "L",
+    "all_time_record": "182 - 110",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
