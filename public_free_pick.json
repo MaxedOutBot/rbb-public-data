@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-29",
-  "last_updated": "5:08 PM PT",
+  "date": "2026-10-30",
+  "last_updated": "7:38 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
-    "game": "Carolina Panthers @ Green Bay Packers",
-    "bet": "Green Bay Packers -3",
-    "tracker_label": "NFL Green Bay Packers -3",
-    "bet_type": "SPREAD",
-    "odds": null,
+    "game": "Los Angeles Lakers @ Golden State Warriors",
+    "bet": "Los Angeles Lakers ML -148",
+    "tracker_label": "NBA Los Angeles Lakers ML -148",
+    "bet_type": "ML",
+    "odds": -148,
     "stars": null,
     "units_display": null,
     "customer_reasons": [
-      "Jordan Love leads the NFL with 30 completions of 20+ yards, giving Green Bay a downfield opportunity against Carolina's depleted secondary.",
-      "Carolina is missing starting RT Taylor Moton and G Damien Lewis, creating a protection disadvantage for Bryce Young on the short week."
+      "Luka Dončić’s High-Usage Advantage Against Golden State's Perimeter D — Dončić enters tonight averaging 36.0 PPG, 6.8 RPG, and 8.3 APG through the first five games. In the season opener against Golden State on October 21st, he systematically disassembled the Warriors' perimeter rotation, dropping 28 points, 8 rebounds, and 7 assists in a 127-105 blow-out win. Golden State is allowing 119.4 PPG on a 51.1% opponent FG%, leaving them without a clean individual match to slow Dončić down without double-teaming and over-rotating.",
+      "Interior Paint Dominance & Rim Protection Differential — The frontline pairing of Walker Kessler (averaging 8.2 RPG and 2.4 BPG) and Austin Reaves creates a stark matchup problem down low. In their previous matchup, the Lakers outscored the Warriors 66-56 in the paint and logged a heavy +10 total rebound differential. Golden State's lack of true vertical rim protection makes it difficult to contest high-percentage attempts at the rim while remaining home on shooters."
     ],
-    "commence_time": "2026-10-30T00:15:00Z",
+    "commence_time": null,
     "_featured": null,
-    "result": "W",
+    "result": null,
     "provenance": "OWNER_MANUAL",
     "owner_override": true
   },
