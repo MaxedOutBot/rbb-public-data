@@ -1,16 +1,16 @@
 {
   "schema": "RBB_PUBLIC_SNAPSHOT_V1",
-  "version": "160521991517ac9d",
-  "generated_at_utc": "2026-10-30T21:13:37.486285+00:00",
-  "rows": 291,
-  "record": "182 - 109",
-  "record_sha256": "0803022cfd9bb4b59d04f2c325a5837393b7b0e822549659066365aca9701f51",
-  "last10_sha256": "d25ce613605acc5eacc592077df1af635ab970ca258b34ac6fc707465ea6e0a4",
+  "version": "152100713dc881fd",
+  "generated_at_utc": "2026-10-31T17:32:56.632Z",
+  "rows": 292,
+  "record": "182 - 110",
+  "record_sha256": "cb0987ddca85b1f0b87684a85a1a517c2cd2c3a3d9236ed5b9b9a627fcc6ebdf",
+  "last10_sha256": "c82d89344cad6ece33a52aee7b68fac1c3dada1870eedb29d840d63bc5b3d000",
   "last10": "7-3",
   "newest": {
-    "date": "10-29-26",
-    "bet": "NFL Green Bay Packers -3",
-    "result": "W"
+    "date": "10-30-26",
+    "bet": "NBA Los Angeles Lakers ML -148",
+    "result": "L"
   },
   "sheet_rows_sha256": null
 }
