@@ -17,10 +17,7 @@
     ],
     "commence_time": "2026-10-31T23:30:00Z",
     "_featured": null,
-    "result": null,
-    "provenance": "OWNER_MANUAL",
-    "owner_override": true
+    "result": null
   },
-  "evaluation_status": "UNVERIFIED",
-  "evaluation_evidence": "OWNER_MANUAL_SELECTION_NOT_MODEL_VALIDATED"
+  "evaluation_status": "UNVERIFIED"
 }
