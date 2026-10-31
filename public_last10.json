@@ -1,15 +1,5 @@
 [
   {
-    "date": "10-18-26",
-    "bet": "NFL Dallas Cowboys -115",
-    "result": "L",
-    "all_time_record": "175 - 107",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "10-19-26",
     "bet": "NHL Toronto Maple Leafs -134",
     "result": "W",
@@ -94,6 +84,16 @@
     "bet": "NFL Green Bay Packers -3",
     "result": "W",
     "all_time_record": "182 - 109",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "10-30-26",
+    "bet": "NBA Los Angeles Lakers ML -148",
+    "result": "L",
+    "all_time_record": "182 - 110",
     "price": null,
     "profit_units": null,
     "sport": null,
