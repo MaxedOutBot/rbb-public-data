@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "last_updated": "12:48 PM PT",
+  "last_updated": "01:31 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
@@ -17,7 +17,7 @@
     ],
     "commence_time": "2026-11-01T18:00Z",
     "_featured": null,
-    "result": "W"
+    "result": null
   },
   "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
