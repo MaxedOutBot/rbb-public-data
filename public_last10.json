@@ -1,102 +1,102 @@
 [
   {
-    "date": "10-20-26",
-    "bet": "NHL Dallas Stars -170",
+    "date": "06-22-26",
+    "bet": "MLB Padres -112",
     "result": "W",
-    "all_time_record": "177 - 107",
+    "all_time_record": "102 - 66",
     "price": null,
     "profit_units": null,
     "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
+    "provenance": "HISTORICAL_VERIFIED_BASELINE"
   },
   {
-    "date": "10-23-26",
-    "bet": "NCAAF Virginia -2.5",
+    "date": "06-23-26",
+    "bet": "MLB San Francisco Giants -142",
+    "result": "W",
+    "all_time_record": "103 - 66",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "HISTORICAL_VERIFIED_BASELINE"
+  },
+  {
+    "date": "06-24-26",
+    "bet": "MLB San Francisco Giants -102",
+    "result": "W",
+    "all_time_record": "104 - 66",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "HISTORICAL_VERIFIED_BASELINE"
+  },
+  {
+    "date": "06-25-26",
+    "bet": "MLB Phillies & Nationals Over 8.5",
+    "result": "W",
+    "all_time_record": "105 - 66",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "HISTORICAL_VERIFIED_BASELINE"
+  },
+  {
+    "date": "06-27-26",
+    "bet": "MLB Washington Nationals +125",
+    "result": "W",
+    "all_time_record": "106 - 66",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "HISTORICAL_VERIFIED_BASELINE"
+  },
+  {
+    "date": "06-28-26",
+    "bet": "MLB New York Yankees -104",
     "result": "L",
-    "all_time_record": "177 - 108",
+    "all_time_record": "106 - 67",
     "price": null,
     "profit_units": null,
     "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
+    "provenance": "HISTORICAL_VERIFIED_BASELINE"
   },
   {
-    "date": "10-24-26",
-    "bet": "NHL Toronto Maple Leafs @ Edmonton Oilers Under 6.5 (+130)",
+    "date": "06-30-26",
+    "bet": "MLB Texas Rangers -126",
+    "result": "W",
+    "all_time_record": "107 - 67",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "HISTORICAL_VERIFIED_BASELINE"
+  },
+  {
+    "date": "07-01-26",
+    "bet": "MLB Houston Astros -138",
     "result": "L",
-    "all_time_record": "177 - 109",
+    "all_time_record": "107 - 68",
     "price": null,
     "profit_units": null,
     "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
+    "provenance": "HISTORICAL_VERIFIED_BASELINE"
   },
   {
-    "date": "10-25-26",
-    "bet": "NBA Memphis Grizzlies -178",
-    "result": "W",
-    "all_time_record": "178 - 109",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
-    "date": "10-26-26",
-    "bet": "NFL Dallas Cowboys -4",
-    "result": "W",
-    "all_time_record": "179 - 109",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
-    "date": "10-27-26",
-    "bet": "NBA Portland +108",
-    "result": "W",
-    "all_time_record": "180 - 109",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
-    "date": "10-28-26",
-    "bet": "NCAAF Kennesaw St -111",
-    "result": "W",
-    "all_time_record": "181 - 109",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
-    "date": "10-29-26",
-    "bet": "NFL Green Bay Packers -3",
-    "result": "W",
-    "all_time_record": "182 - 109",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
-    "date": "10-30-26",
-    "bet": "NBA Los Angeles Lakers ML -148",
+    "date": "07-02-26",
+    "bet": "MLB Detroit Tigers -108",
     "result": "L",
-    "all_time_record": "182 - 110",
+    "all_time_record": "107 - 69",
     "price": null,
     "profit_units": null,
     "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
+    "provenance": "HISTORICAL_VERIFIED_BASELINE"
   },
   {
-    "date": "10-31-26",
-    "bet": "NCAAF Ohio State -6.5",
-    "result": "L",
-    "all_time_record": "182 - 111",
+    "date": "07-04-26",
+    "bet": "MLB Baltimore Orioles +108",
+    "result": "W",
+    "all_time_record": "108 - 69",
     "price": null,
     "profit_units": null,
     "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
+    "provenance": "HISTORICAL_VERIFIED_BASELINE"
   }
 ]
