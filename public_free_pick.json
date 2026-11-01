@@ -1,23 +1,30 @@
 {
   "date": "2026-10-31",
-  "last_updated": "1:55 PM PT",
+  "last_updated": "05:08 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
-    "game": "Ohio State Buckeyes @ USC Trojans",
-    "bet": "Ohio State -6.5",
-    "tracker_label": "NCAAF Ohio State -6.5",
+    "game": "Oregon State @ Fresno State",
+    "bet": "Fresno State +6.5",
+    "tracker_label": "NCAAF Fresno State +6.5",
     "bet_type": "SPREAD",
-    "odds": null,
+    "odds": "-124",
     "stars": null,
-    "units_display": null,
+    "units_display": "0.5 Units",
     "customer_reasons": [
-      "USC allowed five sacks and finished with negative rushing yardage against Wisconsin, exposing a potential protection mismatch against Ohio State.",
-      "Ohio State has a strong historical record following bye weeks under Ryan Day, giving the Buckeyes an additional preparation advantage."
+      "Top-rated play on this game on today's board",
+      "Selected using the latest verified pregame market price."
     ],
-    "commence_time": "2026-10-31T23:30:00Z",
+    "commence_time": "2026-11-01T03:00Z",
     "_featured": null,
     "result": null
   },
-  "evaluation_status": "UNVERIFIED"
+  "evaluation_status": "PICKS_PUBLISHED",
+  "evaluation_coverage": {
+    "eligible_games": 5,
+    "evaluated_games": 5,
+    "unevaluated_games": 0,
+    "unevaluated_by_sport": {},
+    "started_games_excluded": 60
+  }
 }
