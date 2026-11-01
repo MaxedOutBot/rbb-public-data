@@ -1,23 +1,32 @@
 {
-  "date": "2026-10-31",
-  "last_updated": "1:55 PM PT",
+  "date": "2026-11-01",
+  "last_updated": "05:20 AM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
-    "game": "Ohio State Buckeyes @ USC Trojans",
-    "bet": "Ohio State -6.5",
-    "tracker_label": "NCAAF Ohio State -6.5",
-    "bet_type": "SPREAD",
-    "odds": null,
+    "game": "Minnesota Vikings @ Detroit Lions",
+    "bet": "Detroit Lions ML",
+    "tracker_label": "NFL Detroit Lions -176",
+    "bet_type": "ML",
+    "odds": "-176",
     "stars": null,
-    "units_display": null,
+    "units_display": "0.5 Units",
     "customer_reasons": [
-      "USC allowed five sacks and finished with negative rushing yardage against Wisconsin, exposing a potential protection mismatch against Ohio State.",
-      "Ohio State has a strong historical record following bye weeks under Ryan Day, giving the Buckeyes an additional preparation advantage."
+      "Top-rated play on this game on today's board",
+      "Selected using the latest verified pregame market price."
     ],
-    "commence_time": "2026-10-31T23:30:00Z",
+    "commence_time": "2026-11-01T18:00Z",
     "_featured": null,
     "result": null
   },
-  "evaluation_status": "UNVERIFIED"
+  "evaluation_status": "PICKS_PUBLISHED",
+  "evaluation_coverage": {
+    "eligible_games": 23,
+    "evaluated_games": 21,
+    "unevaluated_games": 2,
+    "unevaluated_by_sport": {
+      "NCAAB": 2
+    },
+    "started_games_excluded": 0
+  }
 }
