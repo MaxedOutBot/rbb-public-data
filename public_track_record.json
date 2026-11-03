@@ -2938,5 +2938,15 @@
     "profit_units": null,
     "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-02-26",
+    "bet": "NFL Chicago Bears +154",
+    "result": "W",
+    "all_time_record": "184 - 111",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
