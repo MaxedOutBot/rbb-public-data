@@ -1,9 +1,24 @@
 {
   "date": "2026-11-03",
-  "last_updated": "November 03, 2026 12:55 AM PT",
+  "last_updated": "03:03 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
-  "free_pick": null,
+  "free_pick": {
+    "game": "Edmonton Oilers @ NJ Devils",
+    "bet": "NJ Devils ML",
+    "tracker_label": "NHL NJ Devils -162",
+    "bet_type": "ML",
+    "odds": "-162",
+    "stars": null,
+    "units_display": "0.5 Unit",
+    "customer_reasons": [
+      "Top-rated play on this game on today's board",
+      "Selected using the latest verified pregame market price."
+    ],
+    "commence_time": "2026-11-04T00:40Z",
+    "_featured": null,
+    "result": null
+  },
   "evaluation_status": "COMPLETE_NO_QUALIFIERS",
   "evaluation_coverage": {
     "eligible_games": 17,
