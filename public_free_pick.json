@@ -1,31 +1,16 @@
 {
-  "date": "2026-11-02",
-  "last_updated": "06:51 PM PT",
-  "premium_picks_count": 4,
+  "date": "2026-11-03",
+  "last_updated": "November 03, 2026 12:55 AM PT",
+  "premium_picks_count": 0,
   "no_games_today": false,
-  "free_pick": {
-    "game": "Chicago Bears @ Seattle Seahawks",
-    "bet": "Seattle Seahawks ML",
-    "tracker_label": "NFL Seattle Seahawks -180",
-    "bet_type": "ML",
-    "odds": "-180",
-    "stars": null,
-    "units_display": "0.5 Unit",
-    "customer_reasons": [
-      "Top-rated play on this game on today's board",
-      "Selected using the latest verified pregame market price."
-    ],
-    "commence_time": "2026-11-03T01:16Z",
-    "_featured": null,
-    "result": null
-  },
-  "evaluation_status": "PICKS_PUBLISHED",
+  "free_pick": null,
+  "evaluation_status": "COMPLETE_NO_QUALIFIERS",
   "evaluation_coverage": {
-    "eligible_games": 0,
-    "evaluated_games": 0,
+    "eligible_games": 18,
+    "evaluated_games": 18,
     "unevaluated_games": 0,
     "unevaluated_by_sport": {},
     "unevaluated_reasons": {},
-    "started_games_excluded": 38
+    "started_games_excluded": 0
   }
 }
