@@ -94,8 +94,8 @@
     "bet": "NFL Chicago Bears +154",
     "result": "W",
     "all_time_record": "184 - 111",
-    "price": null,
-    "profit_units": null,
+    "price": 154,
+    "profit_units": 1.54,
     "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
   }
