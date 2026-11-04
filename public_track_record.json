@@ -2948,5 +2948,15 @@
     "profit_units": 1.54,
     "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-03-26",
+    "bet": "NHL NJ Devils -162",
+    "result": "W",
+    "all_time_record": "185 - 111",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
