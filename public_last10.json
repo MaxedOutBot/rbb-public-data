@@ -1,25 +1,5 @@
 [
   {
-    "date": "10-25-26",
-    "bet": "NBA Memphis Grizzlies -178",
-    "result": "W",
-    "all_time_record": "178 - 109",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
-    "date": "10-26-26",
-    "bet": "NFL Dallas Cowboys -4",
-    "result": "W",
-    "all_time_record": "179 - 109",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "10-27-26",
     "bet": "NBA Portland +108",
     "result": "W",
@@ -97,6 +77,26 @@
     "price": null,
     "profit_units": null,
     "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-04-26",
+    "bet": "NHL Calgary Flames +108",
+    "result": "L",
+    "all_time_record": "185 - 112",
+    "price": 108,
+    "profit_units": -1,
+    "sport": "NHL",
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-05-26",
+    "bet": "NCAAM Towson +8.5",
+    "result": "L",
+    "all_time_record": "185 - 113",
+    "price": null,
+    "profit_units": null,
+    "sport": "NCAAM",
     "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
