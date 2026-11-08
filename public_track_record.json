@@ -2978,5 +2978,15 @@
     "profit_units": null,
     "sport": "NCAAM",
     "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-06-26",
+    "bet": "NCAAM Boston University ML +106",
+    "result": "W",
+    "all_time_record": "186 - 113",
+    "price": 106,
+    "profit_units": 1.06,
+    "sport": "NCAAM",
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
