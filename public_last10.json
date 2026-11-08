@@ -1,15 +1,5 @@
 [
   {
-    "date": "10-27-26",
-    "bet": "NBA Portland +108",
-    "result": "W",
-    "all_time_record": "180 - 109",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "10-28-26",
     "bet": "NCAAF Kennesaw St -111",
     "result": "W",
@@ -96,6 +86,16 @@
     "all_time_record": "185 - 113",
     "price": null,
     "profit_units": null,
+    "sport": "NCAAM",
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-06-26",
+    "bet": "NCAAM Boston University ML +106",
+    "result": "W",
+    "all_time_record": "186 - 113",
+    "price": 106,
+    "profit_units": 1.06,
     "sport": "NCAAM",
     "provenance": "LEGACY_GOOGLE_SHEET"
   }
