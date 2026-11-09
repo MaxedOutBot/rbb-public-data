@@ -1,15 +1,5 @@
 [
   {
-    "date": "10-28-26",
-    "bet": "NCAAF Kennesaw St -111",
-    "result": "W",
-    "all_time_record": "181 - 109",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "10-29-26",
     "bet": "NFL Green Bay Packers -3",
     "result": "W",
@@ -97,6 +87,16 @@
     "price": 106,
     "profit_units": 1.06,
     "sport": "NCAAM",
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-07-26",
+    "bet": "NCAAF Utah State ML -111",
+    "result": "W",
+    "all_time_record": "187 - 113",
+    "price": -111,
+    "profit_units": 0.9009,
+    "sport": "NCAAF",
     "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
