@@ -2676,8 +2676,8 @@
     "all_time_record": "170 - 98",
     "price": null,
     "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
+    "sport": "MLB",
+    "provenance": "OWNER_CONFIRMED_LEGACY_MIGRATION_2026-11-09"
   },
   {
     "date": "10-07-26",
@@ -2686,8 +2686,8 @@
     "all_time_record": "171 - 98",
     "price": null,
     "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
+    "sport": "MLB",
+    "provenance": "OWNER_CONFIRMED_LEGACY_MIGRATION_2026-11-09"
   },
   {
     "date": "10-08-26",
@@ -2998,5 +2998,16 @@
     "profit_units": 0.9009,
     "sport": "NCAAF",
     "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-08-26",
+    "bet": "NFL Tampa Bay Buccaneers +6.5",
+    "result": "W",
+    "all_time_record": "188 - 113",
+    "price": null,
+    "profit_units": null,
+    "sport": "NFL",
+    "provenance": "OWNER_AUTHORIZED_GOOGLE_SHEET_GRADE",
+    "publication_id": "OWN-20261108-TB-CHI-SP-6.5"
   }
 ]
