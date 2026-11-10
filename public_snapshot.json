@@ -1,16 +1,16 @@
 {
   "schema": "RBB_PUBLIC_SNAPSHOT_V1",
-  "version": "152100713dc881fd",
-  "generated_at_utc": "2026-10-31T17:32:56.632Z",
-  "rows": 292,
-  "record": "182 - 110",
-  "record_sha256": "cb0987ddca85b1f0b87684a85a1a517c2cd2c3a3d9236ed5b9b9a627fcc6ebdf",
-  "last10_sha256": "c82d89344cad6ece33a52aee7b68fac1c3dada1870eedb29d840d63bc5b3d000",
-  "last10": "7-3",
+  "version": "2b749db4d299a699",
+  "generated_at_utc": "2026-11-10T01:06:08.186Z",
+  "rows": 301,
+  "record": "188 - 113",
+  "record_sha256": "945b446f51d497c0becb9e3be35079ac360b1da4c3e5f973d912604bf41555b6",
+  "last10_sha256": "ae7904090d2bfab1c8a989476679ca619b9124a1c3a73e5745d5cd3a9c4dc60f",
+  "last10": "6-4",
   "newest": {
-    "date": "10-30-26",
-    "bet": "NBA Los Angeles Lakers ML -148",
-    "result": "L"
+    "date": "11-08-26",
+    "bet": "NFL Tampa Bay Buccaneers +6.5",
+    "result": "W"
   },
   "sheet_rows_sha256": null
 }
