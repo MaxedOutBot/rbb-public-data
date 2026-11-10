@@ -1,15 +1,5 @@
 [
   {
-    "date": "10-30-26",
-    "bet": "NBA Los Angeles Lakers ML -148",
-    "result": "L",
-    "all_time_record": "182 - 110",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "10-31-26",
     "bet": "NCAAF Ohio State -6.5",
     "result": "L",
@@ -54,9 +44,9 @@
     "bet": "NHL Calgary Flames +108",
     "result": "L",
     "all_time_record": "185 - 112",
-    "price": 108,
-    "profit_units": -1,
-    "sport": "NHL",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
   },
   {
@@ -66,7 +56,7 @@
     "all_time_record": "185 - 113",
     "price": null,
     "profit_units": null,
-    "sport": "NCAAM",
+    "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
   },
   {
@@ -74,9 +64,9 @@
     "bet": "NCAAM Boston University ML +106",
     "result": "W",
     "all_time_record": "186 - 113",
-    "price": 106,
-    "profit_units": 1.06,
-    "sport": "NCAAM",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
   },
   {
@@ -84,9 +74,9 @@
     "bet": "NCAAF Utah State ML -111",
     "result": "W",
     "all_time_record": "187 - 113",
-    "price": -111,
-    "profit_units": 0.9009,
-    "sport": "NCAAF",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
   },
   {
@@ -96,9 +86,17 @@
     "all_time_record": "188 - 113",
     "price": null,
     "profit_units": null,
-    "sport": "NFL",
-    "provenance": "LEGACY_GOOGLE_SHEET",
-    "publication_id": "OWN-20261108-TB-CHI-SP-6.5",
-    "grade_provenance": "OFFICIAL_FINAL_BUCCANEERS_24_BEARS_27_COVERED_PLUS_6_5"
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-09-26",
+    "bet": "NFL Minnesota Vikings ML +160",
+    "result": "L",
+    "all_time_record": null,
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
