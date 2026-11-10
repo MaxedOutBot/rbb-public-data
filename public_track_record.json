@@ -2677,7 +2677,8 @@
     "price": null,
     "profit_units": null,
     "sport": "MLB",
-    "provenance": "OWNER_CONFIRMED_LEGACY_MIGRATION_2026-11-09"
+    "provenance": "LEGACY_GOOGLE_SHEET",
+    "sport_provenance": "OWNER_CONFIRMED_LEGACY_MIGRATION_2026-11-09"
   },
   {
     "date": "10-07-26",
@@ -2687,7 +2688,8 @@
     "price": null,
     "profit_units": null,
     "sport": "MLB",
-    "provenance": "OWNER_CONFIRMED_LEGACY_MIGRATION_2026-11-09"
+    "provenance": "LEGACY_GOOGLE_SHEET",
+    "sport_provenance": "OWNER_CONFIRMED_LEGACY_MIGRATION_2026-11-09"
   },
   {
     "date": "10-08-26",
@@ -3007,7 +3009,8 @@
     "price": null,
     "profit_units": null,
     "sport": "NFL",
-    "provenance": "OWNER_AUTHORIZED_GOOGLE_SHEET_GRADE",
-    "publication_id": "OWN-20261108-TB-CHI-SP-6.5"
+    "provenance": "LEGACY_GOOGLE_SHEET",
+    "publication_id": "OWN-20261108-TB-CHI-SP-6.5",
+    "grade_provenance": "OFFICIAL_FINAL_BUCCANEERS_24_BEARS_27_COVERED_PLUS_6_5"
   }
 ]
