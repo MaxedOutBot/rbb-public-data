@@ -3272,8 +3272,9 @@
     "all_time_record": "185 - 113",
     "price": null,
     "profit_units": null,
-    "sport": "NCAAM",
-    "provenance": "LEGACY_GOOGLE_SHEET"
+    "sport": "NCAAB",
+    "provenance": "LEGACY_GOOGLE_SHEET",
+    "sport_provenance": "LEGACY_NCAAM_TO_NCAAB_MIGRATION_2026-11-09"
   },
   {
     "date": "11-06-26",
@@ -3282,8 +3283,9 @@
     "all_time_record": "186 - 113",
     "price": 106,
     "profit_units": 1.06,
-    "sport": "NCAAM",
-    "provenance": "LEGACY_GOOGLE_SHEET"
+    "sport": "NCAAB",
+    "provenance": "LEGACY_GOOGLE_SHEET",
+    "sport_provenance": "LEGACY_NCAAM_TO_NCAAB_MIGRATION_2026-11-09"
   },
   {
     "date": "11-07-26",
