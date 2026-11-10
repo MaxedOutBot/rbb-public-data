@@ -1,21 +1,23 @@
 {
-  "date": "2026-11-08",
-  "last_updated": "November 08, 2026 07:00 PM PT",
+  "date": "2026-11-09",
+  "last_updated": "November 09, 2026 05:06 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
-    "game": "Tampa Bay Buccaneers at Chicago Bears",
-    "bet": "Tampa Bay Buccaneers +6.5",
-    "bet_type": "SPREAD",
-    "odds": null,
+    "game": "Buffalo Bills at Minnesota Vikings",
+    "bet": "Minnesota Vikings ML +160",
+    "bet_type": "MONEYLINE",
+    "odds": 160,
     "stars": null,
     "units_display": null,
     "customer_reasons": [
-      "Chicago is on short rest; Tampa Bay gets +6.5.",
-      "Tampa Bay leads the NFL with 168.6 rushing yards per game."
+      "Minnesota allows an NFL-low 13.3 points per game.",
+      "Buffalo allows 254.7 passing yards per game, ranking 30th."
     ],
-    "commence_time": "2026-11-09T01:20:00Z",
+    "commence_time": "2026-11-10T01:15:00Z",
     "_featured": null,
-    "result": null
+    "result": null,
+    "publication_id": "OWN-20261109-MIN-BUF-ML-160",
+    "sport": "NFL"
   }
 }
