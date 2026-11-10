@@ -1,10 +1,10 @@
 {
   "schema": "RBB_PUBLIC_SNAPSHOT_V1",
-  "version": "c16cff8a49f8d17f",
-  "generated_at_utc": "2026-11-10T01:06:08.186Z",
+  "version": "455a2d8608614557",
+  "generated_at_utc": "2026-11-10T01:13:42.515Z",
   "rows": 301,
   "record": "188 - 113",
-  "record_sha256": "12d0bfb004d8be8f4130c6074892a44ae0015f5493adacc1ae1e859bf6c3a05e",
+  "record_sha256": "455a2d8608614557833d8cbee4e06ae9872b898cbf53e73e277cee084b3418c2",
   "last10_sha256": "74ab8013aa76036e3abe392594fd33486d8646febe41e11e6a2ff2a80e99a4e3",
   "last10": "6-4",
   "newest": {
