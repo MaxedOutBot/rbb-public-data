@@ -1,19 +1,34 @@
 {
   "date": "2026-11-10",
-  "last_updated": "November 10, 2026 08:26 AM PT",
-  "premium_picks_count": 0,
+  "last_updated": "03:04 PM PT",
+  "premium_picks_count": 2,
   "no_games_today": false,
-  "free_pick": null,
-  "evaluation_status": "PARTIAL_DATA",
+  "free_pick": {
+    "game": "Virginia Tech @ Iowa",
+    "bet": "Iowa ML",
+    "tracker_label": "NCAAM Iowa -176",
+    "bet_type": "ML",
+    "odds": "-176",
+    "stars": null,
+    "units_display": "0.5 Unit",
+    "customer_reasons": [
+      "Top-rated play on this game on today's board",
+      "Selected using the latest verified pregame market price."
+    ],
+    "commence_time": "2026-11-11T00:00Z",
+    "_featured": null,
+    "result": null
+  },
+  "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
     "eligible_games": 84,
-    "evaluated_games": 69,
-    "unevaluated_games": 15,
+    "evaluated_games": 68,
+    "unevaluated_games": 16,
     "unevaluated_by_sport": {
-      "NCAAB": 15
+      "NCAAB": 16
     },
     "unevaluated_reasons": {
-      "ODDS_UNAVAILABLE": 15
+      "ODDS_UNAVAILABLE": 16
     },
     "started_games_excluded": 1
   }
