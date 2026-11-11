@@ -3018,5 +3018,15 @@
     "profit_units": null,
     "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-10-26",
+    "bet": "NCAAM Iowa -176",
+    "result": "W",
+    "all_time_record": "189 - 114",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
