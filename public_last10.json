@@ -1,15 +1,5 @@
 [
   {
-    "date": "10-31-26",
-    "bet": "NCAAF Ohio State -6.5",
-    "result": "L",
-    "all_time_record": "182 - 111",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "11-01-26",
     "bet": "NFL Detroit Lions -178",
     "result": "W",
@@ -94,6 +84,16 @@
     "bet": "NFL Minnesota Vikings ML +160",
     "result": "L",
     "all_time_record": null,
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-10-26",
+    "bet": "NCAAM Iowa -176",
+    "result": "W",
+    "all_time_record": "189 - 114",
     "price": null,
     "profit_units": null,
     "sport": null,
