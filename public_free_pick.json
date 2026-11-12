@@ -1,19 +1,34 @@
 {
   "date": "2026-11-12",
-  "last_updated": "November 12, 2026 07:08 AM PT",
+  "last_updated": "03:04 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
-  "free_pick": null,
+  "free_pick": {
+    "game": "Minnesota Wild @ Toronto Maple Leafs",
+    "bet": "Toronto Maple Leafs +1.5",
+    "tracker_label": "NHL Toronto Maple Leafs +1.5",
+    "bet_type": "SPREAD",
+    "odds": "-160",
+    "stars": null,
+    "units_display": "0.5 Unit",
+    "customer_reasons": [
+      "Top-rated play on this game on today's board",
+      "Selected using the latest verified pregame market price."
+    ],
+    "commence_time": "2026-11-13T00:00Z",
+    "_featured": null,
+    "result": null
+  },
   "evaluation_status": "PARTIAL_DATA",
   "evaluation_coverage": {
     "eligible_games": 42,
-    "evaluated_games": 36,
-    "unevaluated_games": 6,
+    "evaluated_games": 35,
+    "unevaluated_games": 7,
     "unevaluated_by_sport": {
-      "NCAAB": 6
+      "NCAAB": 7
     },
     "unevaluated_reasons": {
-      "ODDS_UNAVAILABLE": 6
+      "ODDS_UNAVAILABLE": 7
     },
     "started_games_excluded": 5
   }
