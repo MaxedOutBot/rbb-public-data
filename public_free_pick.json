@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "last_updated": "November 12, 2026 01:03 AM PT",
+  "last_updated": "November 12, 2026 07:08 AM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": null,
@@ -13,8 +13,7 @@
       "NCAAB": 10
     },
     "unevaluated_reasons": {
-      "ODDS_UNAVAILABLE": 9,
-      "AWAITING_RELEASE_WINDOW": 1
+      "ODDS_UNAVAILABLE": 10
     },
     "started_games_excluded": 0
   }
