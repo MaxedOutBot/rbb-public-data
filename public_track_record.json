@@ -3028,5 +3028,15 @@
     "profit_units": null,
     "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-11-26",
+    "bet": "NBA Denver Nuggets -168",
+    "result": "W",
+    "all_time_record": "190 - 114",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
