@@ -1291,7 +1291,7 @@
   },
   {
     "date": "05-14-26",
-    "bet": "NHL Montr\u00e9al Canadiens",
+    "bet": "NHL Montréal Canadiens",
     "result": "W",
     "all_time_record": "79 - 51",
     "price": null,
@@ -1331,7 +1331,7 @@
   },
   {
     "date": "05-18-26",
-    "bet": "NHL Montr\u00e9al Canadiens",
+    "bet": "NHL Montréal Canadiens",
     "result": "W",
     "all_time_record": "80 - 54",
     "price": null,
@@ -3022,8 +3022,8 @@
   {
     "date": "11-10-26",
     "bet": "NCAAM Iowa -176",
-    "result": "W",
-    "all_time_record": "189 - 114",
+    "result": "L",
+    "all_time_record": "188 - 115",
     "price": null,
     "profit_units": null,
     "sport": null,
@@ -3033,7 +3033,7 @@
     "date": "11-11-26",
     "bet": "NBA Denver Nuggets -168",
     "result": "W",
-    "all_time_record": "190 - 114",
+    "all_time_record": "189 - 115",
     "price": null,
     "profit_units": null,
     "sport": null,
