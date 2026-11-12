@@ -29,7 +29,7 @@
     },
     "unevaluated_reasons": {
       "ODDS_UNAVAILABLE": 1,
-      "AWAITING_RELEASE_WINDOW": 1
+      "EVALUATION_MISSING": 1
     },
     "started_games_excluded": 67
   }
