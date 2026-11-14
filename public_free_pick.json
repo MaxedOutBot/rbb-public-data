@@ -1,13 +1,28 @@
 {
   "date": "2026-11-14",
-  "last_updated": "November 14, 2026 08:24 AM PT",
-  "premium_picks_count": 0,
+  "last_updated": "02:29 PM PT",
+  "premium_picks_count": 1,
   "no_games_today": false,
-  "free_pick": null,
-  "evaluation_status": "PARTIAL_DATA",
+  "free_pick": {
+    "game": "West Georgia @ Charleston Southern",
+    "bet": "Charleston Southern ML",
+    "tracker_label": "NCAAM Charleston Southern -178",
+    "bet_type": "ML",
+    "odds": "-178",
+    "stars": null,
+    "units_display": "0.5 Unit",
+    "customer_reasons": [
+      "Top-rated play on this game on today's board",
+      "Selected using the latest verified pregame market price."
+    ],
+    "commence_time": "2026-11-15T00:00Z",
+    "_featured": null,
+    "result": null
+  },
+  "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
-    "eligible_games": 73,
-    "evaluated_games": 66,
+    "eligible_games": 71,
+    "evaluated_games": 64,
     "unevaluated_games": 7,
     "unevaluated_by_sport": {
       "NCAAB": 7
@@ -15,6 +30,6 @@
     "unevaluated_reasons": {
       "ODDS_UNAVAILABLE": 7
     },
-    "started_games_excluded": 73
+    "started_games_excluded": 75
   }
 }
