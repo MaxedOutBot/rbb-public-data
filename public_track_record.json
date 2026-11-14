@@ -3038,5 +3038,15 @@
     "profit_units": null,
     "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-12-26",
+    "bet": "NHL Toronto Maple Leafs +1.5",
+    "result": "L",
+    "all_time_record": "189 - 116",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
