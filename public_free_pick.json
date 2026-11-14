@@ -6,11 +6,11 @@
   "free_pick": null,
   "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
-    "eligible_games": 3,
-    "evaluated_games": 3,
+    "eligible_games": 0,
+    "evaluated_games": 0,
     "unevaluated_games": 0,
     "unevaluated_by_sport": {},
     "unevaluated_reasons": {},
-    "started_games_excluded": 72
+    "started_games_excluded": 75
   }
 }
