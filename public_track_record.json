@@ -3048,5 +3048,15 @@
     "profit_units": null,
     "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-13-26",
+    "bet": "NCAAF Colorado Buffaloes +8",
+    "result": "W",
+    "all_time_record": "190 - 116",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
