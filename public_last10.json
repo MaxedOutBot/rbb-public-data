@@ -1,15 +1,5 @@
 [
   {
-    "date": "11-03-26",
-    "bet": "NHL NJ Devils -162",
-    "result": "W",
-    "all_time_record": "185 - 111",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "11-04-26",
     "bet": "NHL Calgary Flames +108",
     "result": "L",
@@ -94,6 +84,16 @@
     "bet": "NHL Toronto Maple Leafs +1.5",
     "result": "L",
     "all_time_record": "189 - 116",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-13-26",
+    "bet": "NCAAF Colorado Buffaloes +8",
+    "result": "W",
+    "all_time_record": "190 - 116",
     "price": null,
     "profit_units": null,
     "sport": null,
