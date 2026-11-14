@@ -1,15 +1,5 @@
 [
   {
-    "date": "11-02-26",
-    "bet": "NFL Chicago Bears +154",
-    "result": "W",
-    "all_time_record": "184 - 111",
-    "price": 154,
-    "profit_units": 1.54,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "11-03-26",
     "bet": "NHL NJ Devils -162",
     "result": "W",
@@ -94,6 +84,16 @@
     "bet": "NBA Denver Nuggets -168",
     "result": "W",
     "all_time_record": "189 - 115",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-12-26",
+    "bet": "NHL Toronto Maple Leafs +1.5",
+    "result": "L",
+    "all_time_record": "189 - 116",
     "price": null,
     "profit_units": null,
     "sport": null,
