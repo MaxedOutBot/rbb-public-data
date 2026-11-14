@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
-  "last_updated": "02:29 PM PT",
-  "premium_picks_count": 1,
+  "last_updated": "02:53 PM PT",
+  "premium_picks_count": 4,
   "no_games_today": false,
   "free_pick": {
     "game": "West Georgia @ Charleston Southern",
@@ -21,15 +21,15 @@
   },
   "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
-    "eligible_games": 71,
-    "evaluated_games": 64,
-    "unevaluated_games": 7,
+    "eligible_games": 63,
+    "evaluated_games": 58,
+    "unevaluated_games": 5,
     "unevaluated_by_sport": {
-      "NCAAB": 7
+      "NCAAB": 5
     },
     "unevaluated_reasons": {
-      "ODDS_UNAVAILABLE": 7
+      "ODDS_UNAVAILABLE": 5
     },
-    "started_games_excluded": 75
+    "started_games_excluded": 83
   }
 }
