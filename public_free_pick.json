@@ -6,16 +6,15 @@
   "free_pick": null,
   "evaluation_status": "PARTIAL_DATA",
   "evaluation_coverage": {
-    "eligible_games": 77,
-    "evaluated_games": 69,
-    "unevaluated_games": 8,
+    "eligible_games": 73,
+    "evaluated_games": 66,
+    "unevaluated_games": 7,
     "unevaluated_by_sport": {
-      "NCAAB": 7,
-      "NCAAF": 1
+      "NCAAB": 7
     },
     "unevaluated_reasons": {
-      "ODDS_UNAVAILABLE": 8
+      "ODDS_UNAVAILABLE": 7
     },
-    "started_games_excluded": 69
+    "started_games_excluded": 73
   }
 }
