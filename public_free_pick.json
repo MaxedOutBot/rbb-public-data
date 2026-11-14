@@ -1,20 +1,20 @@
 {
   "date": "2026-11-14",
-  "last_updated": "November 14, 2026 12:25 AM PT",
+  "last_updated": "November 14, 2026 06:09 AM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": null,
   "evaluation_status": "PARTIAL_DATA",
   "evaluation_coverage": {
     "eligible_games": 146,
-    "evaluated_games": 86,
-    "unevaluated_games": 60,
+    "evaluated_games": 89,
+    "unevaluated_games": 57,
     "unevaluated_by_sport": {
-      "NCAAB": 19,
+      "NCAAB": 16,
       "NCAAF": 41
     },
     "unevaluated_reasons": {
-      "ODDS_UNAVAILABLE": 60
+      "ODDS_UNAVAILABLE": 57
     },
     "started_games_excluded": 0
   }
