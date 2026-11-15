@@ -3058,5 +3058,15 @@
     "profit_units": null,
     "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-14-26",
+    "bet": "NCAAF Kentucky Wildcats -156",
+    "result": "L",
+    "all_time_record": "190 - 117",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
