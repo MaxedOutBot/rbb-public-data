@@ -21,15 +21,15 @@
   },
   "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
-    "eligible_games": 61,
-    "evaluated_games": 56,
-    "unevaluated_games": 5,
+    "eligible_games": 35,
+    "evaluated_games": 32,
+    "unevaluated_games": 3,
     "unevaluated_by_sport": {
-      "NCAAB": 5
+      "NCAAB": 3
     },
     "unevaluated_reasons": {
-      "ODDS_UNAVAILABLE": 5
+      "ODDS_UNAVAILABLE": 3
     },
-    "started_games_excluded": 85
+    "started_games_excluded": 111
   }
 }
