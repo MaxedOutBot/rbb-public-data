@@ -21,15 +21,15 @@
   },
   "evaluation_status": "PARTIAL_DATA",
   "evaluation_coverage": {
-    "eligible_games": 70,
+    "eligible_games": 68,
     "evaluated_games": 59,
-    "unevaluated_games": 11,
+    "unevaluated_games": 9,
     "unevaluated_by_sport": {
-      "NCAAB": 11
+      "NCAAB": 9
     },
     "unevaluated_reasons": {
-      "ODDS_UNAVAILABLE": 11
+      "ODDS_UNAVAILABLE": 9
     },
-    "started_games_excluded": 1
+    "started_games_excluded": 3
   }
 }
