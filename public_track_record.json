@@ -3068,5 +3068,15 @@
     "profit_units": null,
     "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-15-26",
+    "bet": "NFL Green Bay Packers -146",
+    "result": "L",
+    "all_time_record": "190 - 118",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
