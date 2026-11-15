@@ -1,9 +1,24 @@
 {
   "date": "2026-11-15",
-  "last_updated": "November 15, 2026 07:09 AM PT",
+  "last_updated": "08:34 AM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
-  "free_pick": null,
+  "free_pick": {
+    "game": "Minnesota Vikings @ Green Bay Packers",
+    "bet": "Green Bay Packers ML",
+    "tracker_label": "NFL Green Bay Packers -146",
+    "bet_type": "ML",
+    "odds": "-146",
+    "stars": null,
+    "units_display": "0.5 Unit",
+    "customer_reasons": [
+      "Top-rated play on this game on today's board",
+      "Selected using the latest verified pregame market price."
+    ],
+    "commence_time": "2026-11-15T18:00Z",
+    "_featured": null,
+    "result": null
+  },
   "evaluation_status": "PARTIAL_DATA",
   "evaluation_coverage": {
     "eligible_games": 70,
