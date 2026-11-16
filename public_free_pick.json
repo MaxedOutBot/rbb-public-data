@@ -1,19 +1,34 @@
 {
   "date": "2026-11-16",
-  "last_updated": "November 16, 2026 08:04 AM PT",
-  "premium_picks_count": 0,
+  "last_updated": "03:04 PM PT",
+  "premium_picks_count": 2,
   "no_games_today": false,
-  "free_pick": null,
-  "evaluation_status": "PARTIAL_DATA",
+  "free_pick": {
+    "game": "Houston Rockets @ Miami Heat",
+    "bet": "Houston Rockets ML",
+    "tracker_label": "NBA Houston Rockets -130",
+    "bet_type": "ML",
+    "odds": "-130",
+    "stars": null,
+    "units_display": "0.5 Unit",
+    "customer_reasons": [
+      "Top-rated play on this game on today's board",
+      "Selected using the latest verified pregame market price."
+    ],
+    "commence_time": "2026-11-17T00:30Z",
+    "_featured": null,
+    "result": null
+  },
+  "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
     "eligible_games": 38,
-    "evaluated_games": 29,
-    "unevaluated_games": 9,
+    "evaluated_games": 30,
+    "unevaluated_games": 8,
     "unevaluated_by_sport": {
-      "NCAAB": 9
+      "NCAAB": 8
     },
     "unevaluated_reasons": {
-      "ODDS_UNAVAILABLE": 9
+      "ODDS_UNAVAILABLE": 8
     },
     "started_games_excluded": 6
   }
