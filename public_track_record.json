@@ -3078,5 +3078,15 @@
     "profit_units": null,
     "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-16-26",
+    "bet": "NBA Houston Rockets -130",
+    "result": "L",
+    "all_time_record": "190 - 119",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
