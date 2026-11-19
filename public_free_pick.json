@@ -7,11 +7,11 @@
     "bet": "NCAAB Arizona Wildcats ML -166 vs Connecticut",
     "odds": -166,
     "sport": "NCAAB",
-    "reasons": [
+    "commence_time": "2026-11-19T02:00:00Z",
+    "game": "Connecticut Huskies @ Arizona Wildcats",
+    "customer_reasons": [
       "Arizona has won its last four home games against AP Top 5 teams.",
       "Krivas averages 17 points, nine rebounds and 2.5 blocks per game."
-    ],
-    "commence_time": "2026-11-19T02:00:00Z",
-    "game": "Connecticut Huskies @ Arizona Wildcats"
+    ]
   }
 }
