@@ -3097,16 +3097,6 @@
     "price": -126,
     "profit_units": 0.7936507936507936,
     "sport": "NCAAB",
-    "provenance": "OWNER_GOOGLE_SHEET_VERIFIED_FINAL"
-  },
-  {
-    "date": "11-18-26",
-    "bet": "NCAAB Arizona Wildcats ML -166 vs Connecticut",
-    "result": null,
-    "all_time_record": "191 - 119",
-    "price": -166,
-    "profit_units": null,
-    "sport": "NCAAB",
-    "provenance": "OWNER_GOOGLE_SHEET"
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
