@@ -1,16 +1,1 @@
-{
-  "schema": "RBB_PUBLIC_SNAPSHOT_V1",
-  "version": "455a2d8608614557",
-  "generated_at_utc": "2026-11-10T01:13:42.515Z",
-  "rows": 301,
-  "record": "188 - 113",
-  "record_sha256": "455a2d8608614557833d8cbee4e06ae9872b898cbf53e73e277cee084b3418c2",
-  "last10_sha256": "74ab8013aa76036e3abe392594fd33486d8646febe41e11e6a2ff2a80e99a4e3",
-  "last10": "6-4",
-  "newest": {
-    "date": "11-08-26",
-    "bet": "NFL Tampa Bay Buccaneers +6.5",
-    "result": "W"
-  },
-  "sheet_rows_sha256": null
-}
+{"schema": "RBB_PUBLIC_SNAPSHOT_V1", "version": "66368d463f144c18", "generated_at_utc": "2026-11-19T00:31:49.105164+00:00", "rows": 311, "record": "191 - 119", "record_sha256": "66368d463f144c18aabc6e5a828622da484e9b628443c35b0aa2fbf8e42a5faf", "last10_sha256": "961334e9c72f97c416f6c22ae342e050cde5dbdb2fed38f2a05beb5e6d73aba9", "last10": "4-6", "newest": {"date": "11-17-26", "bet": "NCAAM Indiana Hoosiers ML -126", "result": "W"}, "sheet_rows_sha256": null}
