@@ -1,20 +1,15 @@
 {
-  "date": "2026-11-17",
-  "last_updated": "November 17, 2026 08:04 AM PT",
+  "date": "2026-11-18",
+  "last_updated": "November 18, 2026 04:32 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
-  "free_pick": null,
-  "evaluation_status": "PARTIAL_DATA",
-  "evaluation_coverage": {
-    "eligible_games": 84,
-    "evaluated_games": 68,
-    "unevaluated_games": 16,
-    "unevaluated_by_sport": {
-      "NCAAB": 16
-    },
-    "unevaluated_reasons": {
-      "ODDS_UNAVAILABLE": 16
-    },
-    "started_games_excluded": 3
+  "free_pick": {
+    "bet": "NCAAB Arizona Wildcats ML -166 vs Connecticut",
+    "odds": -166,
+    "sport": "NCAAB",
+    "reasons": [
+      "Arizona has won its last four home games against AP Top 5 teams.",
+      "Krivas averages 17 points, nine rebounds and 2.5 blocks per game."
+    ]
   }
 }
