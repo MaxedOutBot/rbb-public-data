@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-17",
-  "last_updated": "November 17, 2026 08:04 AM PT",
+  "date": "2026-11-18",
+  "last_updated": "November 18, 2026 07:03 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": null,
-  "evaluation_status": "NO_REMAINING_GAMES",
+  "evaluation_status": "COMPLETE_NO_QUALIFIERS",
   "evaluation_coverage": {
-    "eligible_games": 0,
-    "evaluated_games": 0,
+    "eligible_games": 1,
+    "evaluated_games": 1,
     "unevaluated_games": 0,
     "unevaluated_by_sport": {},
     "unevaluated_reasons": {},
