@@ -3098,5 +3098,15 @@
     "profit_units": null,
     "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-18-26",
+    "bet": "NCAAM Arizona Wildcats ML -166 vs Connecticut",
+    "result": "W",
+    "all_time_record": "192 - 119",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
