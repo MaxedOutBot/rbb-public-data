@@ -1,15 +1,5 @@
 [
   {
-    "date": "11-08-26",
-    "bet": "NFL Tampa Bay Buccaneers +6.5",
-    "result": "W",
-    "all_time_record": "188 - 113",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "11-09-26",
     "bet": "NFL Minnesota Vikings ML +160",
     "result": "L",
@@ -94,6 +84,16 @@
     "bet": "NCAAM Indiana Hoosiers ML -126",
     "result": "W",
     "all_time_record": "191 - 119",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-18-26",
+    "bet": "NCAAM Arizona Wildcats ML -166 vs Connecticut",
+    "result": "W",
+    "all_time_record": "192 - 119",
     "price": null,
     "profit_units": null,
     "sport": null,
