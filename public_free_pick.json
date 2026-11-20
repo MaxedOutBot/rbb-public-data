@@ -1,19 +1,34 @@
 {
   "date": "2026-11-19",
-  "last_updated": "November 19, 2026 01:45 AM PT",
+  "last_updated": "05:37 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
-  "free_pick": null,
+  "free_pick": {
+    "game": "Dallas Stars @ VGK Golden Knights",
+    "bet": "VGK Golden Knights ML",
+    "tracker_label": "NHL VGK Golden Knights -125",
+    "bet_type": "ML",
+    "odds": "-125",
+    "stars": null,
+    "units_display": "0.5 Unit",
+    "customer_reasons": [
+      "Top-rated play on this game on today's board",
+      "Selected using the latest verified pregame market price."
+    ],
+    "commence_time": "2026-11-20T03:00Z",
+    "_featured": null,
+    "result": null
+  },
   "evaluation_status": "PARTIAL_DATA",
   "evaluation_coverage": {
     "eligible_games": 14,
-    "evaluated_games": 13,
-    "unevaluated_games": 1,
+    "evaluated_games": 12,
+    "unevaluated_games": 2,
     "unevaluated_by_sport": {
-      "NCAAB": 1
+      "NCAAB": 2
     },
     "unevaluated_reasons": {
-      "ODDS_UNAVAILABLE": 1
+      "ODDS_UNAVAILABLE": 2
     },
     "started_games_excluded": 40
   }
