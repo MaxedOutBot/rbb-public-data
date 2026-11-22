@@ -3108,5 +3108,15 @@
     "profit_units": null,
     "sport": null,
     "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-19-26",
+    "bet": "NCAAF Temple Owls ML -142 vs Rice",
+    "result": "L",
+    "all_time_record": "192 - 120",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
