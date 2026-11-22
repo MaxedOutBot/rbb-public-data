@@ -1,15 +1,5 @@
 [
   {
-    "date": "11-09-26",
-    "bet": "NFL Minnesota Vikings ML +160",
-    "result": "L",
-    "all_time_record": "188 - 114",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "11-10-26",
     "bet": "NCAAM Iowa -176",
     "result": "L",
@@ -94,6 +84,16 @@
     "bet": "NCAAM Arizona Wildcats ML -166 vs Connecticut",
     "result": "W",
     "all_time_record": "192 - 119",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-19-26",
+    "bet": "NCAAF Temple Owls ML -142 vs Rice",
+    "result": "L",
+    "all_time_record": "192 - 120",
     "price": null,
     "profit_units": null,
     "sport": null,
