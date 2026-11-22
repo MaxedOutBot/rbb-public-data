@@ -1,102 +1,102 @@
 [
   {
-    "date": "06-22-26",
-    "bet": "MLB Padres -112",
-    "result": "W",
-    "all_time_record": "102 - 66",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "HISTORICAL_VERIFIED_BASELINE"
-  },
-  {
-    "date": "06-23-26",
-    "bet": "MLB San Francisco Giants -142",
-    "result": "W",
-    "all_time_record": "103 - 66",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "HISTORICAL_VERIFIED_BASELINE"
-  },
-  {
-    "date": "06-24-26",
-    "bet": "MLB San Francisco Giants -102",
-    "result": "W",
-    "all_time_record": "104 - 66",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "HISTORICAL_VERIFIED_BASELINE"
-  },
-  {
-    "date": "06-25-26",
-    "bet": "MLB Phillies & Nationals Over 8.5",
-    "result": "W",
-    "all_time_record": "105 - 66",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "HISTORICAL_VERIFIED_BASELINE"
-  },
-  {
-    "date": "06-27-26",
-    "bet": "MLB Washington Nationals +125",
-    "result": "W",
-    "all_time_record": "106 - 66",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "HISTORICAL_VERIFIED_BASELINE"
-  },
-  {
-    "date": "06-28-26",
-    "bet": "MLB New York Yankees -104",
+    "date": "11-10-26",
+    "bet": "NCAAM Iowa -176",
     "result": "L",
-    "all_time_record": "106 - 67",
+    "all_time_record": "189 - 115",
     "price": null,
     "profit_units": null,
     "sport": null,
-    "provenance": "HISTORICAL_VERIFIED_BASELINE"
+    "provenance": "LEGACY_GOOGLE_SHEET"
   },
   {
-    "date": "06-30-26",
-    "bet": "MLB Texas Rangers -126",
+    "date": "11-11-26",
+    "bet": "NBA Denver Nuggets -168",
     "result": "W",
-    "all_time_record": "107 - 67",
+    "all_time_record": "190 - 115",
     "price": null,
     "profit_units": null,
     "sport": null,
-    "provenance": "HISTORICAL_VERIFIED_BASELINE"
+    "provenance": "LEGACY_GOOGLE_SHEET"
   },
   {
-    "date": "07-01-26",
-    "bet": "MLB Houston Astros -138",
+    "date": "11-12-26",
+    "bet": "NHL Toronto Maple Leafs +1.5",
     "result": "L",
-    "all_time_record": "107 - 68",
+    "all_time_record": "190 - 116",
     "price": null,
     "profit_units": null,
     "sport": null,
-    "provenance": "HISTORICAL_VERIFIED_BASELINE"
+    "provenance": "LEGACY_GOOGLE_SHEET"
   },
   {
-    "date": "07-02-26",
-    "bet": "MLB Detroit Tigers -108",
-    "result": "L",
-    "all_time_record": "107 - 69",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "HISTORICAL_VERIFIED_BASELINE"
-  },
-  {
-    "date": "07-04-26",
-    "bet": "MLB Baltimore Orioles +108",
+    "date": "11-13-26",
+    "bet": "NCAAF Colorado Buffaloes +8",
     "result": "W",
-    "all_time_record": "108 - 69",
+    "all_time_record": "191 - 116",
     "price": null,
     "profit_units": null,
     "sport": null,
-    "provenance": "HISTORICAL_VERIFIED_BASELINE"
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-14-26",
+    "bet": "NCAAF Kentucky Wildcats -156",
+    "result": "L",
+    "all_time_record": "191 - 117",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-15-26",
+    "bet": "NFL Green Bay Packers -146",
+    "result": "L",
+    "all_time_record": "191 - 118",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-16-26",
+    "bet": "NBA Houston Rockets -130",
+    "result": "L",
+    "all_time_record": "191 - 119",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-17-26",
+    "bet": "NCAAM Indiana Hoosiers ML -126",
+    "result": "W",
+    "all_time_record": "192 - 119",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-18-26",
+    "bet": "NCAAM Arizona Wildcats ML -166 vs Connecticut",
+    "result": "W",
+    "all_time_record": "193 - 119",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-19-26",
+    "bet": "NCAAF Temple Owls ML -142 vs Rice",
+    "result": "L",
+    "all_time_record": "193 - 120",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
   }
 ]
