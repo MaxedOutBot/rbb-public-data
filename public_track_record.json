@@ -3130,10 +3130,20 @@
     "provenance": "LEGACY_GOOGLE_SHEET"
   },
   {
+    "date": "11-21-26",
+    "bet": "NCAAF UNLV Rebels -6.5 at San Jose State",
+    "result": "L",
+    "all_time_record": "193 - 121",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
     "date": "11-22-26",
     "bet": "NCAAM Canisius -152",
     "result": "L",
-    "all_time_record": "193 - 121",
+    "all_time_record": "193 - 122",
     "price": null,
     "profit_units": null,
     "sport": null,
