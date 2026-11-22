@@ -1,15 +1,5 @@
 [
   {
-    "date": "11-10-26",
-    "bet": "NCAAM Iowa -176",
-    "result": "L",
-    "all_time_record": "189 - 115",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "11-11-26",
     "bet": "NBA Denver Nuggets -168",
     "result": "W",
@@ -94,6 +84,16 @@
     "bet": "NCAAF Temple Owls ML -142 vs Rice",
     "result": "L",
     "all_time_record": "193 - 120",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-22-26",
+    "bet": "NCAAM Canisius -152",
+    "result": "L",
+    "all_time_record": "193 - 121",
     "price": null,
     "profit_units": null,
     "sport": null,
