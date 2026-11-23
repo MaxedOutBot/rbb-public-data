@@ -1,32 +1,35 @@
 {
-  "date": "2026-11-22",
-  "last_updated": "03:13 PM PT",
-  "premium_picks_count": 4,
+  "date": "2026-11-23",
+  "last_updated": "03:24 PM PT",
+  "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
-    "game": "Western Illinois @ Canisius",
-    "bet": "Canisius ML",
-    "tracker_label": "NCAAM Canisius -152",
-    "bet_type": "ML",
-    "odds": "-152",
+    "game": "Anaheim Ducks @ Seattle Kraken",
+    "bet": "Anaheim Ducks +1.5",
+    "tracker_label": "NHL Anaheim Ducks +1.5",
+    "bet_type": "SPREAD",
+    "odds": "-265",
     "stars": null,
-    "units_display": null,
-    "customer_reasons": null,
-    "commence_time": "2026-11-22T18:00Z",
+    "units_display": "0.5 Unit",
+    "customer_reasons": [
+      "Top-rated play on this game on today's board",
+      "Selected using the latest verified pregame market price."
+    ],
+    "commence_time": "2026-11-24T02:40Z",
     "_featured": null,
     "result": null
   },
-  "evaluation_status": "PICKS_PUBLISHED",
+  "evaluation_status": "PARTIAL_DATA",
   "evaluation_coverage": {
-    "eligible_games": 17,
-    "evaluated_games": 16,
-    "unevaluated_games": 1,
+    "eligible_games": 46,
+    "evaluated_games": 33,
+    "unevaluated_games": 13,
     "unevaluated_by_sport": {
-      "NCAAB": 1
+      "NCAAB": 13
     },
     "unevaluated_reasons": {
-      "ODDS_UNAVAILABLE": 1
+      "ODDS_UNAVAILABLE": 13
     },
-    "started_games_excluded": 48
+    "started_games_excluded": 18
   }
 }
