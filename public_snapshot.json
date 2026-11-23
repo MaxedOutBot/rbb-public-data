@@ -1,1 +1,19 @@
-{"schema": "RBB_PUBLIC_SNAPSHOT_V1", "version": "4f3a11d180d65259", "generated_at_utc": "2026-11-19T00:35:58.010790+00:00", "rows": 310, "record": "191 - 119", "record_sha256": "4f3a11d180d65259854ab634a67713b4311afa4865dfffadf2178a8b8fd798d9", "last10_sha256": "9c63463149d8b9439c1e70497d5a9ea3529edab52750e756c0da50e4bf8b6bd2", "last10": "4-6", "newest": {"date": "11-17-26", "bet": "NCAAM Indiana Hoosiers ML -126", "result": "W"}, "sheet_rows_sha256": null}
+{
+  "schema": "RBB_PUBLIC_SNAPSHOT_V1",
+  "version": "9502f661b5b9cfc3",
+  "generated_at_utc": "2026-11-23T00:01:47.711122+00:00",
+  "rows": 315,
+  "record": "193 - 122",
+  "record_sha256": "9502f661b5b9cfc3c202ee2d4b6e7d74bbdb638db430957220cc286e070d260b",
+  "last10_sha256": "f4db9dd0d104137c40973755776a4a8cd00fe6a75dc85a4e80c51fbaaa45a156",
+  "last10": "3-7",
+  "newest": {
+    "date": "11-22-26",
+    "bet": "NCAAM Canisius -152",
+    "result": "L"
+  },
+  "derived_from": [
+    "public_track_record.json",
+    "public_last10.json"
+  ]
+}
