@@ -1,7 +1,7 @@
 {
   "date": "2026-11-24",
-  "last_updated": null,
-  "premium_picks_count": null,
+  "last_updated": "02:04 PM PT",
+  "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
     "game": "Samford @ Georgia Tech",
@@ -15,5 +15,18 @@
     "commence_time": "2026-11-25T00:00Z",
     "_featured": null,
     "result": null
+  },
+  "evaluation_status": "PARTIAL_DATA",
+  "evaluation_coverage": {
+    "eligible_games": 73,
+    "evaluated_games": 53,
+    "unevaluated_games": 20,
+    "unevaluated_by_sport": {
+      "NCAAB": 20
+    },
+    "unevaluated_reasons": {
+      "ODDS_UNAVAILABLE": 20
+    },
+    "started_games_excluded": 20
   }
 }
