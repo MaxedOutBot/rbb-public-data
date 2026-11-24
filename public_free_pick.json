@@ -16,13 +16,13 @@
     "_featured": null,
     "result": null
   },
-  "evaluation_status": "COMPLETE_NO_QUALIFIERS",
+  "evaluation_status": "NO_REMAINING_GAMES",
   "evaluation_coverage": {
-    "eligible_games": 1,
-    "evaluated_games": 1,
+    "eligible_games": 0,
+    "evaluated_games": 0,
     "unevaluated_games": 0,
     "unevaluated_by_sport": {},
     "unevaluated_reasons": {},
-    "started_games_excluded": 63
+    "started_games_excluded": 64
   }
 }
