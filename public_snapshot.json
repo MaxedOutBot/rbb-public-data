@@ -1,15 +1,15 @@
 {
   "schema": "RBB_PUBLIC_SNAPSHOT_V1",
-  "version": "9502f661b5b9cfc3",
-  "generated_at_utc": "2026-11-24T07:02:00.133553+00:00",
-  "rows": 315,
-  "record": "193 - 122",
-  "record_sha256": "9502f661b5b9cfc3c202ee2d4b6e7d74bbdb638db430957220cc286e070d260b",
-  "last10_sha256": "f4db9dd0d104137c40973755776a4a8cd00fe6a75dc85a4e80c51fbaaa45a156",
+  "version": "f4c827d35af28d6b",
+  "generated_at_utc": "2026-11-24T07:32:03.474335+00:00",
+  "rows": 316,
+  "record": "193 - 123",
+  "record_sha256": "f4c827d35af28d6bec3fb5e3759a59b40e85db51075f7e8df35a32b59415828b",
+  "last10_sha256": "e47a8d8230b4575d1689e62b707da17b56dde171bdc19a1769b2ab2e7b41b66d",
   "last10": "3-7",
   "newest": {
-    "date": "11-22-26",
-    "bet": "NCAAM Canisius -152",
+    "date": "11-23-26",
+    "bet": "NCAAM UC San Diego ML -132",
     "result": "L"
   },
   "derived_from": [
