@@ -1,7 +1,7 @@
 {
   "date": "2026-11-23",
-  "last_updated": null,
-  "premium_picks_count": null,
+  "last_updated": "04:04 PM PT",
+  "premium_picks_count": 0,
   "no_games_today": false,
   "free_pick": {
     "game": "Anaheim Ducks @ Seattle Kraken",
@@ -15,5 +15,18 @@
     "commence_time": "2026-11-24T02:40Z",
     "_featured": null,
     "result": null
+  },
+  "evaluation_status": "PARTIAL_DATA",
+  "evaluation_coverage": {
+    "eligible_games": 31,
+    "evaluated_games": 25,
+    "unevaluated_games": 6,
+    "unevaluated_by_sport": {
+      "NCAAB": 6
+    },
+    "unevaluated_reasons": {
+      "ODDS_UNAVAILABLE": 6
+    },
+    "started_games_excluded": 33
   }
 }
