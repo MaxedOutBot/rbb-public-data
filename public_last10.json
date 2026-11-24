@@ -1,15 +1,5 @@
 [
   {
-    "date": "11-12-26",
-    "bet": "NHL Toronto Maple Leafs +1.5",
-    "result": "L",
-    "all_time_record": "190 - 116",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "11-13-26",
     "bet": "NCAAF Colorado Buffaloes +8",
     "result": "W",
@@ -94,6 +84,16 @@
     "bet": "NCAAM Canisius -152",
     "result": "L",
     "all_time_record": "193 - 122",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-23-26",
+    "bet": "NCAAM UC San Diego ML -132",
+    "result": "L",
+    "all_time_record": null,
     "price": null,
     "profit_units": null,
     "sport": null,
