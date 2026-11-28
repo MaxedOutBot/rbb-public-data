@@ -1,32 +1,16 @@
 {
-  "date": "2026-11-24",
-  "last_updated": "02:04 PM PT",
+  "date": "2026-11-23",
+  "last_updated": "06:38 PM PT",
   "premium_picks_count": 0,
   "no_games_today": false,
-  "free_pick": {
-    "game": "Samford @ Georgia Tech",
-    "bet": "Samford ML",
-    "tracker_label": "NCAAM Samford +430",
-    "bet_type": "ML",
-    "odds": "430",
-    "stars": null,
-    "units_display": null,
-    "customer_reasons": null,
-    "commence_time": "2026-11-25T00:00Z",
-    "_featured": null,
-    "result": null
-  },
-  "evaluation_status": "PARTIAL_DATA",
+  "free_pick": null,
+  "evaluation_status": "NO_REMAINING_GAMES",
   "evaluation_coverage": {
-    "eligible_games": 73,
-    "evaluated_games": 53,
-    "unevaluated_games": 20,
-    "unevaluated_by_sport": {
-      "NCAAB": 20
-    },
-    "unevaluated_reasons": {
-      "ODDS_UNAVAILABLE": 20
-    },
-    "started_games_excluded": 20
+    "eligible_games": 0,
+    "evaluated_games": 0,
+    "unevaluated_games": 0,
+    "unevaluated_by_sport": {},
+    "unevaluated_reasons": {},
+    "started_games_excluded": 64
   }
 }
