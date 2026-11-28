@@ -1,15 +1,5 @@
 [
   {
-    "date": "11-13-26",
-    "bet": "NCAAF Colorado Buffaloes +8",
-    "result": "W",
-    "all_time_record": "191 - 116",
-    "price": null,
-    "profit_units": null,
-    "sport": null,
-    "provenance": "LEGACY_GOOGLE_SHEET"
-  },
-  {
     "date": "11-14-26",
     "bet": "NCAAF Kentucky Wildcats -156",
     "result": "L",
@@ -93,7 +83,17 @@
     "date": "11-23-26",
     "bet": "NCAAM UC San Diego ML -132",
     "result": "L",
-    "all_time_record": null,
+    "all_time_record": "193 - 123",
+    "price": null,
+    "profit_units": null,
+    "sport": null,
+    "provenance": "LEGACY_GOOGLE_SHEET"
+  },
+  {
+    "date": "11-24-26",
+    "bet": "NCAAM Samford +430",
+    "result": "W",
+    "all_time_record": "194 - 123",
     "price": null,
     "profit_units": null,
     "sport": null,
