@@ -1,16 +1,22 @@
 {
-  "date": "2026-11-23",
-  "last_updated": "06:38 PM PT",
-  "premium_picks_count": 0,
+  "date": "2026-11-28",
+  "last_updated": "08:46 AM PT",
+  "premium_picks_count": 2,
   "no_games_today": false,
   "free_pick": null,
-  "evaluation_status": "NO_REMAINING_GAMES",
+  "evaluation_status": "PICKS_PUBLISHED",
   "evaluation_coverage": {
-    "eligible_games": 0,
-    "evaluated_games": 0,
-    "unevaluated_games": 0,
-    "unevaluated_by_sport": {},
-    "unevaluated_reasons": {},
-    "started_games_excluded": 64
+    "eligible_games": 147,
+    "evaluated_games": 113,
+    "unevaluated_games": 34,
+    "unevaluated_by_sport": {
+      "NCAAB": 34
+    },
+    "unevaluated_reasons": {
+      "ODDS_UNAVAILABLE": 32,
+      "EVALUATION_MISSING": 1,
+      "AWAITING_RELEASE_WINDOW": 1
+    },
+    "started_games_excluded": 0
   }
 }
